@@ -44,5 +44,6 @@ export default tseslint.config({
         message: "Use the typesafe env object instead of process.env directly",
       },
     ],
+    "require-yield": "off",
   },
 })

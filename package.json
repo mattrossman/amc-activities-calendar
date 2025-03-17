@@ -22,7 +22,11 @@
     "node": "^23.0.0"
   },
   "dependencies": {
+    "@effect/platform": "^0.79.2",
+    "@effect/platform-node": "^0.75.2",
     "dotenv": "^16.4.7",
+    "effect": "^3.13.11",
+    "playwright": "^1.51.0",
     "zod": "^3.24.1"
   }
 }
