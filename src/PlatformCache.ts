@@ -25,38 +25,37 @@ export const cachedKeyValueStore: {
   2,
   <A, I, E, R>(
     self: Effect.Effect<A, E, R>,
-    options: CachedKeyValueStoreOptions<A, I>
+    { key, schema, onCacheHit, onCacheMiss }: CachedKeyValueStoreOptions<A, I>
   ): Effect.Effect<
     A,
     E | PlatformCacheError,
     R | KeyValueStore.KeyValueStore
   > => {
-    const effect = Effect.gen(function* () {
+    return Effect.gen(function* () {
       const kv = yield* KeyValueStore.KeyValueStore
 
-      const encode = Schema.parseJson(options.schema).pipe(Schema.encode)
+      const encode = Schema.parseJson(schema).pipe(Schema.encode)
+      const decode = Schema.parseJson(schema).pipe(Schema.decode)
 
-      const decode = Schema.parseJson(options.schema).pipe(Schema.decode)
-
-      const encodeAndWrite = (result: A) =>
-        encode(result).pipe(
-          Effect.tap(() => options.onCacheMiss?.()),
-          Effect.andThen((str) => kv.set(options.key, str))
-        )
-
-      const result = yield* kv.get(options.key).pipe(
+      const tryCacheHit = kv.get(key).pipe(
         Effect.flatten,
-        Effect.flatMap(decode),
-        Effect.tap((res) => options.onCacheHit?.(res)),
-        Effect.catchAllCause(() =>
+        Effect.flatMap((encoded) => decode(encoded)),
+        Effect.tap((decoded) => onCacheHit?.(decoded))
+      )
+
+      const tryCacheMiss = Effect.void.pipe(
+        Effect.tap(() => onCacheMiss?.()),
+        Effect.andThen(() =>
           self.pipe(
-            Effect.tap((res) =>
-              encodeAndWrite(res).pipe(
-                Effect.catchAllCause((cause) =>
+            Effect.tap((res: A) =>
+              encode(res).pipe(
+                Effect.tap(() => onCacheMiss?.()),
+                Effect.andThen((encoded) => kv.set(key, encoded)),
+                Effect.catchAll((error) =>
                   Effect.fail(
                     new PlatformCacheError({
-                      message: `Failed to cache result to key ${options.key}`,
-                      cause,
+                      message: `Failed to cache result to key "${key}"`,
+                      cause: error,
                     })
                   )
                 )
@@ -66,9 +65,7 @@ export const cachedKeyValueStore: {
         )
       )
 
-      return result
+      return yield* tryCacheHit.pipe(Effect.catchAll(() => tryCacheMiss))
     })
-
-    return effect
   }
 )
