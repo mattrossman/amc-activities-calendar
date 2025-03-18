@@ -30,12 +30,16 @@ const getActivitiesCached = Effect.gen(function* () {
     return result
   })
 
-  return yield* Schema.decode(cacheSchema)(resultStr)
+  const decode = Schema.parseJson(Schema.Array(Activity.Activity)).pipe(
+    Schema.decode
+  )
+
+  return yield* decode(resultStr)
 }).pipe(
   Effect.provide(Playwright.Page.Live),
   PlatformCache.cachedKeyValueStore({
     key: "activities",
-    schema: cacheSchema,
+    schema: Schema.Array(Activity.Activity),
     onCacheHit: () => Effect.log(`Cache hit`),
     onCacheMiss: () => Effect.log(`Cache miss`),
   })
@@ -47,20 +51,28 @@ const program = Effect.gen(function* () {
 
   console.log(leader?.Contact__r.Name)
 
-  // const Person = Schema.Struct({
-  //   name: Schema.String,
-  //   age: Schema.Number,
-  // })
+  const Person = Schema.Struct({
+    name: Schema.String,
+    age: Schema.Number,
+  })
 
-  // yield* Effect.gen(function*() {
-  //   yield* Effect.sleep(1000)
-  //   return Person.make({ name: "John", age: 30 })
-  // }).pipe(
-  //   PlatformCache.cachedKeyValueStore({
-  //     key: "person",
-  //     schema: Person,
-  //   })
-  // )
+  PlatformCache.cachedKeyValueStore({
+    key: "person",
+    schema: Schema.Date,
+  })
+
+  const person = yield* Effect.gen(function* () {
+    yield* Effect.log("Generating person")
+    yield* Effect.sleep(1000)
+    return Person.make({ name: "John", age: 30 })
+  }).pipe(
+    PlatformCache.cachedKeyValueStore({
+      key: "person",
+      schema: Person,
+    })
+  )
+
+  console.log(person)
 })
 
 program.pipe(

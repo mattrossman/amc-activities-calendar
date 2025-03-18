@@ -6,26 +6,26 @@ class PlatformCacheError extends Data.TaggedError("PlatformCacheError")<{
   readonly cause?: unknown
 }> {}
 
-interface CachedKeyValueStoreOptions<A> {
+interface CachedKeyValueStoreOptions<A, I> {
   readonly key: string
-  readonly schema: Schema.Schema<A, string>
+  readonly schema: Schema.Schema<A, I>
   readonly onCacheHit?: (result: A) => Effect.Effect<unknown>
   readonly onCacheMiss?: () => Effect.Effect<unknown>
 }
 
 export const cachedKeyValueStore: {
-  <A>(options: CachedKeyValueStoreOptions<A>): <E, R>(
+  <A, I>(options: CachedKeyValueStoreOptions<A, I>): <E, R>(
     self: Effect.Effect<A, E, R>
   ) => Effect.Effect<A, E | PlatformCacheError, R | KeyValueStore.KeyValueStore>
-  <A, E, R>(
+  <A, I, E, R>(
     self: Effect.Effect<A, E, R>,
-    options: CachedKeyValueStoreOptions<A>
+    options: CachedKeyValueStoreOptions<A, I>
   ): Effect.Effect<A, E | PlatformCacheError, R | KeyValueStore.KeyValueStore>
 } = Function.dual(
   2,
-  <A, E, R>(
+  <A, I, E, R>(
     self: Effect.Effect<A, E, R>,
-    options: CachedKeyValueStoreOptions<A>
+    options: CachedKeyValueStoreOptions<A, I>
   ): Effect.Effect<
     A,
     E | PlatformCacheError,
@@ -34,15 +34,19 @@ export const cachedKeyValueStore: {
     const effect = Effect.gen(function* () {
       const kv = yield* KeyValueStore.KeyValueStore
 
+      const encode = Schema.parseJson(options.schema).pipe(Schema.encode)
+
+      const decode = Schema.parseJson(options.schema).pipe(Schema.decode)
+
       const encodeAndWrite = (result: A) =>
-        Schema.encode(options.schema)(result).pipe(
+        encode(result).pipe(
           Effect.tap(() => options.onCacheMiss?.()),
           Effect.andThen((str) => kv.set(options.key, str))
         )
 
       const result = yield* kv.get(options.key).pipe(
         Effect.flatten,
-        Effect.flatMap(Schema.decode(options.schema)),
+        Effect.flatMap(decode),
         Effect.tap((res) => options.onCacheHit?.(res)),
         Effect.catchAllCause(() =>
           self.pipe(
