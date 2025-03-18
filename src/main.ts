@@ -1,9 +1,4 @@
-import { FileSystem } from "@effect/platform"
-import {
-  NodeRuntime,
-  NodeContext,
-  NodeKeyValueStore,
-} from "@effect/platform-node"
+import { NodeRuntime, NodeKeyValueStore } from "@effect/platform-node"
 import { Effect, Schema } from "effect"
 
 import { env } from "~/env"
@@ -14,7 +9,7 @@ import * as Playwright from "~/Playwright"
 const URL_AMC =
   "https://activities.outdoors.org/s/?chapters=0015000001Sg069AAB&audiences=20%E2%80%99s+%26+30%E2%80%99s"
 
-const cacheSchema = Schema.parseJson(Schema.Array(Activity.Activity))
+const activitiesSchema = Schema.Array(Activity.Activity)
 
 const getActivitiesCached = Effect.gen(function* () {
   const page = yield* Playwright.Page
@@ -30,19 +25,12 @@ const getActivitiesCached = Effect.gen(function* () {
     return result
   })
 
-  const decode = Schema.parseJson(Schema.Array(Activity.Activity)).pipe(
-    Schema.decode
-  )
+  const decode = Schema.parseJson(activitiesSchema).pipe(Schema.decode)
 
   return yield* decode(resultStr)
 }).pipe(
   Effect.provide(Playwright.Page.Live),
-  PlatformCache.cachedKeyValueStore({
-    key: "activities",
-    schema: Schema.Array(Activity.Activity),
-    onCacheHit: () => Effect.log(`Cache hit`),
-    onCacheMiss: () => Effect.log(`Cache miss`),
-  })
+  PlatformCache.cachedKeyValueStore("activities", activitiesSchema)
 )
 
 const program = Effect.gen(function* () {
@@ -56,21 +44,11 @@ const program = Effect.gen(function* () {
     age: Schema.Number,
   })
 
-  PlatformCache.cachedKeyValueStore({
-    key: "person",
-    schema: Schema.Date,
-  })
-
   const person = yield* Effect.gen(function* () {
     yield* Effect.log("Generating person")
     yield* Effect.sleep(1000)
     return Person.make({ name: "John", age: 30 })
-  }).pipe(
-    PlatformCache.cachedKeyValueStore({
-      key: "person",
-      schema: Person,
-    })
-  )
+  }).pipe(PlatformCache.cachedKeyValueStore("person", Person))
 
   console.log(person)
 })
