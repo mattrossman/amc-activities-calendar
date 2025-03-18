@@ -1,10 +1,14 @@
 import { FileSystem } from "@effect/platform"
-import { NodeRuntime, NodeContext } from "@effect/platform-node"
+import {
+  NodeRuntime,
+  NodeContext,
+  NodeKeyValueStore,
+} from "@effect/platform-node"
 import { Effect, Schema } from "effect"
 
 import { env } from "~/env"
 import * as Activity from "~/Activity"
-import * as FileSystemCache from "~/FileSystemCache"
+import * as PlatformCache from "~/PlatformCache"
 import * as Playwright from "~/Playwright"
 
 const URL_AMC =
@@ -29,18 +33,37 @@ const getActivitiesCached = Effect.gen(function* () {
   return yield* Schema.decode(cacheSchema)(resultStr)
 }).pipe(
   Effect.provide(Playwright.Page.Live),
-  FileSystemCache.cached({
-    file: "./ignore/cache.txt",
+  PlatformCache.cachedKeyValueStore({
+    key: "activities",
     schema: cacheSchema,
+    onCacheHit: () => Effect.log(`Cache hit`),
+    onCacheMiss: () => Effect.log(`Cache miss`),
   })
 )
 
 const program = Effect.gen(function* () {
   const activities = yield* getActivitiesCached
-
   const leader = activities.at(0)?.OC_Trip_Leaders__r.at(0)
 
   console.log(leader?.Contact__r.Name)
+
+  // const Person = Schema.Struct({
+  //   name: Schema.String,
+  //   age: Schema.Number,
+  // })
+
+  // yield* Effect.gen(function*() {
+  //   yield* Effect.sleep(1000)
+  //   return Person.make({ name: "John", age: 30 })
+  // }).pipe(
+  //   PlatformCache.cachedKeyValueStore({
+  //     key: "person",
+  //     schema: Person,
+  //   })
+  // )
 })
 
-program.pipe(Effect.provide(NodeContext.layer), NodeRuntime.runMain)
+program.pipe(
+  Effect.provide(NodeKeyValueStore.layerFileSystem("./ignore/cache")),
+  NodeRuntime.runMain
+)
