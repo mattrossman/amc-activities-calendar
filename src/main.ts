@@ -33,8 +33,7 @@ const program = Effect.gen(function* () {
   const activitiesCache = yield* makeActivitiesCache
   const activities = yield* activitiesCache.get(
     new ActivityScraper.Request({
-      url: ActivityScraper.defaultUrl,
-      // url: "https://example.com",
+      url: "https://activities.outdoors.org/s/?chapters=0015000001Sg069AAB&audiences=20%E2%80%99s+%26+30%E2%80%99s",
     })
   )
 
