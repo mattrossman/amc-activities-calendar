@@ -1,9 +1,30 @@
-import { Effect, Schema } from "effect"
+import { Effect, PrimaryKey, Schema } from "effect"
 import * as Activity from "~/Activity"
 import * as Playwright from "~/Playwright"
 
 export const defaultUrl =
   "https://activities.outdoors.org/s/?chapters=0015000001Sg069AAB&audiences=20%E2%80%99s+%26+30%E2%80%99s"
+
+export class RequestError extends Schema.TaggedError<RequestError>(
+  "ActivityScraper/RequestError"
+)("RequestError", {
+  message: Schema.String,
+}) {}
+
+export class Request extends Schema.TaggedRequest<Request>()(
+  "ActivityScraper/Request",
+  {
+    failure: RequestError,
+    success: Activity.Activities,
+    payload: {
+      url: Schema.String,
+    },
+  }
+) {
+  [PrimaryKey.symbol]() {
+    return this.url
+  }
+}
 
 export class ActivityScraper extends Effect.Service<ActivityScraper>()(
   "ActivityScraper",
