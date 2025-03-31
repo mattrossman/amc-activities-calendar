@@ -52,7 +52,4 @@ export class Activity extends Schema.Class<Activity>("Activity")({
   OC_Trip_Leaders__r: Schema.Array(TripLeader),
 }) {}
 
-export const parseJson = Schema.parseJson(Activity).pipe(Schema.decodeUnknown)
-export const parseJsonArray = Schema.parseJson(Schema.Array(Activity)).pipe(
-  Schema.decodeUnknown
-)
+export const Activities = Schema.Array(Activity)
