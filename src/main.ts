@@ -19,6 +19,10 @@ const NODE_ENV = Config.literal(
   "development",
 )("NODE_ENV").pipe(Config.withDefault("production"))
 
+const ICAL_DIRECTORY = "./build"
+const ICAL_FILENAME = "activities.ics"
+const ICAL_NAME = `AMC Worcester 20's & 30's`
+
 const NodeSdkLive = NodeSdk.layer(() => ({
   resource: { serviceName: "effect" },
   spanProcessor: new BatchSpanProcessor(new OTLPTraceExporter()),
@@ -93,15 +97,14 @@ const program = Effect.gen(function* () {
 
   const fs = yield* FileSystem.FileSystem
 
-  const dir = "./ignore"
-  const basename = "activities.ics"
-  const iCalPath = path.join(dir, basename)
-  const iCalJsonPath = path.join(dir, basename + ".json")
+  const iCalPath = path.join(ICAL_DIRECTORY, ICAL_FILENAME)
+  const iCalJsonPath = path.join(ICAL_DIRECTORY, ICAL_FILENAME + ".json")
 
-  yield* fs.makeDirectory(dir, { recursive: true }).pipe(
+  yield* fs.makeDirectory(ICAL_DIRECTORY, { recursive: true }).pipe(
     Effect.matchEffect({
-      onSuccess: () => Effect.log(`Created ${dir}`),
-      onFailure: (error) => Effect.logError(`Failed to create ${dir}`, error),
+      onSuccess: () => Effect.log(`Created ${ICAL_DIRECTORY}`),
+      onFailure: (error) =>
+        Effect.logError(`Failed to create ${ICAL_DIRECTORY}`, error),
     }),
   )
 
@@ -117,7 +120,7 @@ const program = Effect.gen(function* () {
   const iCalMerged = yield* Option.match(maybeICalPrev, {
     onNone: () => Effect.succeed(iCalCurrent),
     onSome: (prev) => ICalGenerator.mergeWithPrevious(iCalCurrent, prev),
-  })
+  }).pipe(Effect.map((cal) => ICalGenerator.withName(cal, ICAL_NAME)))
 
   // Write iCal
   const writeICal = fs.writeFileString(iCalPath, iCalMerged.toString())

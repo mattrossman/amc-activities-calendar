@@ -100,3 +100,7 @@ export const fromActivities = Effect.fn("fromActivities")(function* (
 
   return cal
 })
+
+export const withName = (cal: ICalCalendar, name: string) => {
+  return ical({ ...cal.toJSON(), name })
+}
