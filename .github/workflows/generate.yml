@@ -12,6 +12,11 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+  # Runs on pushes to main branch
+  push:
+    branches:
+      - main
+
   # Allows manually triggering with "Run workflow" button
   workflow_dispatch: {}
 
