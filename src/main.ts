@@ -19,7 +19,7 @@ const NODE_ENV = Config.literal(
   "development",
 )("NODE_ENV").pipe(Config.withDefault("production"))
 
-const ICAL_DIRECTORY = "./build"
+const ICAL_DIRECTORY = "./generated"
 const ICAL_FILENAME = "activities.ics"
 const ICAL_NAME = `AMC Worcester 20's & 30's`
 

@@ -1,0 +1,31 @@
+# References
+# - https://github.com/mattrossman/deploy-gh-pages/blob/30fb0dbc22c2eb7bc6ae2fa9101dea97ac58a2ac/.github/workflows/gh-pages.yml
+# - https://github.com/tim-smart/effect-io-ai/blob/f19330297405d71f82f0a57454de6cb39ef37c49/.github/workflows/generate.yml
+
+name: Generate
+
+on:
+  # Runs once a day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allows manually triggering with "Run workflow" button
+  workflow_dispatch: {}
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4.2.2
+
+      - name: Install and Build 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
+        run: |
+          pnpm install
+          pnpm build
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.7.3
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: generated # The folder the action should deploy.
