@@ -35,7 +35,10 @@ jobs:
           cache: 'pnpm'
 
       - name: Install dependencies
-        run: pnpm install
+        run: pnpm install --frozen-lockfile
+
+      - name: Setup Playwright
+        run: pnpx playwright install chromium --with-deps
 
       - name: Generate calendar
         run: pnpm build
