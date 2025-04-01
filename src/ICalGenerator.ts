@@ -1,5 +1,5 @@
-import { DateTime, Effect } from "effect"
-import ical from "ical-generator"
+import { DateTime, Effect, HashMap } from "effect"
+import ical, { type ICalCalendar, type ICalCalendarData } from "ical-generator"
 import { DOMParser } from "@xmldom/xmldom"
 
 import type * as Activity from "~/Activity"
@@ -35,7 +35,7 @@ const formatLocation = (activity: Activity.Activity) => {
 const formatDescription = (activity: Activity.Activity) => {
   const description = new DOMParser().parseFromString(
     `<!DOCTYPE html><html>${activity.Description__c}</html>`,
-    "text/html"
+    "text/html",
   ).documentElement?.textContent
 
   const start = activity.Start_Concatenation_Formula_Unconverted__c
@@ -49,8 +49,37 @@ const formatDescription = (activity: Activity.Activity) => {
   return result
 }
 
+export const mergeWithPrevious = Effect.fn("mergeWithPrevious")(
+  function* (cal: ICalCalendar, prevIcalString: string) {
+    const prevCal = yield* Effect.try(() =>
+      ical(JSON.parse(prevIcalString) as ICalCalendarData),
+    )
+
+    const entriesPrev = prevCal
+      .events()
+      .map((event) => [event.id(), event] as const)
+    const entries = cal.events().map((event) => [event.id(), event] as const)
+
+    // New events take precedence over old events
+    const hashmap = HashMap.empty().pipe(
+      HashMap.union(HashMap.fromIterable(entriesPrev)),
+      HashMap.union(HashMap.fromIterable(entries)),
+    )
+
+    const merged = ical({ events: HashMap.toValues(hashmap) })
+    return merged
+  },
+  (prev, cal) =>
+    Effect.catchAllCause(prev, (cause) =>
+      Effect.gen(function* () {
+        yield* Effect.log("Failed to merge with previous iCal", cause)
+        return cal
+      }),
+    ),
+)
+
 export const fromActivities = Effect.fn("fromActivities")(function* (
-  activities: typeof Activity.Activities.Type
+  activities: typeof Activity.Activities.Type,
 ) {
   const cal = ical()
 

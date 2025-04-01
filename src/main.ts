@@ -5,7 +5,7 @@ import {
   NodeContext,
 } from "@effect/platform-node"
 import { NodeSdk } from "@effect/opentelemetry"
-import { Cause, Config, Effect, Layer, Match } from "effect"
+import { Cause, Config, Effect, Layer, Match, Option } from "effect"
 import { PersistedCache, Persistence } from "@effect/experimental"
 import { FileSystem } from "@effect/platform"
 import { BatchSpanProcessor } from "@opentelemetry/sdk-trace-base"
@@ -16,7 +16,7 @@ import * as ICalGenerator from "~/ICalGenerator"
 
 const NODE_ENV = Config.literal(
   "production",
-  "development"
+  "development",
 )("NODE_ENV").pipe(Config.withDefault("production"))
 
 const NodeSdkLive = NodeSdk.layer(() => ({
@@ -29,21 +29,21 @@ const ResultPersistenceLive = NODE_ENV.pipe(
     Match.value(env).pipe(
       Match.when("development", () =>
         Persistence.layerResultKeyValueStore.pipe(
-          Layer.provide(NodeKeyValueStore.layerFileSystem("./ignore/cache"))
-        )
+          Layer.provide(NodeKeyValueStore.layerFileSystem("./ignore/cache")),
+        ),
       ),
       Match.when("production", () => Persistence.layerResultMemory),
-      Match.exhaustive
-    )
+      Match.exhaustive,
+    ),
   ),
-  Layer.unwrapEffect
+  Layer.unwrapEffect,
 )
 
 const MainLayer = Layer.mergeAll(
   ActivityScraper.ActivityScraper.Default,
   NodeContext.layer,
   NodeSdkLive,
-  ResultPersistenceLive
+  ResultPersistenceLive,
 )
 
 const lookupActivities = Effect.fn("lookupActivities")(
@@ -55,8 +55,8 @@ const lookupActivities = Effect.fn("lookupActivities")(
   Effect.timeout("10 seconds"),
   Effect.catchAllCause(
     (cause) =>
-      new ActivityScraper.RequestError({ message: Cause.pretty(cause) })
-  )
+      new ActivityScraper.RequestError({ message: Cause.pretty(cause) }),
+  ),
 )
 
 const makeActivitiesCacheDev = PersistedCache.make({
@@ -77,49 +77,64 @@ const program = Effect.gen(function* () {
       Match.value(env).pipe(
         Match.when("production", () => makeActivitiesCacheProd),
         Match.when("development", () => makeActivitiesCacheDev),
-        Match.exhaustive
-      )
-    )
+        Match.exhaustive,
+      ),
+    ),
   )
 
   const activities = yield* activitiesCache.get(
     new ActivityScraper.Request({
       url: "https://activities.outdoors.org/s/?chapters=0015000001Sg069AAB&audiences=20%E2%80%99s+%26+30%E2%80%99s",
-    })
+    }),
   )
 
-  const cal = yield* ICalGenerator.fromActivities(activities)
+  /** The current snapshot of the activities calendar */
+  const iCalCurrent = yield* ICalGenerator.fromActivities(activities)
 
   const fs = yield* FileSystem.FileSystem
 
   const dir = "./ignore"
   const basename = "activities.ics"
-  const icalPath = path.join(dir, basename)
-  const icalJsonPath = path.join(dir, basename + ".json")
+  const iCalPath = path.join(dir, basename)
+  const iCalJsonPath = path.join(dir, basename + ".json")
 
   yield* fs.makeDirectory(dir, { recursive: true }).pipe(
     Effect.matchEffect({
       onSuccess: () => Effect.log(`Created ${dir}`),
       onFailure: (error) => Effect.logError(`Failed to create ${dir}`, error),
-    })
+    }),
   )
+
+  /** The previous snapshot of the activities calendar */
+  const maybeICalPrev = yield* fs.readFileString(iCalJsonPath).pipe(
+    Effect.tapError(() =>
+      Effect.log(`No previous calendar found at ${iCalJsonPath}`),
+    ),
+    Effect.option,
+  )
+
+  /** The merged snapshot of the activities calendar */
+  const iCalMerged = yield* Option.match(maybeICalPrev, {
+    onNone: () => Effect.succeed(iCalCurrent),
+    onSome: (prev) => ICalGenerator.mergeWithPrevious(iCalCurrent, prev),
+  })
 
   // Write iCal
-  const writeIcal = fs.writeFileString(icalPath, cal.toString())
-  const writeIcalJson = fs.writeFileString(
-    icalJsonPath,
-    JSON.stringify(cal.toJSON())
+  const writeICal = fs.writeFileString(iCalPath, iCalMerged.toString())
+  const writeICalJson = fs.writeFileString(
+    iCalJsonPath,
+    JSON.stringify(iCalMerged.toJSON()),
   )
 
-  yield* Effect.all([writeIcal, writeIcalJson]).pipe(
+  yield* Effect.all([writeICal, writeICalJson]).pipe(
     Effect.matchEffect({
-      onSuccess: () => Effect.log(`Wrote ${icalPath} and ${icalJsonPath}`),
+      onSuccess: () => Effect.log(`Wrote ${iCalPath} and ${iCalJsonPath}`),
       onFailure: (error) =>
         Effect.logError(
-          `Failed to write ${icalPath} and ${icalJsonPath}`,
-          error
+          `Failed to write ${iCalPath} and ${iCalJsonPath}`,
+          error,
         ),
-    })
+    }),
   )
 
   // Write
