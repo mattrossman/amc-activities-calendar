@@ -36,7 +36,7 @@ const formatDescription = (activity: Activity.Activity) => {
   const description = new DOMParser().parseFromString(
     `<!DOCTYPE html><html>${activity.Description__c}</html>`,
     "text/html"
-  ).textContent
+  ).documentElement?.textContent
 
   const start = activity.Start_Concatenation_Formula_Unconverted__c
 
@@ -60,6 +60,7 @@ export const fromActivities = Effect.fn("fromActivities")(function* (
     const description = formatDescription(activity)
 
     cal.createEvent({
+      id: activity.Id,
       start,
       allDay: true,
       summary: activity.Activity_Name__c,
@@ -68,5 +69,5 @@ export const fromActivities = Effect.fn("fromActivities")(function* (
     })
   }
 
-  return cal.toString()
+  return cal
 })

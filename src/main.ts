@@ -88,13 +88,14 @@ const program = Effect.gen(function* () {
     })
   )
 
-  const ical = yield* ICalGenerator.fromActivities(activities)
+  const cal = yield* ICalGenerator.fromActivities(activities)
 
   const fs = yield* FileSystem.FileSystem
 
   const dir = "./ignore"
-  const file = "activities.ics"
-  const filePath = path.join(dir, file)
+  const basename = "activities.ics"
+  const icalPath = path.join(dir, basename)
+  const icalJsonPath = path.join(dir, basename + ".json")
 
   yield* fs.makeDirectory(dir, { recursive: true }).pipe(
     Effect.matchEffect({
@@ -103,13 +104,25 @@ const program = Effect.gen(function* () {
     })
   )
 
-  yield* fs.writeFileString(filePath, ical).pipe(
+  // Write iCal
+  const writeIcal = fs.writeFileString(icalPath, cal.toString())
+  const writeIcalJson = fs.writeFileString(
+    icalJsonPath,
+    JSON.stringify(cal.toJSON())
+  )
+
+  yield* Effect.all([writeIcal, writeIcalJson]).pipe(
     Effect.matchEffect({
-      onSuccess: () => Effect.log(`Wrote ${filePath}`),
+      onSuccess: () => Effect.log(`Wrote ${icalPath} and ${icalJsonPath}`),
       onFailure: (error) =>
-        Effect.logError(`Failed to write ${filePath}`, error),
+        Effect.logError(
+          `Failed to write ${icalPath} and ${icalJsonPath}`,
+          error
+        ),
     })
   )
+
+  // Write
 }).pipe(Effect.scoped)
 
 program.pipe(Effect.provide(MainLayer), NodeRuntime.runMain)
