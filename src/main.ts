@@ -1,3 +1,4 @@
+import path from "node:path"
 import {
   NodeRuntime,
   NodeKeyValueStore,
@@ -89,11 +90,26 @@ const program = Effect.gen(function* () {
 
   const ical = yield* ICalGenerator.fromActivities(activities)
 
-  const path = "./ignore/activities.ics"
   const fs = yield* FileSystem.FileSystem
-  yield* fs.writeFileString(path, ical)
 
-  yield* Effect.log(`Wrote ${path}`)
+  const dir = "./ignore"
+  const file = "activities.ics"
+  const filePath = path.join(dir, file)
+
+  yield* fs.makeDirectory(dir, { recursive: true }).pipe(
+    Effect.matchEffect({
+      onSuccess: () => Effect.log(`Created ${dir}`),
+      onFailure: (error) => Effect.logError(`Failed to create ${dir}`, error),
+    })
+  )
+
+  yield* fs.writeFileString(filePath, ical).pipe(
+    Effect.matchEffect({
+      onSuccess: () => Effect.log(`Wrote ${filePath}`),
+      onFailure: (error) =>
+        Effect.logError(`Failed to write ${filePath}`, error),
+    })
+  )
 }).pipe(Effect.scoped)
 
 program.pipe(Effect.provide(MainLayer), NodeRuntime.runMain)
