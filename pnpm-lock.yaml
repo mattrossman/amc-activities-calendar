@@ -47,9 +47,6 @@ importers:
       '@xmldom/xmldom':
         specifier: ^0.9.8
         version: 0.9.8
-      dotenv:
-        specifier: ^16.4.7
-        version: 16.4.7
       effect:
         specifier: ^3.14.4
         version: 3.14.4
@@ -59,9 +56,6 @@ importers:
       playwright:
         specifier: ^1.51.0
         version: 1.51.0
-      zod:
-        specifier: ^3.24.1
-        version: 3.24.1
     devDependencies:
       '@eslint/js':
         specifier: ^9.18.0
@@ -762,10 +756,6 @@ packages:
     resolution: {integrity: sha512-bwy0MGW55bG41VqxxypOsdSdGqLwXPI/focwgTYCFMbdUiBAxLg9CFzG08sz2aqzknwiX7Hkl0bQENjg8iLByw==}
     engines: {node: '>=8'}
 
-  dotenv@16.4.7:
-    resolution: {integrity: sha512-47qPchRCykZC03FhkYAhrvwU4xDBFIj1QPqaarj6mdM/hgUzfPHcpkHJOn3mJAufFeeAxAzeGsr5X0M4k6fLZQ==}
-    engines: {node: '>=12'}
-
   effect@3.14.4:
     resolution: {integrity: sha512-BDWLFYYoJ5uq0n+jSekM55nwLfnzquoJ+1llaHJ/IlCnmBjo5x6xVHL94Y8socyHVJ+1ECl6ldRtxgFQnXYdaw==}
 
@@ -1195,9 +1185,6 @@ packages:
   yocto-queue@0.1.0:
     resolution: {integrity: sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==}
     engines: {node: '>=10'}
-
-  zod@3.24.1:
-    resolution: {integrity: sha512-muH7gBL9sI1nciMZV67X5fTKKBLtwpZ5VBp1vsOQzj1MhrBZ4wlVCm3gedKZWLp0Oyel8sIGfeiz54Su+OVT+A==}
 
 snapshots:
 
@@ -1772,8 +1759,6 @@ snapshots:
   detect-libc@2.0.3:
     optional: true
 
-  dotenv@16.4.7: {}
-
   effect@3.14.4:
     dependencies:
       '@standard-schema/spec': 1.0.0
@@ -2176,5 +2161,3 @@ snapshots:
   ws@8.18.1: {}
 
   yocto-queue@0.1.0: {}
-
-  zod@3.24.1: {}
