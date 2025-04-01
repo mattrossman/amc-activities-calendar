@@ -49,37 +49,24 @@ const formatDescription = (activity: Activity.Activity) => {
   return result
 }
 
-export class ICalGenerator extends Effect.Service<ICalGenerator>()(
-  "ICalGenerator",
-  {
-    effect: Effect.gen(function* () {
-      const fromActivities = Effect.fn("fromActivities")(function* (
-        activities: typeof Activity.Activities.Type
-      ) {
-        const cal = ical()
+export const fromActivities = Effect.fn("fromActivities")(function* (
+  activities: typeof Activity.Activities.Type
+) {
+  const cal = ical()
 
-        for (const activity of activities) {
-          const start = yield* DateTime.make(activity.Start_Date__c).pipe(
-            Effect.map(DateTime.toDate)
-          )
+  for (const activity of activities) {
+    const start = DateTime.toDate(activity.Start_Date__c)
+    const location = formatLocation(activity)
+    const description = formatDescription(activity)
 
-          const location = formatLocation(activity)
-          const description = formatDescription(activity)
-
-          cal.createEvent({
-            start,
-            allDay: true,
-            summary: activity.Activity_Name__c,
-            location: location.length > 0 ? location : null,
-            description:
-              description && description.length > 0 ? description : null,
-          })
-        }
-
-        return cal.toString()
-      })
-
-      return { fromActivities }
-    }),
+    cal.createEvent({
+      start,
+      allDay: true,
+      summary: activity.Activity_Name__c,
+      location: location.length > 0 ? location : null,
+      description: description && description.length > 0 ? description : null,
+    })
   }
-) {}
+
+  return cal.toString()
+})
