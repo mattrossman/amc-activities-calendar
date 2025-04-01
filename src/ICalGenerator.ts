@@ -32,6 +32,10 @@ const formatLocation = (activity: Activity.Activity) => {
   return lines.join("\n")
 }
 
+const formatUrl = (activity: Activity.Activity) => {
+  return `https://activities.outdoors.org/s/oc-activity/${activity.Id}/`
+}
+
 const formatDescription = (activity: Activity.Activity) => {
   const description = new DOMParser().parseFromString(
     `<!DOCTYPE html><html>${activity.Description__c}</html>`,
@@ -39,9 +43,12 @@ const formatDescription = (activity: Activity.Activity) => {
   ).documentElement?.textContent
 
   const start = activity.Start_Concatenation_Formula_Unconverted__c
+  const url = formatUrl(activity)
 
-  let result = start
+  let result = ""
 
+  result += start
+  result += `\n${url}`
   if (description) {
     result += `\n${description}`
   }

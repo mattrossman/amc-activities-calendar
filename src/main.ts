@@ -139,8 +139,6 @@ const program = Effect.gen(function* () {
         ),
     }),
   )
-
-  // Write
-}).pipe(Effect.scoped)
+}).pipe(Effect.scoped, Effect.withSpan("program"))
 
 program.pipe(Effect.provide(MainLayer), NodeRuntime.runMain)
