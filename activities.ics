@@ -4,33 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UUN000000syLl2AI
-SEQUENCE:0
-DTSTAMP:20250401T170545Z
-DTSTART;VALUE=DATE:20250401
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s/30s Gates Pond Hike
-LOCATION:99 Taylor R\nBerlin\, MA
-DESCRIPTION:Tuesday\, April 1\, 2025 | 6:00 PM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UUN000000syLl2AI/\nJoin the Worcester 20s/30s on a h
- ike around Gates Pond in Berlin\, MA. This hike takes us in a loop around 
- Gates Pond and has some nice views of the area. The total distance of our
-  route is about 2.5 miles with 100ft of elevation gain. Participants shoul
- d be capable of hiking this distance at a moderate pace (35 min/mile).Part
- icipants are required to bring:1 liter of waterSnacks as neededShoes capab
- le of withstanding mud and possible standing waterNo dogs\, pleaseHope to 
- see you there!This is intended to be a 20s & 30s affinity trip\, but every
- one is welcome. If you do not identify with that group\, we trust that you
-  have reviewed our allyship criteria\, have done your due diligence to edu
- cate yourself\, and have committed to abide by our Code of Conduct. If you
-  have questions\, please contact the trip leader(s) by emailing them for m
- ore information.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN000000ptor2AA
 SEQUENCE:0
-DTSTAMP:20250401T170545Z
+DTSTAMP:20250402T014034Z
 DTSTART;VALUE=DATE:20250406
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -62,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000urjB2AQ
 SEQUENCE:0
-DTSTAMP:20250401T170545Z
+DTSTAMP:20250402T014034Z
 DTSTART;VALUE=DATE:20250410
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -86,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000rlVR2AY
 SEQUENCE:0
-DTSTAMP:20250401T170545Z
+DTSTAMP:20250402T014034Z
 DTSTART;VALUE=DATE:20250420
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
