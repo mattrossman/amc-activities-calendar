@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UUN000000ptor2AA
 SEQUENCE:0
-DTSTAMP:20250403T013904Z
+DTSTAMP:20250404T013945Z
 DTSTART;VALUE=DATE:20250406
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000urjB2AQ
 SEQUENCE:0
-DTSTAMP:20250403T013904Z
+DTSTAMP:20250404T013945Z
 DTSTART;VALUE=DATE:20250410
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000vxbF2AQ
 SEQUENCE:0
-DTSTAMP:20250403T013904Z
+DTSTAMP:20250404T013945Z
 DTSTART;VALUE=DATE:20250415
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000rlVR2AY
 SEQUENCE:0
-DTSTAMP:20250403T013904Z
+DTSTAMP:20250404T013945Z
 DTSTART;VALUE=DATE:20250420
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -109,5 +109,44 @@ DESCRIPTION:Sunday\, April 20\, 2025\nhttps://activities.outdoors.org/s/oc
  e to educate yourself\, and have committed to abide by our Code of Conduct
  . If you have questions\, please contact the trip leader(s) by emailing th
  em for more information.
+END:VEVENT
+BEGIN:VEVENT
+UID:a5UUN000000pJqD2AU
+SEQUENCE:0
+DTSTAMP:20250404T013945Z
+DTSTART;VALUE=DATE:20250711
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Worcester 20s & 30s Hostel Takeover Weekend in the White Mountains
+LOCATION:36 Washington S\nConway\, NH 03818
+DESCRIPTION:Friday\, July 11\, 2025 | 8:00 PM\nhttps://activities.outdoors
+ .org/s/oc-activity/a5UUN000000pJqD2AU/\nJoin the Worcester Chapter 20s & 3
+ 0s for a weekend of outdoor fun in the White Mountains July 11-14! The tri
+ p runs from the evening of Friday\, July 11 through Monday\, July 14. A va
+ riety of hiking and socializing opportunities will be offered each day as 
+ we explore several regions of the White Mountains. At least two hiking opt
+ ions\, one beginner/intermediate and one intermediate/advanced\, will be p
+ rovided each day. Specific offerings will be determined by leaders that we
+ ekend depending on participant ability and conditions. Hikes will be in th
+ e immediate area and possibly others farther afield. After the days’ hi
+ kes\, we will all return to the Conway Hostel (CoHo)\, our basecamp for th
+ e weekend. The trip includes three nights’ lodging at CoHo\, where you w
+ ill find all the comforts you are looking for after a long hike– shared 
+ bunk rooms\, private bathrooms\, a shared kitchen with full access\, and s
+ hared space for socializing. A group dinner will be included and served on
+  Saturday and Sunday evening\, and CoHo offers free coffee\, tea\, and gra
+ nola bars for breakfasts. Friday night dinner will be an optional potluck.
+  Breakfast (other than what the hostel offers) and lunches not included. 
+ Evening activities will be offered\, possibilities including a movie scree
+ ning\, star gazing\, fire pit\, and games. Cost is $210 for AMC members (
+ $225 for non-members) per person for 3 nights at CoHo and 2 dinners. Refun
+ ds are not guaranteed and are dependent on someone taking your spot if thi
+ s event reaches full capacity. Gear is available for loan through the Wor
+ cester Chapter Gear Shed for those who may need it. This is intended to b
+ e a 20s & 30s affinity trip\, but everyone is welcome. If you do not ident
+ ify with that group\, we trust that you have reviewed our allyship criteri
+ a\, have done your due diligence to educate yourself\, and have committed 
+ to abide by our Code of Conduct. If you have questions\, please contact th
+ e trip leader(s) by emailing them for more information.
 END:VEVENT
 END:VCALENDAR
