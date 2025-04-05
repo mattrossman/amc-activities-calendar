@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UUN000000ptor2AA
 SEQUENCE:0
-DTSTAMP:20250404T013945Z
+DTSTAMP:20250405T013722Z
 DTSTART;VALUE=DATE:20250406
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000urjB2AQ
 SEQUENCE:0
-DTSTAMP:20250404T013945Z
+DTSTAMP:20250405T013722Z
 DTSTART;VALUE=DATE:20250410
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -60,9 +60,32 @@ DESCRIPTION:Thursday\, April 10\, 2025 | 7:00 PM\nhttps://activities.outdo
  he trip leader(s) by emailing them for more information.
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UUN000000yByH2AU
+SEQUENCE:0
+DTSTAMP:20250405T013722Z
+DTSTART;VALUE=DATE:20250412
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20's & 30's Sunrise Hike at Crow Hill
+LOCATION:G4CQ+MQ\nWestminster\, MA
+DESCRIPTION:Saturday\, April 12\, 2025 | 5:45 AM\nhttps://activities.outdo
+ ors.org/s/oc-activity/a5UUN000000yByH2AU/\nJoin us for an early morning hi
+ ke at Leominster State Forest. We will hike 3-4 miles with a total elevati
+ on gain under 400 ft. We plan to spend some time at an outlook to enjoy th
+ e sunrise and perhaps some snacks.The trails will include sections of mode
+ rate terrain and we will be moving at a moderate pace.Proper equipment wil
+ l be required for this hike\, including: hiking and weather appropriate cl
+ othing\, water\, and a headlamp.This is intended to be a 20s & 30s affinit
+ y hike. If you do not identify with that group\, we trust that you have re
+ viewed our allyship criteria\, have done your due diligence to educate you
+ rself\, and have committed to abide by our Code of Conduct. If you have qu
+ estions\, please contact the trip leader(s) by emailing them for more info
+ rmation.
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UUN000000vxbF2AQ
 SEQUENCE:0
-DTSTAMP:20250404T013945Z
+DTSTAMP:20250405T013722Z
 DTSTART;VALUE=DATE:20250415
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -85,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000rlVR2AY
 SEQUENCE:0
-DTSTAMP:20250404T013945Z
+DTSTAMP:20250405T013722Z
 DTSTART;VALUE=DATE:20250420
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -113,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000pJqD2AU
 SEQUENCE:0
-DTSTAMP:20250404T013945Z
+DTSTAMP:20250405T013722Z
 DTSTART;VALUE=DATE:20250711
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
