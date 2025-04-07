@@ -4,41 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UUN000000ptor2AA
-SEQUENCE:0
-DTSTAMP:20250406T014356Z
-DTSTART;VALUE=DATE:20250406
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Worcester and Southeastern Mass 20s & 30s Ski and Pond Skim Social
-  at Wachusett Mountain
-LOCATION:41 Mile Hill R\nWestminster\, MA 01473
-DESCRIPTION:Sunday\, April 6\, 2025\nhttps://activities.outdoors.org/s/oc-
- activity/a5UUN000000ptor2AA/\n*** Event is now currently scheduled for Sun
- \, April 6th.******weather date/backup date is Sat April 5th***Join the Wo
- rcester and Southeastern Mass 20s and 30s for a Saturday of fun on the fin
- al weekend of the ski season at Wachusett Mountain!For those interested in
-  skiing in the morning\, we will meet in front of the Polar Express lift a
- t 7:45 am for skiing Session 1 (8am-11:30am). Note: Passes/lift tickets fo
- r skiing Wachusett Mountain are on your own. If you will be buying a lift 
- ticket for the morning\, it is advised to do so in advance as soon as poss
- ible\, as they have sold out near the day of for popular days.After skiing
-  concludes at 11:30am\, we will stick around to watch the Pond Skim event\
- , which will begin at approximately ~12:00pm near the base of the main lod
- ge. If you're not interested in skiing in the morning but are interested i
- n attending the Pond Skim event you're more than welcome to join us at noo
- n. Details for the event can be found here: https://www.wachusett.com/even
- ts/pond-skim-2025/This is intended to be a 20s & 30s affinity trip\, but e
- veryone is welcome. If you do not identify with that group\, we trust that
-  you have reviewed our allyship criteria\, have done your due diligence to
-  educate yourself\, and have committed to abide by our Code of Conduct. If
-  you have questions\, please contact the trip leader(s) by emailing them f
- or more information.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN000000urjB2AQ
 SEQUENCE:0
-DTSTAMP:20250406T014356Z
+DTSTAMP:20250407T014314Z
 DTSTART;VALUE=DATE:20250410
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -62,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000yByH2AU
 SEQUENCE:0
-DTSTAMP:20250406T014356Z
+DTSTAMP:20250407T014314Z
 DTSTART;VALUE=DATE:20250412
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -85,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000vxbF2AQ
 SEQUENCE:0
-DTSTAMP:20250406T014356Z
+DTSTAMP:20250407T014314Z
 DTSTART;VALUE=DATE:20250415
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -108,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000rlVR2AY
 SEQUENCE:0
-DTSTAMP:20250406T014356Z
+DTSTAMP:20250407T014314Z
 DTSTART;VALUE=DATE:20250420
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -134,9 +102,39 @@ DESCRIPTION:Sunday\, April 20\, 2025\nhttps://activities.outdoors.org/s/oc
  em for more information.
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UUN000000yXVl2AM
+SEQUENCE:0
+DTSTAMP:20250407T014314Z
+DTSTART;VALUE=DATE:20250422
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20’s & 30’s Earth Day Hike and Ice Cream in Ashland\, MA
+LOCATION:State Park R\nAshland\, MA 01721
+DESCRIPTION:Tuesday\, April 22\, 2025 | 5:45 PM\nhttps://activities.outdoo
+ rs.org/s/oc-activity/a5UUN000000yXVl2AM/\nWhat better way to celebrate Ear
+ th Day than with a hike and dessert?Join the Worcester 20s & 30s group aft
+ er work on Tuesday\, April 22nd to explore the Ashland Reservoir Loop and 
+ then stop for gelato (or other desserts) at Dulce D Leche afterward!Our ro
+ ute will be just under 4.5 miles with minimal elevation gain. In order to 
+ complete this hike with enough time to stop for dessert afterward\, we wil
+ l be starting right at 5:45pm and moving at a brisk pace of ~2.5mph. Our g
+ oal is to complete this hike right around sunset\, but having a headlamp (
+ or at least a flashlight) is required just in case.If you only want to joi
+ n us for dessert\, email me at lukemchap@gmail.com to coordinate. The plan
+  is to be at Dulce D Leche from 8pm-9pm\, but if things change\, I will le
+ t you know.This is intended to be a 20s & 30s affinity trip\, but everyone
+  is welcome. If you do not identify with that group\, we trust that you ha
+ ve reviewed our allyship criteria\, have done your due diligence to educat
+ e yourself\, and have committed to abide by our Code of Conduct. If you ha
+ ve questions\, please contact the trip leader(s) by emailing them for more
+  information.---Are you an AMC leader-in-training who is attending or has 
+ attended Outdoor Leadership Training and are looking for your first mentor
+ ed hike? Let me know\, you are welcome to co-lead this hike with me!
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UUN000000pJqD2AU
 SEQUENCE:0
-DTSTAMP:20250406T014356Z
+DTSTAMP:20250407T014314Z
 DTSTART;VALUE=DATE:20250711
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
