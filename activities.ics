@@ -4,33 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UUN000000urjB2AQ
-SEQUENCE:0
-DTSTAMP:20250410T013935Z
-DTSTART;VALUE=DATE:20250410
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20's & 30's Full Moon Hike at Mt. Wachusett
-LOCATION:F4R4+6Q\nPrinceton\, MA
-DESCRIPTION:Thursday\, April 10\, 2025 | 7:00 PM\nhttps://activities.outdo
- ors.org/s/oc-activity/a5UUN000000urjB2AQ/\nJoin us for an evening hike up 
- Mt. Wachusett during an (almost) full moon\, the first of spring and calle
- d the pink moon! We will hike 3-4 miles with a total elevation gain of abo
- ut 750 ft. Weather permitting\, we plan to spend some time at the summit t
- o enjoy the sunset or the moon and stars and perhaps some snacks.The trail
- s will include sections of moderate terrain and we will be moving at a mod
- erate pace.Proper equipment will be required for this hike\, including: hi
- king and weather appropriate clothing\, water\, and a headlamp. No dogs pl
- ease. This is intended to be a 20s & 30s affinity hike. If you do not iden
- tify with that group\, we trust that you have reviewed our allyship criter
- ia\, have done your due diligence to educate yourself\, and have committed
-  to abide by our Code of Conduct. If you have questions\, please contact t
- he trip leader(s) by emailing them for more information.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN000000yByH2AU
 SEQUENCE:0
-DTSTAMP:20250410T013935Z
+DTSTAMP:20250411T014027Z
 DTSTART;VALUE=DATE:20250412
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -53,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000vxbF2AQ
 SEQUENCE:0
-DTSTAMP:20250410T013935Z
+DTSTAMP:20250411T014027Z
 DTSTART;VALUE=DATE:20250415
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -76,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000rlVR2AY
 SEQUENCE:0
-DTSTAMP:20250410T013935Z
+DTSTAMP:20250411T014027Z
 DTSTART;VALUE=DATE:20250420
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -104,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000yXVl2AM
 SEQUENCE:0
-DTSTAMP:20250410T013935Z
+DTSTAMP:20250411T014027Z
 DTSTART;VALUE=DATE:20250422
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -122,13 +98,56 @@ DESCRIPTION:Tuesday\, April 22\, 2025 | 5:45 PM\nhttps://activities.outdoo
  or at least a flashlight) is required just in case.If you only want to joi
  n us for dessert\, email me at lukemchap@gmail.com to coordinate. The plan
   is to be at Dulce D Leche from 8pm-9pm\, but if things change\, I will le
- t you know.This is intended to be a 20s & 30s affinity trip\, but everyone
-  is welcome. If you do not identify with that group\, we trust that you ha
- ve reviewed our allyship criteria\, have done your due diligence to educat
- e yourself\, and have committed to abide by our Code of Conduct. If you ha
- ve questions\, please contact the trip leader(s) by emailing them for more
-  information.---Are you an AMC leader-in-training who is attending or has 
- attended Outdoor Leadership Training and are looking for your first mentor
- ed hike? Let me know\, you are welcome to co-lead this hike with me!
+ t you know.** As of 4/10/25: Due to popular demand\, more leaders were add
+ ed to this hike and there will be two hiking groups instead of one. Each g
+ roup will start this loop in a different direction. All other details of t
+ his event remain the same. **This is intended to be a 20s & 30s affinity t
+ rip\, but everyone is welcome. If you do not identify with that group\, we
+  trust that you have reviewed our allyship criteria\, have done your due d
+ iligence to educate yourself\, and have committed to abide by our Code of 
+ Conduct. If you have questions\, please contact the trip leader(s) by emai
+ ling them for more information.---Are you an AMC leader-in-training who is
+  attending or has attended Outdoor Leadership Training and are looking for
+  your first mentored hike? Let me know\, you are welcome to co-lead this h
+ ike with me!
+END:VEVENT
+BEGIN:VEVENT
+UID:a5UUN000000pJqD2AU
+SEQUENCE:0
+DTSTAMP:20250411T014027Z
+DTSTART;VALUE=DATE:20250711
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Worcester 20s & 30s Hostel Takeover Weekend in the White Mountains
+LOCATION:36 Washington S\nConway\, NH 03818
+DESCRIPTION:Friday\, July 11\, 2025 | 8:00 PM\nhttps://activities.outdoors
+ .org/s/oc-activity/a5UUN000000pJqD2AU/\nJoin the Worcester Chapter 20s & 3
+ 0s for a weekend of outdoor fun in the White Mountains July 11-14! The tri
+ p runs from the evening of Friday\, July 11 through Monday\, July 14. A va
+ riety of hiking and socializing opportunities will be offered each day as 
+ we explore several regions of the White Mountains. At least two hiking opt
+ ions\, one beginner/intermediate and one intermediate/advanced\, will be p
+ rovided each day. Specific offerings will be determined by leaders that we
+ ekend depending on participant ability and conditions. Hikes will be in th
+ e immediate area and possibly others farther afield. After the days’ hi
+ kes\, we will all return to the Conway Hostel (CoHo)\, our basecamp for th
+ e weekend. The trip includes three nights’ lodging at CoHo\, where you w
+ ill find all the comforts you are looking for after a long hike– shared 
+ bunk rooms\, private bathrooms\, a shared kitchen with full access\, and s
+ hared space for socializing. A group dinner will be included and served on
+  Saturday and Sunday evening\, and CoHo offers free coffee\, tea\, and gra
+ nola bars for breakfasts. Friday night dinner will be an optional potluck.
+  Breakfast (other than what the hostel offers) and lunches not included. 
+ Evening activities will be offered\, possibilities including a movie scree
+ ning\, star gazing\, fire pit\, and games. Cost is $210 for AMC members (
+ $225 for non-members) per person for 3 nights at CoHo and 2 dinners. Refun
+ ds are not guaranteed and are dependent on someone taking your spot if thi
+ s event reaches full capacity. Gear is available for loan through the Wor
+ cester Chapter Gear Shed for those who may need it. This is intended to b
+ e a 20s & 30s affinity trip\, but everyone is welcome. If you do not ident
+ ify with that group\, we trust that you have reviewed our allyship criteri
+ a\, have done your due diligence to educate yourself\, and have committed 
+ to abide by our Code of Conduct. If you have questions\, please contact th
+ e trip leader(s) by emailing them for more information.
 END:VEVENT
 END:VCALENDAR
