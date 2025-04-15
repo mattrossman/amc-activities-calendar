@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UUN000000vxbF2AQ
 SEQUENCE:0
-DTSTAMP:20250414T014413Z
+DTSTAMP:20250415T014300Z
 DTSTART;VALUE=DATE:20250415
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -29,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000rlVR2AY
 SEQUENCE:0
-DTSTAMP:20250414T014413Z
+DTSTAMP:20250415T014300Z
 DTSTART;VALUE=DATE:20250420
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000yXVl2AM
 SEQUENCE:0
-DTSTAMP:20250414T014413Z
+DTSTAMP:20250415T014300Z
 DTSTART;VALUE=DATE:20250422
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -91,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000pJqD2AU
 SEQUENCE:0
-DTSTAMP:20250414T014413Z
+DTSTAMP:20250415T014300Z
 DTSTART;VALUE=DATE:20250711
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -103,28 +103,29 @@ DESCRIPTION:Friday\, July 11\, 2025 | 8:00 PM\nhttps://activities.outdoors
  p runs from the evening of Friday\, July 11 through Monday\, July 14. A va
  riety of hiking and socializing opportunities will be offered each day as 
  we explore several regions of the White Mountains. At least two hiking opt
- ions\, one beginner/intermediate and one intermediate/advanced\, will be p
- rovided each day. Specific offerings will be determined by leaders that we
- ekend depending on participant ability and conditions. Hikes will be in th
- e immediate area and possibly others farther afield. After the days’ hi
- kes\, we will all return to the Conway Hostel (CoHo)\, our basecamp for th
- e weekend. The trip includes three nights’ lodging at CoHo\, where you w
- ill find all the comforts you are looking for after a long hike– shared 
- bunk rooms\, private bathrooms\, a shared kitchen with full access\, and s
- hared space for socializing. A group dinner will be included and served on
-  Saturday and Sunday evening\, and CoHo offers free coffee\, tea\, and gra
- nola bars for breakfasts. Friday night dinner will be an optional potluck.
-  Breakfast (other than what the hostel offers) and lunches not included. 
- Evening activities will be offered\, possibilities including a movie scree
- ning\, star gazing\, fire pit\, and games. Cost is $210 for AMC members (
- $225 for non-members) per person for 3 nights at CoHo and 2 dinners. Refun
- ds are not guaranteed and are dependent on someone taking your spot if thi
- s event reaches full capacity. Gear is available for loan through the Wor
- cester Chapter Gear Shed for those who may need it. This is intended to b
- e a 20s & 30s affinity trip\, but everyone is welcome. If you do not ident
- ify with that group\, we trust that you have reviewed our allyship criteri
- a\, have done your due diligence to educate yourself\, and have committed 
- to abide by our Code of Conduct. If you have questions\, please contact th
- e trip leader(s) by emailing them for more information.
+ ions\, one Moderate and one Vigorous\, will be provided each day (see trip
+  rating definitions here: AMC Trip Ratings). Specific offerings will be de
+ termined by leaders that weekend depending on participant ability and cond
+ itions. Hikes will be in the immediate area and possibly others farther af
+ ield. After the days’ hikes\, we will all return to the Conway Hostel (
+ CoHo)\, our basecamp for the weekend. The trip includes three nights’ lo
+ dging at CoHo\, where you will find all the comforts you are looking for a
+ fter a long hike– shared bunk rooms\, private bathrooms\, a shared kitch
+ en with full access\, and shared space for socializing. A group dinner wil
+ l be included and served on Saturday and Sunday evening\, and CoHo offers 
+ free coffee\, tea\, and granola bars for breakfasts. Friday night dinner w
+ ill be an optional potluck. Breakfast (other than what the hostel offers) 
+ and lunches not included. Evening activities will be offered\, possibilit
+ ies including a movie screening\, star gazing\, fire pit\, and games. Cos
+ t is $210 for AMC members ($225 for non-members) per person for 3 nights a
+ t CoHo and 2 dinners. Refunds are not guaranteed and are dependent on some
+ one taking your spot if this event reaches full capacity. Gear is availab
+ le for loan through the Worcester Chapter Gear Shed for those who may need
+  it. This is intended to be a 20s & 30s affinity trip\, but everyone is w
+ elcome. If you do not identify with that group\, we trust that you have re
+ viewed our allyship criteria\, have done your due diligence to educate you
+ rself\, and have committed to abide by our Code of Conduct. If you have qu
+ estions\, please contact the trip leader(s) by emailing them for more info
+ rmation.
 END:VEVENT
 END:VCALENDAR
