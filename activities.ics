@@ -4,32 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UUN000000vxbF2AQ
-SEQUENCE:0
-DTSTAMP:20250415T014300Z
-DTSTART;VALUE=DATE:20250415
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s & 30s x AMC Worcester Social Committee April Social at Sterlin
- g Street Brewery in Clinton
-LOCATION:175 Sterling S\nClinton\, MA 01510
-DESCRIPTION:Tuesday\, April 15\, 2025 | 6:30 PM\nhttps://activities.outdoo
- rs.org/s/oc-activity/a5UUN000000vxbF2AQ/\nGet outside with the Worcester C
- hapter! The 20s & 30s Committee is joining with the Worcester Chapter Soci
- al Committee to co-host the April social! Join us at Sterling Street Brewe
- ry in Clinton on Tuesday\, April 15 starting at 6:30pm. Learn about fun up
- coming trips and activities this spring\, meet like-minded outdoors enthus
- iasts\, and talk with leaders from the Worcester Chapter! Everyone is welc
- ome to join. There are plenty of drink options\, including non-alcoholic\,
-  as well as food available. We may be outside on the patio if the weather 
- is nice. The event starts at 6:30 but feel free to come when you can! For
-  more info about Sterling Street Brewery\, visit: https://www.sterlingstre
- etbrewery.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN000000rlVR2AY
 SEQUENCE:0
-DTSTAMP:20250415T014300Z
+DTSTAMP:20250416T014234Z
 DTSTART;VALUE=DATE:20250420
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -57,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000yXVl2AM
 SEQUENCE:0
-DTSTAMP:20250415T014300Z
+DTSTAMP:20250416T014234Z
 DTSTART;VALUE=DATE:20250422
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -91,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000pJqD2AU
 SEQUENCE:0
-DTSTAMP:20250415T014300Z
+DTSTAMP:20250416T014234Z
 DTSTART;VALUE=DATE:20250711
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
