@@ -1,4 +1,5 @@
 import path from "node:path"
+import { inspect } from "node:util"
 import {
   NodeRuntime,
   NodeKeyValueStore,
@@ -57,6 +58,7 @@ const lookupActivities = Effect.fn("lookupActivities")(
     return activities
   },
   Effect.timeout("10 seconds"),
+  Effect.catchTag("PlaywrightError", (error) => new ActivityScraper.RequestError({ message: `Playwright error: ${inspect(error)}` })),
   Effect.catchAllCause(
     (cause) =>
       new ActivityScraper.RequestError({ message: Cause.pretty(cause) }),
