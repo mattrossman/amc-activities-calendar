@@ -1,7 +1,7 @@
 import { Schema } from "effect"
 
 export class Location extends Schema.Class<Location>("Location")({
-  street: Schema.String,
+  street: Schema.optional(Schema.String),
   city: Schema.String,
   state: Schema.String,
   postalCode: Schema.optional(Schema.String),
@@ -32,7 +32,7 @@ export class Activity extends Schema.Class<Activity>("Activity")({
   Account__c: Schema.String,
   Description__c: Schema.String,
   Hide_Start_Location_Until_Registered__c: Schema.Boolean,
-  Image_File_ID__c: Schema.String,
+  Image_File_ID__c: Schema.optional(Schema.String),
   Keywords__c: Schema.optional(Schema.String),
   Main_Activity_Sub_Type__c: Schema.String,
   Main_Activity_Type__c: Schema.String,
