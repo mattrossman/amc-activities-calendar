@@ -4,68 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UUN0000012SUH2A2
-SEQUENCE:0
-DTSTAMP:20250517T214416Z
-DTSTART;VALUE=DATE:20250517
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20's & 30's Interchapter Spring Fling: Lunch Social at Rapscallion
-  Pub in Sturbridge\, MA
-LOCATION:3 Arnold Rd\, Fiskdale\, MA 01518\, USA\nSturbridge\, MA
-DESCRIPTION:Saturday\, May 17\, 2025 | 1:00 PM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UUN0000012SUH2A2/\nHappy Spring! To kick-off this 3-
- season hiking window\, a lunch social at Rapscallion Pub in Sturbridge\, M
- A is being hosted by the 20's & 30's groups from your four favorite AMC ch
- apters - Connecticut\, Narragansett\, Western MA\, and Worcester of course
-  :) This is a great opportunity to meet outdoor enthusiasts from these fou
- r neighboring chapters and learn about upcoming activities that each chapt
- er is planning for the Spring/Summer.The cost to attend is $25\, and the l
- unch items that will be included in this are burritos\, flatbreads\, and a
- ppetizers. Vegan options will be available. Drinks (alcoholic and non-alco
- holic) can be purchased additionally.This event will run from 1pm until 5p
- m on Saturday\, May 17th. In the morning before this event\, the leaders o
- f this social will be leading hikes in the area that you can sign up for s
- eparately. Hope to see many of you there!**Please note that registration f
- or the event closes at 8pm on Wednesday\, May 14th so preparations can be 
- made accordingly.**This is intended to be a 20s & 30s affinity trip\, but 
- everyone is welcome. If you do not identify with that group\, we trust tha
- t you have reviewed our allyship criteria\, have done your due diligence t
- o educate yourself\, and have committed to abide by our Code of Conduct. I
- f you have questions\, please contact the trip leader(s) by emailing them 
- for more information*
-END:VEVENT
-BEGIN:VEVENT
-UID:a5UUN0000013nYH2AY
-SEQUENCE:0
-DTSTAMP:20250517T214416Z
-DTSTART;VALUE=DATE:20250517
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20’s & 30’s Interchapter Spring Fling: Hike at Wells State Par
- k
-LOCATION:159 Walker Pond R\nSturbridge\, MA
-DESCRIPTION:Saturday\, May 17\, 2025 | 9:30 AM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UUN0000013nYH2AY/\nJoin us for an exploration of Wel
- ls State Park in Sturbridge\, MA! Our route will cover the perimeter of th
- is State Park\, as well as scenic detours at Walker Mountain peak and Carp
- enter’s Rocks. This will be a ~6.7 mile hike with 597ft elevation gain. 
- We will aim to complete this loop in about 3 hours. This event is part of 
- the 20’s & 30’s Interchapter Spring Fling with the Connecticut\, Narra
- gansett\, Western MA\, and Worcester chapters. After the hike\, participan
- ts are encouraged to attend the Lunch Social at Rapscallion Pub starting a
- t 1pm. Registration is separate\, sign up for that here: Interchapter Spri
- ng Fling: Lunch Social at Rapscallion Pub in Sturbridge\, MAThis is intend
- ed to be a 20s & 30s affinity trip\, but everyone is welcome. If you do no
- t identify with that group\, we trust that you have reviewed our allyship 
- criteria\, have done your due diligence to educate yourself\, and have com
- mitted to abide by our Code of Conduct. If you have questions\, please con
- tact the trip leader(s) by emailing them for more information
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN0000014AwH2AU
 SEQUENCE:0
-DTSTAMP:20250517T214416Z
+DTSTAMP:20250518T015121Z
 DTSTART;VALUE=DATE:20250518
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -95,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000019d4n2AA
 SEQUENCE:0
-DTSTAMP:20250517T214416Z
+DTSTAMP:20250518T015121Z
 DTSTART;VALUE=DATE:20250519
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -120,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000015hQL2AY
 SEQUENCE:0
-DTSTAMP:20250517T214416Z
+DTSTAMP:20250518T015121Z
 DTSTART;VALUE=DATE:20250521
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -146,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000018B5l2AE
 SEQUENCE:0
-DTSTAMP:20250517T214416Z
+DTSTAMP:20250518T015121Z
 DTSTART;VALUE=DATE:20250524
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -176,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000017CqH2AU
 SEQUENCE:0
-DTSTAMP:20250517T214416Z
+DTSTAMP:20250518T015121Z
 DTSTART;VALUE=DATE:20250529
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -197,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000018sgz2AA
 SEQUENCE:0
-DTSTAMP:20250517T214416Z
+DTSTAMP:20250518T015121Z
 DTSTART;VALUE=DATE:20250531
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -224,7 +165,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000018slp2AA
 SEQUENCE:0
-DTSTAMP:20250517T214416Z
+DTSTAMP:20250518T015121Z
 DTSTART;VALUE=DATE:20250607
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -259,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000015g1F2AQ
 SEQUENCE:0
-DTSTAMP:20250517T214416Z
+DTSTAMP:20250518T015121Z
 DTSTART;VALUE=DATE:20250613
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -319,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000pJqD2AU
 SEQUENCE:0
-DTSTAMP:20250517T214416Z
+DTSTAMP:20250518T015121Z
 DTSTART;VALUE=DATE:20250711
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
