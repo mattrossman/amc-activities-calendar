@@ -4,39 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UUN0000014AwH2AU
-SEQUENCE:0
-DTSTAMP:20250518T015121Z
-DTSTART;VALUE=DATE:20250518
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20's & 30's Hike at Mt. Cardigan
-LOCATION:774 Shem Valley R\nAlexandria\, NH
-DESCRIPTION:Sunday\, May 18\, 2025\nhttps://activities.outdoors.org/s/oc-a
- ctivity/a5UUN0000014AwH2AU/\nJoin the Worcester 20's & 30's group for a hi
- ke to the summit of Mt. Cardigan in Alexandria\, NH on Sunday\, May 18th! 
- This hike will be approximately 6.85 miles and 2100ft elevation gain. Mt. 
- Cardigan is part of NH's "52 with a View" list\, so expect to see some gre
- at views from the summit if the weather holds up. This a great opportunity
-  to complete a hike that is an incremental step up in difficulty from loca
- l MA hikes if you are in the process of preparing to do even more difficul
- t hiking (perhaps White Mountain hiking) this summer.One of the trip leade
- rs (Jake Scoggin) has adopted one of the trails that is part of our route 
- for this hike. Once we get to this section\, we will discuss what it means
-  to adopt a trail and what this process looks like.Further details\, such 
- as the start time and location\, will be provided to participants after th
- ey complete the required screening form\, which will be sent shortly after
-  registering. Hope to have you join us!This is intended to be a 20s & 30s 
- affinity trip\, but everyone is welcome. If you do not identify with that 
- group\, we trust that you have reviewed our allyship criteria\, have done 
- your due diligence to educate yourself\, and have committed to abide by ou
- r Code of Conduct. If you have questions\, please contact the trip leader(
- s) by emailing them for more information.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN0000019d4n2AA
 SEQUENCE:0
-DTSTAMP:20250518T015121Z
+DTSTAMP:20250519T015046Z
 DTSTART;VALUE=DATE:20250519
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -61,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000015hQL2AY
 SEQUENCE:0
-DTSTAMP:20250518T015121Z
+DTSTAMP:20250519T015046Z
 DTSTART;VALUE=DATE:20250521
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -87,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000018B5l2AE
 SEQUENCE:0
-DTSTAMP:20250518T015121Z
+DTSTAMP:20250519T015046Z
 DTSTART;VALUE=DATE:20250524
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -117,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000017CqH2AU
 SEQUENCE:0
-DTSTAMP:20250518T015121Z
+DTSTAMP:20250519T015046Z
 DTSTART;VALUE=DATE:20250529
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -138,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000018sgz2AA
 SEQUENCE:0
-DTSTAMP:20250518T015121Z
+DTSTAMP:20250519T015046Z
 DTSTART;VALUE=DATE:20250531
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -165,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000018slp2AA
 SEQUENCE:0
-DTSTAMP:20250518T015121Z
+DTSTAMP:20250519T015046Z
 DTSTART;VALUE=DATE:20250607
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -200,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000015g1F2AQ
 SEQUENCE:0
-DTSTAMP:20250518T015121Z
+DTSTAMP:20250519T015046Z
 DTSTART;VALUE=DATE:20250613
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -260,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000pJqD2AU
 SEQUENCE:0
-DTSTAMP:20250518T015121Z
+DTSTAMP:20250519T015046Z
 DTSTART;VALUE=DATE:20250711
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
