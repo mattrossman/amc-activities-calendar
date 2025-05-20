@@ -4,34 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UUN0000019d4n2AA
-SEQUENCE:0
-DTSTAMP:20250519T015046Z
-DTSTART;VALUE=DATE:20250519
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s/30s Sunset Hike @ Leominster
-LOCATION:G6R3+CF\nLeominster\, MA
-DESCRIPTION:Monday\, May 19\, 2025 | 7:00 PM\nhttps://activities.outdoors.
- org/s/oc-activity/a5UUN0000019d4n2AA/\nPlease join the Worcester 20s and 3
- 0s group for a sunset hike up to a view point from North Monoosnoc Hill in
-  Leominster. Our route will be ~3 miles and 800 ft elevation gain. We'll s
- tart at 7:15 PM to see the sunset from the viewpoint\, and then we'll hike
-  back in the dark (a headlamp is required). The trail is rocky and uneven\
- , and can be slippery after a rain.This is intended to be a 20s & 30s affi
- nity trip\, but everyone is welcome! If you do not identify with that grou
- p\, we trust that you have reviewed our allyship criteria\, have done your
-  due diligence to educate yourself\, and have committed to abide by our Co
- de of Conduct. If you have questions\, please contact the trip leader(s) b
- y emailing them for more information.---Are you an AMC leader-in-training 
- who is attending or has attended Outdoor Leadership Training and are looki
- ng for your first mentored hike? Let me know\, you are welcome to co-lead 
- this hike with me!
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN0000015hQL2AY
 SEQUENCE:0
-DTSTAMP:20250519T015046Z
+DTSTAMP:20250520T014703Z
 DTSTART;VALUE=DATE:20250521
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -46,18 +21,19 @@ DESCRIPTION:Wednesday\, May 21\, 2025 | 7:00 PM\nhttps://activities.outdoo
  r unrelated to roasting on a fire) be our absolute guest to bring them. Th
  is social is BYOB (note: alcoholic beverages are prohibited on Holden town
   property). We also recommend bringing a chair!So come on out\, join us\, 
- mix and mingle\, and hear what's going on in our AMC community.Any questio
- ns at all\, please reach out!This is intended to be a 20s & 30s affinity t
- rip\, but everyone is welcome. If you do not identify with that group\, we
-  trust that you have reviewed our allyship criteria\, have done your due d
- iligence to educate yourself\, and have committed to abide by our Code of 
- Conduct. If you have questions\, please contact the trip leader(s) by emai
- ling them for more information.
+ mix and mingle\, and hear what's going on in our AMC community.NOTE: This 
+ event is NOT rain-or-shine. We'll reach out ASAP if we decide to cancel.An
+ y questions at all\, please reach out!This is intended to be a 20s & 30s a
+ ffinity trip\, but everyone is welcome. If you do not identify with that g
+ roup\, we trust that you have reviewed our allyship criteria\, have done y
+ our due diligence to educate yourself\, and have committed to abide by our
+  Code of Conduct. If you have questions\, please contact the trip leader(s
+ ) by emailing them for more information.
 END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000018B5l2AE
 SEQUENCE:0
-DTSTAMP:20250519T015046Z
+DTSTAMP:20250520T014703Z
 DTSTART;VALUE=DATE:20250524
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -87,7 +63,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000017CqH2AU
 SEQUENCE:0
-DTSTAMP:20250519T015046Z
+DTSTAMP:20250520T014703Z
 DTSTART;VALUE=DATE:20250529
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -108,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000018sgz2AA
 SEQUENCE:0
-DTSTAMP:20250519T015046Z
+DTSTAMP:20250520T014703Z
 DTSTART;VALUE=DATE:20250531
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -135,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000018slp2AA
 SEQUENCE:0
-DTSTAMP:20250519T015046Z
+DTSTAMP:20250520T014703Z
 DTSTART;VALUE=DATE:20250607
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -170,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000015g1F2AQ
 SEQUENCE:0
-DTSTAMP:20250519T015046Z
+DTSTAMP:20250520T014703Z
 DTSTART;VALUE=DATE:20250613
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -230,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000pJqD2AU
 SEQUENCE:0
-DTSTAMP:20250519T015046Z
+DTSTAMP:20250520T014703Z
 DTSTART;VALUE=DATE:20250711
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
