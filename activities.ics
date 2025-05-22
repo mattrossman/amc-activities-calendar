@@ -4,36 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UUN0000015hQL2AY
-SEQUENCE:0
-DTSTAMP:20250521T014637Z
-DTSTART;VALUE=DATE:20250521
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s & 30s Campfire Social
-LOCATION:320 Manning St\, Jefferson\, MA 01522\, USA\nHolden\, MA
-DESCRIPTION:Wednesday\, May 21\, 2025 | 7:00 PM\nhttps://activities.outdoo
- rs.org/s/oc-activity/a5UUN0000015hQL2AY/\nIt's May and the cold times are 
- behind us! Let's embrace these warmer days and nights with an outdoor soci
- al!Join your fellow Worcester 20s & 30s at Trout Brook Reservation in Hold
- en for an evening of s'mores and socializing around the campfire. Material
- s for making s'mores will be provided. If you have other treats (related o
- r unrelated to roasting on a fire) be our absolute guest to bring them. Th
- is social is BYOB (note: alcoholic beverages are prohibited on Holden town
-  property). We also recommend bringing a chair!So come on out\, join us\, 
- mix and mingle\, and hear what's going on in our AMC community.NOTE: This 
- event is NOT rain-or-shine. We'll reach out ASAP if we decide to cancel.An
- y questions at all\, please reach out!This is intended to be a 20s & 30s a
- ffinity trip\, but everyone is welcome. If you do not identify with that g
- roup\, we trust that you have reviewed our allyship criteria\, have done y
- our due diligence to educate yourself\, and have committed to abide by our
-  Code of Conduct. If you have questions\, please contact the trip leader(s
- ) by emailing them for more information.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN0000018B5l2AE
 SEQUENCE:0
-DTSTAMP:20250521T014637Z
+DTSTAMP:20250522T014541Z
 DTSTART;VALUE=DATE:20250524
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -63,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000017CqH2AU
 SEQUENCE:0
-DTSTAMP:20250521T014637Z
+DTSTAMP:20250522T014541Z
 DTSTART;VALUE=DATE:20250529
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -84,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000018sgz2AA
 SEQUENCE:0
-DTSTAMP:20250521T014637Z
+DTSTAMP:20250522T014541Z
 DTSTART;VALUE=DATE:20250531
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -109,43 +82,51 @@ DESCRIPTION:Saturday\, May 31\, 2025\nhttps://activities.outdoors.org/s/oc
  y emailing them for more information.
 END:VEVENT
 BEGIN:VEVENT
-UID:a5UUN000001BAl32AG
+UID:a5UUN000001Bd3t2AC
 SEQUENCE:0
-DTSTAMP:20250521T014637Z
+DTSTAMP:20250522T014541Z
 DTSTART;VALUE=DATE:20250607
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:TrailsFest: 20s/30s Hike at Little Wachusett
-LOCATION:80 Westminster Road\, Princeton\, MA\nPrinceton\, MA 01541
-DESCRIPTION:Saturday\, June 7\, 2025 | 10:00 AM\nhttps://activities.outdoo
- rs.org/s/oc-activity/a5UUN000001BAl32AG/\nJoin the Worcester Chapter 20s &
-  30s for a TrailsFest hike over Little Wachusett! We will hike an approxim
- ately 4 mile loop through the Minns Wildlife Area\, a less traveled trail 
- system just to the south of Wachusett Mountain. We will hike at a moderate
-  pace with about 400 feet of elevation gain. We will begin in the morning.
-  After this trip\, please join us for the TrailsFest 2025 potluck social 
- – including a gear swap – at the Wachusett Mountain Ski Area parking l
- ot at the Balanced Rock trailhead. Sign up for the potluck here: https://
- activities.outdoors.org/s/oc-activity/a5UUN0000013wbZ2AQ/act00013115And ge
- ar swap here: https://activities.outdoors.org/s/oc-activity/a5UUN0000018B4
- 92AE/act00013460 Proper hiking footwear (closed toed\, with laces\, in goo
- d condition) is required as are water (at least 1 liter) and snacks as nee
- ded.TrailsFest\, which has been held annually since 2018\, coincides with 
- National Trails Day and is co-hosted by a group of organizations including
-  the Appalachian Mountain Club\, Greater Worcester Land Trust\, Wachusett 
- Mountain Ski Area\, North County Land Trust\, MA Department of Conservatio
- n & Recreation\, and Mid State Trail Committee.At this event\, we celebrat
- e trails in all their forms: hiking trails\, bike paths\, waterways\, cli
- mbing routes\, etc.Morning thru 1:00: Activities like this one\, througho
- ut the area. All activities are planned to end at the Wachusett Ski Area.1
- :00-5:00 p.m.: Potluck tailgate celebration. Bring a dish: appetizer\, s
- alad\, snack\, dessert\, etc.BYO non-alcoholic beverages\, and a chair.Br
- ing yourself\, your friends and family\, and spread the word!
+SUMMARY:20’s & 30’s TrailsFest Double Summit Hike of Wachusett Mountai
+ n
+LOCATION:41 Mile Hill R\nWestminster\, MA
+DESCRIPTION:Saturday\, June 7\, 2025 | 7:30 AM\nhttps://activities.outdoor
+ s.org/s/oc-activity/a5UUN000001Bd3t2AC/\nLooking for a challenge before en
+ joying the TrailsFest potluck BBQ? Join the Worcester 20’s & 30’s grou
+ p for a hike of Wachusett that will hit the summit not once… but twice! 
+ Our route will take different paths each direction to-and-from the summit 
+ each time. It will be a ~5.5 mile hike with ~2000ft gain. We will start at
+  7:30am with the goal of ending at the potluck BBQ right when it starts ar
+ ound 1pm. This is intended to be a 20s & 30s affinity trip\, but everyone
+  is welcome. If you do not identify with that group\, we trust that you ha
+ ve reviewed our allyship criteria\, have done your due diligence to educat
+ e yourself\, and have committed to abide by our Code of Conduct. If you ha
+ ve questions\, please contact the trip leader(s) by emailing them for more
+  information.We will begin in the morning. After this trip\, please join u
+ s for the TrailsFest 2025 potluck social – including a gear swap – at 
+ the Wachusett Mountain Ski Area parking lot at the Balanced Rock trailhead
+ . Sign up for the potluck here: https://activities.outdoors.org/s/oc-activ
+ ity/a5UUN0000013wbZ2AQ/act00013115And gear swap here: https://activities.o
+ utdoors.org/s/oc-activity/a5UUN0000018B492AE/act00013460 Proper hiking fo
+ otwear (closed toed\, with laces\, in good condition) is required as are w
+ ater (at least 1 liter) and snacks as needed.TrailsFest\, which has been h
+ eld annually since 2018\, coincides with National Trails Day and is co-hos
+ ted by a group of organizations including the Appalachian Mountain Club\, 
+ Greater Worcester Land Trust\, Wachusett Mountain Ski Area\, North County 
+ Land Trust\, MA Department of Conservation & Recreation\, and Mid State Tr
+ ail Committee.At this event\, we celebrate trails in all their forms: hiki
+ ng trails\, bike paths\, waterways\, climbing routes\, etc.Morning thru 1:
+ 00: Activities like this one\, throughout the area. All activities are pla
+ nned to end at the Wachusett Ski Area.1:00-5:00 p.m.: Potluck tailgate cel
+ ebration. Bring a dish: appetizer\, salad\, snack\, dessert\, etc.BYO non-
+ alcoholic beverages\, and a chair.Bring yourself\, your friends and family
+ \, and spread the word!
 END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN0000018slp2AA
 SEQUENCE:0
-DTSTAMP:20250521T014637Z
+DTSTAMP:20250522T014541Z
 DTSTART;VALUE=DATE:20250607
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -178,9 +159,43 @@ DESCRIPTION:Saturday\, June 7\, 2025\nhttps://activities.outdoors.org/s/oc
  g yourself\, your friends and family\, and spread the word!
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UUN000001BAl32AG
+SEQUENCE:0
+DTSTAMP:20250522T014541Z
+DTSTART;VALUE=DATE:20250607
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:TrailsFest: 20s/30s Hike at Little Wachusett
+LOCATION:80 Westminster Road\, Princeton\, MA\nPrinceton\, MA 01541
+DESCRIPTION:Saturday\, June 7\, 2025 | 10:00 AM\nhttps://activities.outdoo
+ rs.org/s/oc-activity/a5UUN000001BAl32AG/\nJoin the Worcester Chapter 20s &
+  30s for a TrailsFest hike over Little Wachusett! We will hike an approxim
+ ately 4 mile loop through the Minns Wildlife Area\, a less traveled trail 
+ system just to the south of Wachusett Mountain. We will hike at a moderate
+  pace with about 400 feet of elevation gain. We will begin in the morning.
+  After this trip\, please join us for the TrailsFest 2025 potluck social 
+ – including a gear swap – at the Wachusett Mountain Ski Area parking l
+ ot at the Balanced Rock trailhead. Sign up for the potluck here: https://
+ activities.outdoors.org/s/oc-activity/a5UUN0000013wbZ2AQ/act00013115And ge
+ ar swap here: https://activities.outdoors.org/s/oc-activity/a5UUN0000018B4
+ 92AE/act00013460 Proper hiking footwear (closed toed\, with laces\, in goo
+ d condition) is required as are water (at least 1 liter) and snacks as nee
+ ded.TrailsFest\, which has been held annually since 2018\, coincides with 
+ National Trails Day and is co-hosted by a group of organizations including
+  the Appalachian Mountain Club\, Greater Worcester Land Trust\, Wachusett 
+ Mountain Ski Area\, North County Land Trust\, MA Department of Conservatio
+ n & Recreation\, and Mid State Trail Committee.At this event\, we celebrat
+ e trails in all their forms: hiking trails\, bike paths\, waterways\, cli
+ mbing routes\, etc.Morning thru 1:00: Activities like this one\, througho
+ ut the area. All activities are planned to end at the Wachusett Ski Area.1
+ :00-5:00 p.m.: Potluck tailgate celebration. Bring a dish: appetizer\, s
+ alad\, snack\, dessert\, etc.BYO non-alcoholic beverages\, and a chair.Br
+ ing yourself\, your friends and family\, and spread the word!
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UUN0000015g1F2AQ
 SEQUENCE:0
-DTSTAMP:20250521T014637Z
+DTSTAMP:20250522T014541Z
 DTSTART;VALUE=DATE:20250613
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -240,7 +255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000pJqD2AU
 SEQUENCE:0
-DTSTAMP:20250521T014637Z
+DTSTAMP:20250522T014541Z
 DTSTART;VALUE=DATE:20250711
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -276,5 +291,47 @@ DESCRIPTION:Friday\, July 11\, 2025 | 8:00 PM\nhttps://activities.outdoors
  rself\, and have committed to abide by our Code of Conduct. If you have qu
  estions\, please contact the trip leader(s) by emailing them for more info
  rmation.
+END:VEVENT
+BEGIN:VEVENT
+UID:a5UUN000001BJy12AG
+SEQUENCE:0
+DTSTAMP:20250522T014541Z
+DTSTART;VALUE=DATE:20250815
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s Trail Work Weekend in AMC’s Maine Woods
+LOCATION:75 Little Lyford Pond Rd\nGreenville\, ME
+DESCRIPTION:Friday\, August 15\, 2025 | 5:00 PM\nhttps://activities.outdoo
+ rs.org/s/oc-activity/a5UUN000001BJy12AG/\nJoin the Worcester and Boston Ch
+ apter 20s & 30s groups for a weekend of trail work in the beautiful and re
+ mote Maine Woods! This three night\, three day trip includes two full days
+  of trail work and three nights' stay at AMC's Little Lyford Lodge\, plus 
+ a hike/exploration day on Monday. Participants are encouraged to arrive by
+  late afternoon/early evening Friday to provide ample time to get to the l
+ odge for dinner before the gate closes.This trip is designed for people in
+  their 20s & 30s who are interested in learning about trail work and bring
+ ing back newly gained skills to local chapter opportunities. No trail work
+  experience is required\, only a desire to learn trail work techniques and
+  contribute to the restoration of mountain trails. Activities may include 
+ brushing\, timber and rock step installation\, clearing drainages\, buildi
+ ng bridges\, and erosion control and will be somewhat tailored to the inte
+ rests and abilities of the group. The trail work will involve hiking a few
+  miles each day with moderate elevation gain. We will be working under the
+  leadership and guidance of AMC’s Professional Trail Crew with tools and
+  safety gear provided. Expect to be out for about 7 hours Saturday and 7 h
+ ours Sunday.At the end of each day\, we’ll enjoy social time and dinner 
+ back at the lodge. Accommodations are cabins and a bunkhouse at Little Ly
+ ford\, one of AMC's lodges in the heart of the 100-mile Wilderness in the 
+ Maine Woods. Breakfast\, trail lunch\, and dinner (Friday dinner through M
+ onday lunch) are included with the cost of the stay. Cost for the 3 night 
+ trip will be $297 paid directly to AMC Lodging. Once participants have reg
+ istered and have been confirmed\, a leader will reach out with the require
+ d information for booking.To register for the trip\, click the Register N
+ ow button and the leaders will be in touch with next steps.Cancellation po
+ licy: AMC Lodging cancellation policy applies. To request a refund\, parti
+ cipants must reach out to AMC Lodging directly\, as well as notify trip le
+ aders. Participants can cancel up to 14 days prior to check-in (August 1st
+ ) and receive a full refund less a $10 per person\, per night fee\; no ref
+ unds for cancellations made fewer than 14 days prior to arrival date.
 END:VEVENT
 END:VCALENDAR
