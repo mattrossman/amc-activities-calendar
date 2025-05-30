@@ -4,30 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UUN0000017CqH2AU
-SEQUENCE:0
-DTSTAMP:20250529T014640Z
-DTSTART;VALUE=DATE:20250529
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Worcester 20s & 30s Social at Steel & Wire
-LOCATION:124 Millbury S\nWorcester\, MA 01610
-DESCRIPTION:Thursday\, May 29\, 2025 | 6:30 PM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UUN0000017CqH2AU/\nJoin the Worcester Chapter 20s & 
- 30s for a casual social at Steel & Wire\, a fun neighborhood bar in downto
- wn Worcester! The event will take place on Thursday\, May 29 starting at 6
- :30pm. We welcome new and longtime friends to come learn about all of the 
- exciting upcoming trips and activities this spring and summer. Plus\, meet
-  like-minded outdoors enthusiasts and leaders from the Worcester Chapter! 
- Enjoy a spring cocktail and light snacks. Non-alcoholic options available 
- as well. We will be outside on the patio if the weather is nice. The even
- t starts at 6:30 but feel free to come when you can!For more info about St
- eel & Wire\, visit: Steel & Wire
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN0000018sgz2AA
 SEQUENCE:0
-DTSTAMP:20250529T014640Z
+DTSTAMP:20250530T014526Z
 DTSTART;VALUE=DATE:20250531
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -52,9 +31,78 @@ DESCRIPTION:Saturday\, May 31\, 2025\nhttps://activities.outdoors.org/s/oc
  y emailing them for more information.
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UUN0000018slp2AA
+SEQUENCE:0
+DTSTAMP:20250530T014526Z
+DTSTART;VALUE=DATE:20250607
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:TrailsFest – 20s & 30s Midstate Trail Hike – Leominster State 
+ Forest to Wachusett Mountain
+LOCATION:Massachusetts\, USA\nLeominster\, MA
+DESCRIPTION:Saturday\, June 7\, 2025\nhttps://activities.outdoors.org/s/oc
+ -activity/a5UUN0000018slp2AA/\nJoin the Worcester Chapter 20s & 30s for a 
+ TrailsFest hike on the Midstate Trail through Leominster State Forest! We 
+ will hike approximately 5 miles along the Midstate Trail to Wachusett Moun
+ tain. This will be an end-to-end hike with a car spot. We will hike at a m
+ oderate pace with about 800 feet of elevation gain. Learn more about the M
+ idstate Trail here: Map Room and Hike Resources | The Midstate TrailWe wil
+ l begin in the morning. After this trip\, please join us for the TrailsFes
+ t 2025 potluck social – including a gear swap – at the Wachusett Mount
+ ain Ski Area parking lot at the Balanced Rock trailhead. Sign up for the p
+ otluck here: https://activities.outdoors.org/s/oc-activity/a5UUN0000013wbZ
+ 2AQ/act00013115Proper hiking footwear (closed toed\, with laces\, in good 
+ condition) is required as are water (at least 1 liter) and snacks as neede
+ d.TrailsFest\, which has been held annually since 2018\, coincides with Na
+ tional Trails Day and is co-hosted by a group of organizations including t
+ he Appalachian Mountain Club\, Greater Worcester Land Trust\, Wachusett Mo
+ untain Ski Area\, North County Land Trust\, MA Department of Conservation 
+ & Recreation\, and Mid State Trail Committee.At this event\, we celebrate 
+ trails in all their forms: hiking trails\, bike paths\, waterways\, climb
+ ing routes\, etc.Morning thru 1:00: Activities like this one\, throughout
+  the area. All activities are planned to end at the Wachusett Ski Area.1:0
+ 0-5:00 p.m.: Potluck tailgate celebration. Bring a dish: appetizer\, sal
+ ad\, snack\, dessert\, etc.BYO non-alcoholic beverages\, and a chair.Brin
+ g yourself\, your friends and family\, and spread the word!
+END:VEVENT
+BEGIN:VEVENT
+UID:a5UUN000001BAl32AG
+SEQUENCE:0
+DTSTAMP:20250530T014526Z
+DTSTART;VALUE=DATE:20250607
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:TrailsFest: 20s/30s Hike at Little Wachusett
+LOCATION:80 Westminster Road\, Princeton\, MA\nPrinceton\, MA 01541
+DESCRIPTION:Saturday\, June 7\, 2025 | 9:45 AM\nhttps://activities.outdoor
+ s.org/s/oc-activity/a5UUN000001BAl32AG/\nJoin the Worcester Chapter 20s & 
+ 30s for a TrailsFest hike over Little Wachusett! We will hike an approxima
+ tely 4 mile loop through the Minns Wildlife Area\, a less traveled trail s
+ ystem just to the south of Wachusett Mountain. We will hike at a moderate 
+ pace with about 400 feet of elevation gain. We will begin in the morning. 
+ After this trip\, please join us for the TrailsFest 2025 potluck social 
+ – including a gear swap – at the Wachusett Mountain Ski Area parking l
+ ot at the Balanced Rock trailhead. Sign up for the potluck here: https://
+ activities.outdoors.org/s/oc-activity/a5UUN0000013wbZ2AQ/act00013115And ge
+ ar swap here: https://activities.outdoors.org/s/oc-activity/a5UUN0000018B4
+ 92AE/act00013460 Proper hiking footwear (closed toed\, with laces\, in goo
+ d condition) is required as are water (at least 1 liter) and snacks as nee
+ ded.TrailsFest\, which has been held annually since 2018\, coincides with 
+ National Trails Day and is co-hosted by a group of organizations including
+  the Appalachian Mountain Club\, Greater Worcester Land Trust\, Wachusett 
+ Mountain Ski Area\, North County Land Trust\, MA Department of Conservatio
+ n & Recreation\, and Mid State Trail Committee.At this event\, we celebrat
+ e trails in all their forms: hiking trails\, bike paths\, waterways\, cli
+ mbing routes\, etc.Morning thru 1:00: Activities like this one\, througho
+ ut the area. All activities are planned to end at the Wachusett Ski Area.1
+ :00-5:00 p.m.: Potluck tailgate celebration. Bring a dish: appetizer\, s
+ alad\, snack\, dessert\, etc.BYO non-alcoholic beverages\, and a chair.Br
+ ing yourself\, your friends and family\, and spread the word!
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UUN000001Bd3t2AC
 SEQUENCE:0
-DTSTAMP:20250529T014640Z
+DTSTAMP:20250530T014526Z
 DTSTART;VALUE=DATE:20250607
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -94,78 +142,9 @@ DESCRIPTION:Saturday\, June 7\, 2025 | 7:30 AM\nhttps://activities.outdoor
  \, and spread the word!
 END:VEVENT
 BEGIN:VEVENT
-UID:a5UUN0000018slp2AA
-SEQUENCE:0
-DTSTAMP:20250529T014640Z
-DTSTART;VALUE=DATE:20250607
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:TrailsFest – 20s & 30s Midstate Trail Hike – Leominster State 
- Forest to Wachusett Mountain
-LOCATION:Massachusetts\, USA\nLeominster\, MA
-DESCRIPTION:Saturday\, June 7\, 2025\nhttps://activities.outdoors.org/s/oc
- -activity/a5UUN0000018slp2AA/\nJoin the Worcester Chapter 20s & 30s for a 
- TrailsFest hike on the Midstate Trail through Leominster State Forest! We 
- will hike approximately 5 miles along the Midstate Trail to Wachusett Moun
- tain. This will be an end-to-end hike with a car spot. We will hike at a m
- oderate pace with about 800 feet of elevation gain. Learn more about the M
- idstate Trail here: Map Room and Hike Resources | The Midstate TrailWe wil
- l begin in the morning. After this trip\, please join us for the TrailsFes
- t 2025 potluck social – including a gear swap – at the Wachusett Mount
- ain Ski Area parking lot at the Balanced Rock trailhead. Sign up for the p
- otluck here: https://activities.outdoors.org/s/oc-activity/a5UUN0000013wbZ
- 2AQ/act00013115Proper hiking footwear (closed toed\, with laces\, in good 
- condition) is required as are water (at least 1 liter) and snacks as neede
- d.TrailsFest\, which has been held annually since 2018\, coincides with Na
- tional Trails Day and is co-hosted by a group of organizations including t
- he Appalachian Mountain Club\, Greater Worcester Land Trust\, Wachusett Mo
- untain Ski Area\, North County Land Trust\, MA Department of Conservation 
- & Recreation\, and Mid State Trail Committee.At this event\, we celebrate 
- trails in all their forms: hiking trails\, bike paths\, waterways\, climb
- ing routes\, etc.Morning thru 1:00: Activities like this one\, throughout
-  the area. All activities are planned to end at the Wachusett Ski Area.1:0
- 0-5:00 p.m.: Potluck tailgate celebration. Bring a dish: appetizer\, sal
- ad\, snack\, dessert\, etc.BYO non-alcoholic beverages\, and a chair.Brin
- g yourself\, your friends and family\, and spread the word!
-END:VEVENT
-BEGIN:VEVENT
-UID:a5UUN000001BAl32AG
-SEQUENCE:0
-DTSTAMP:20250529T014640Z
-DTSTART;VALUE=DATE:20250607
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:TrailsFest: 20s/30s Hike at Little Wachusett
-LOCATION:80 Westminster Road\, Princeton\, MA\nPrinceton\, MA 01541
-DESCRIPTION:Saturday\, June 7\, 2025 | 9:45 AM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UUN000001BAl32AG/\nJoin the Worcester Chapter 20s & 
- 30s for a TrailsFest hike over Little Wachusett! We will hike an approxima
- tely 4 mile loop through the Minns Wildlife Area\, a less traveled trail s
- ystem just to the south of Wachusett Mountain. We will hike at a moderate 
- pace with about 400 feet of elevation gain. We will begin in the morning. 
- After this trip\, please join us for the TrailsFest 2025 potluck social 
- – including a gear swap – at the Wachusett Mountain Ski Area parking l
- ot at the Balanced Rock trailhead. Sign up for the potluck here: https://
- activities.outdoors.org/s/oc-activity/a5UUN0000013wbZ2AQ/act00013115And ge
- ar swap here: https://activities.outdoors.org/s/oc-activity/a5UUN0000018B4
- 92AE/act00013460 Proper hiking footwear (closed toed\, with laces\, in goo
- d condition) is required as are water (at least 1 liter) and snacks as nee
- ded.TrailsFest\, which has been held annually since 2018\, coincides with 
- National Trails Day and is co-hosted by a group of organizations including
-  the Appalachian Mountain Club\, Greater Worcester Land Trust\, Wachusett 
- Mountain Ski Area\, North County Land Trust\, MA Department of Conservatio
- n & Recreation\, and Mid State Trail Committee.At this event\, we celebrat
- e trails in all their forms: hiking trails\, bike paths\, waterways\, cli
- mbing routes\, etc.Morning thru 1:00: Activities like this one\, througho
- ut the area. All activities are planned to end at the Wachusett Ski Area.1
- :00-5:00 p.m.: Potluck tailgate celebration. Bring a dish: appetizer\, s
- alad\, snack\, dessert\, etc.BYO non-alcoholic beverages\, and a chair.Br
- ing yourself\, your friends and family\, and spread the word!
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN0000015g1F2AQ
 SEQUENCE:0
-DTSTAMP:20250529T014640Z
+DTSTAMP:20250530T014526Z
 DTSTART;VALUE=DATE:20250613
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -225,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000pJqD2AU
 SEQUENCE:0
-DTSTAMP:20250529T014640Z
+DTSTAMP:20250530T014526Z
 DTSTART;VALUE=DATE:20250711
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -265,7 +244,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000001BJy12AG
 SEQUENCE:0
-DTSTAMP:20250529T014640Z
+DTSTAMP:20250530T014526Z
 DTSTART;VALUE=DATE:20250815
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
