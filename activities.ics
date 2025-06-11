@@ -4,33 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UUN000001DouT2AS
-SEQUENCE:0
-DTSTAMP:20250610T015000Z
-DTSTART;VALUE=DATE:20250610
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20's & 30's Full Moon Hike at Mt. Wachusett
-LOCATION:F4Q5+29\nPrinceton\, MA
-DESCRIPTION:Tuesday\, June 10\, 2025 | 7:30 PM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UUN000001DouT2AS/\nJoin us for an evening hike up Mt
- . Wachusett during an (almost) full moon called the Strawberry moon! We wi
- ll hike 3-4 miles with a total elevation gain of about 750 ft. Weather per
- mitting\, we plan to spend some time at the summit to enjoy the sunset or 
- the moon and stars and perhaps some snacks.The trails will include section
- s of moderate terrain and we will be moving at a moderate pace.Proper equi
- pment will be required for this hike\, including: hiking and weather appro
- priate clothing\, water\, and a headlamp. No dogs please. This is intende
- d to be a 20s & 30s affinity trip\, but everyone is welcome. If you do not
-  identify with that group\, we trust that you have reviewed our allyship c
- riteria\, have done your due diligence to educate yourself\, and have comm
- itted to abide by our Code of Conduct. If you have questions\, please cont
- act the trip leader(s) by emailing them for more information.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN0000015g1F2AQ
 SEQUENCE:0
-DTSTAMP:20250610T015000Z
+DTSTAMP:20250611T014937Z
 DTSTART;VALUE=DATE:20250613
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -88,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000000pJqD2AU
 SEQUENCE:0
-DTSTAMP:20250610T015000Z
+DTSTAMP:20250611T014937Z
 DTSTART;VALUE=DATE:20250711
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -135,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000001BJy12AG
 SEQUENCE:0
-DTSTAMP:20250610T015000Z
+DTSTAMP:20250611T014937Z
 DTSTART;VALUE=DATE:20250815
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
