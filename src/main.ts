@@ -5,12 +5,10 @@ import {
   NodeKeyValueStore,
   NodeContext,
 } from "@effect/platform-node"
-import { NodeSdk } from "@effect/opentelemetry"
 import { Cause, Config, Effect, Layer, Match, Option } from "effect"
 import { PersistedCache, Persistence } from "@effect/experimental"
-import { FileSystem } from "@effect/platform"
-import { BatchSpanProcessor } from "@opentelemetry/sdk-trace-base"
-import { OTLPTraceExporter } from "@opentelemetry/exporter-trace-otlp-http"
+import { FileSystem, FetchHttpClient } from "@effect/platform"
+import { Otlp } from "@effect/opentelemetry"
 
 import * as ActivityScraper from "~/ActivityScraper"
 import * as ICalGenerator from "~/ICalGenerator"
@@ -24,10 +22,15 @@ const ICAL_DIRECTORY = "./generated"
 const ICAL_FILENAME = "activities.ics"
 const ICAL_NAME = `AMC Worcester 20's & 30's`
 
-const NodeSdkLive = NodeSdk.layer(() => ({
-  resource: { serviceName: "effect" },
-  spanProcessor: new BatchSpanProcessor(new OTLPTraceExporter()),
-}))
+
+// Includes an Effect Tracer, Logger & Metric exporter
+// https://github.com/Effect-TS/effect/pull/4740
+const Observability = Otlp.layer({
+  baseUrl: "http://localhost:4318",
+  resource: {
+    serviceName: "effect"
+  }
+}).pipe(Layer.provide(FetchHttpClient.layer))
 
 const ResultPersistenceLive = NODE_ENV.pipe(
   Effect.map((env) =>
@@ -47,7 +50,7 @@ const ResultPersistenceLive = NODE_ENV.pipe(
 const MainLayer = Layer.mergeAll(
   ActivityScraper.ActivityScraper.Default,
   NodeContext.layer,
-  NodeSdkLive,
+  Observability,
   ResultPersistenceLive,
 )
 
