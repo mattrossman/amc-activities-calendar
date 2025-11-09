@@ -4,14 +4,45 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:scraper-error-2025-11-09
+UID:a5UUN000001uEfd2AE
 SEQUENCE:0
-DTSTAMP:20251109T173129Z
-DTSTART;VALUE=DATE:20251109
+DTSTAMP:20251109T173415Z
+DTSTART;VALUE=DATE:20251113
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Activity Scraper Error: 2 activities failed to parse
-DESCRIPTION:2 activities failed to parse. Check logs: https://github.com/m
- attrossman/amc-activities-calendar/actions
+SUMMARY:Worcester 20s & 30s November Social at NU Kitchen
+LOCATION:335 Chandler S\nWorcester\, MA
+DESCRIPTION:Thursday\, November 13\, 2025 | 6:00 PM\nhttps://activities.ou
+ tdoors.org/s/oc-activity/a5UUN000001uEfd2AE/\nJoin us for a social at NU K
+ itchen in Worcester on Thursday\, November 13th at 6:00pm! Hang out with o
+ ther young members and leaders from the Worcester Chapter and learn about 
+ fun upcoming trips this winter. Everyone is welcome-- new and returning pa
+ rticipants! NU Kitchen offers a variety of salads\, grain bowls\, sandwich
+ es\, smoothies\, and breakfast foods. Hope to see you there!Registration i
+ s required so the leader can be in touch in case of change of venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:a5UUN000001tTTp2AM
+SEQUENCE:0
+DTSTAMP:20251109T173415Z
+DTSTART;VALUE=DATE:20251122
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s Hike at Mt. Kearsarge (South)
+LOCATION:Lincoln Trail\, 122-198 Kearsarge Valley R\nWarner\, NH
+DESCRIPTION:Saturday\, November 22\, 2025\nhttps://activities.outdoors.org
+ /s/oc-activity/a5UUN000001tTTp2AM/\nJoin the Worcester 20s & 30s group for
+  a hike of Mt. Kearsarge (South) in Warner\, NH on Saturday\, November 22n
+ d! This hike will be just under 10 miles and around 2\,500 ft elevation ga
+ in. Our intention is to go at a roughly a 1.5 mile per hour pace. Expect t
+ o be on trail for the full day.Mt. Kearsarge is part of NH's 52 with-a-vie
+ w list. On a clear day\, you can see the Boston skyline as well as a 360-d
+ egree view!Sturdy shoes with laces\, at least 2 liters of water\, snacks/l
+ unch\, and appropriate layers of clothing are required. Participants shoul
+ d be prepared for winter conditions and will likely be requested to bring 
+ microspikes in case of ice at higher elevations. No dogs\, please. Further
+  details\, such as start time and location\, will be provided to participa
+ nts after they complete the required screening form\, which will be sent a
+ fter registering. Hope to have you join us!
 END:VEVENT
 END:VCALENDAR
