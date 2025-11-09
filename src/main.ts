@@ -79,14 +79,16 @@ const program = Effect.gen(function* () {
     ),
   )
 
-  const activities = yield* activitiesCache.get(
+  const result = yield* activitiesCache.get(
     new ActivityScraper.Request({
       url: "https://activities.outdoors.org/s/?chapters=0015000001Sg069AAB&audiences=20%E2%80%99s+%26+30%E2%80%99s",
     }),
   )
 
   /** The current snapshot of the activities calendar */
-  const iCalCurrent = yield* ICalGenerator.fromActivities(activities)
+  const iCalCurrent = yield* ICalGenerator.fromActivities(result.activities).pipe(
+    Effect.flatMap((cal) => ICalGenerator.addErrorEvent(cal, result.failedCount)),
+  )
 
   const fs = yield* FileSystem.FileSystem
 

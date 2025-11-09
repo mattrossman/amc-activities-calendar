@@ -111,3 +111,31 @@ export const fromActivities = Effect.fn("fromActivities")(function* (
 export const withName = (cal: ICalCalendar, name: string) => {
   return ical({ ...cal.toJSON(), name })
 }
+
+export const addErrorEvent = Effect.fn("addErrorEvent")(function* (
+  cal: ICalCalendar,
+  failedCount: number,
+) {
+  if (failedCount === 0) {
+    return cal
+  }
+
+  const today = new Date()
+  today.setHours(0, 0, 0, 0)
+
+  const dateStr = today.toISOString().split("T")[0]
+  const eventId = `scraper-error-${dateStr}`
+
+  const summary = `Activity Scraper Error: ${String(failedCount)} activities failed to parse`
+  const description = `${String(failedCount)} activities failed to parse. Check logs: https://github.com/mattrossman/amc-activities-calendar/actions`
+
+  cal.createEvent({
+    id: eventId,
+    start: today,
+    allDay: true,
+    summary,
+    description,
+  })
+
+  return cal
+})

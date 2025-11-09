@@ -8,6 +8,13 @@ export class RequestError extends Schema.TaggedError<RequestError>(
   message: Schema.String,
 }) {}
 
+export class ActivitiesResult extends Schema.Class<ActivitiesResult>(
+  "ActivitiesResult"
+)({
+  activities: Activity.Activities,
+  failedCount: Schema.Number,
+}) {}
+
 const URLString = Schema.String.pipe(
   Schema.filter((a) => Either.try(() => new URL(a)).pipe(Either.isRight), {
     identifier: "URLString",
@@ -19,7 +26,7 @@ export class Request extends Schema.TaggedRequest<Request>()(
   "ActivityScraper/Request",
   {
     failure: RequestError,
-    success: Activity.Activities,
+    success: ActivitiesResult,
     payload: {
       url: URLString,
     },
@@ -52,9 +59,31 @@ export class ActivityScraper extends Effect.Service<ActivityScraper>()(
           return result
         })
 
-        const decode = Schema.parseJson(Activity.Activities).pipe(Schema.decode)
+        // Parse as raw array first
+        const rawArraySchema = Schema.parseJson(Schema.Array(Schema.Unknown))
+        const rawArray = yield* Schema.decodeUnknown(rawArraySchema)(resultStr)
 
-        return yield* decode(resultStr)
+        // Validate each activity individually
+        const activities: Activity.Activity[] = []
+        let failedCount = 0
+
+        for (const item of rawArray) {
+          const decodeItem = Schema.decodeUnknown(Activity.Activity)
+          const either = yield* decodeItem(item).pipe(Effect.either)
+          
+          if (Either.isLeft(either)) {
+            failedCount++
+            yield* Effect.log("Failed to parse activity").pipe(
+              Effect.flatMap(() =>
+                Effect.logError("Parse error", Either.getLeft(either)),
+              ),
+            )
+          } else {
+            activities.push(either.right)
+          }
+        }
+
+        return new ActivitiesResult({ activities, failedCount })
       }, Effect.provide(Playwright.Page.Live))
 
       return get
