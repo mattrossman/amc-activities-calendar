@@ -50,7 +50,6 @@ export class Activity extends Schema.Class<Activity>("Activity")({
   Time_Zone__c: Schema.String,
   Start_Location__c: Schema.optional(Location),
   OC_Trip_Leaders__r: Schema.Array(TripLeader),
-  DELETE_ME_FAKE_FIELD: Schema.String,
 }) {}
 
 export const Activities = Schema.Array(Activity)
