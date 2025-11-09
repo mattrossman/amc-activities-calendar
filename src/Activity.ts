@@ -38,7 +38,7 @@ export class Activity extends Schema.Class<Activity>("Activity")({
   Main_Activity_Type__c: Schema.String,
   Program_Type__c: Schema.String,
   Online_Event__c: Schema.Boolean,
-  Register_By_Date__c: Schema.DateTimeUtc,
+  Register_By_Date__c: Schema.optional(Schema.DateTimeUtc),
   Register_By_Date_Passed__c: Schema.Boolean,
   Registration_Type__c: Schema.String,
   Secondary_Activity_Type__c: Schema.optional(Schema.String),
