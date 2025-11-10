@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UUN000001uEfd2AE
 SEQUENCE:0
-DTSTAMP:20251109T173415Z
+DTSTAMP:20251110T012906Z
 DTSTART;VALUE=DATE:20251113
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -24,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000001tTTp2AM
 SEQUENCE:0
-DTSTAMP:20251109T173415Z
+DTSTAMP:20251110T012906Z
 DTSTART;VALUE=DATE:20251122
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -44,5 +44,39 @@ DESCRIPTION:Saturday\, November 22\, 2025\nhttps://activities.outdoors.org
   details\, such as start time and location\, will be provided to participa
  nts after they complete the required screening form\, which will be sent a
  fter registering. Hope to have you join us!
+END:VEVENT
+BEGIN:VEVENT
+UID:a5UUN000001vqpP2AQ
+SEQUENCE:0
+DTSTAMP:20251110T012906Z
+DTSTART;VALUE=DATE:20251130
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s&30s Hike at Mt Watatic
+LOCATION:Ashburnham\, MA
+DESCRIPTION:Sunday\, November 30\, 2025\nhttps://activities.outdoors.org/s
+ /oc-activity/a5UUN000001vqpP2AQ/\nLet’s bid a fond farewell to fall with
+  one final hike! Climb to the summit of Mt. Wataticwith us to take in spec
+ tacular views from its open peak that stretch from Mount Greylockin the we
+ st to Boston in the east. Ascend on old cart roads through stands of red m
+ apleand white wood asters and then descend back down the rocky western slo
+ pe to see..abig rock!This 2.8 mile loop with 700’ of elevation gain is e
+ xpected to take 2-3 hours. It’s a veryapproachable trip for novice hiker
+ s with good mobility and those who identify asphysically active. We’ll p
+ lan to keep a moderate pace (1.5mph) to ensure we staytogether as a group.
+  This is a popular hike\, so you can expect a well-trodden dirt pathon the
+  ascent. The descent from Mount Watatic is rocky and uneven\, so you mayap
+ preciate bringing a set of hiking poles.Daytime highs in Ashburnham and As
+ hby have been ranging from just below freezing(32F) to 50F lately\, so mak
+ e sure you’re come dressed in layers and prepared for coldweather. Puffy
+  jackets or a similar insulating layer are a must\, as well as a hat and s
+ et ofgloves/mittens. Mount Watatic’s peak is exposed\, so pack a wind-pr
+ oof outer layer toward off the chill. Trip leaders will be monitoring the 
+ weather for icy conditions inadvance since light rain and freeze/thaw cond
+ itions are expected in the next coupleweeks.You can expect an email with f
+ urther details\, including the exact meeting time\, one weekin advance of 
+ the trip.Any cancellations due to weather will be sent out via email the d
+ ay before the trip.Rain\, stormy weather\, or icy conditions will cancel t
+ his trip.
 END:VEVENT
 END:VCALENDAR
