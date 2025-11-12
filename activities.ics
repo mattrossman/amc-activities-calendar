@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UUN000001uEfd2AE
 SEQUENCE:0
-DTSTAMP:20251111T012633Z
+DTSTAMP:20251112T012709Z
 DTSTART;VALUE=DATE:20251113
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -22,9 +22,27 @@ DESCRIPTION:Thursday\, November 13\, 2025 | 6:00 PM\nhttps://activities.ou
  s required so the leader can be in touch in case of change of venue.
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UUN000001wJw92AE
+SEQUENCE:0
+DTSTAMP:20251112T012709Z
+DTSTART;VALUE=DATE:20251120
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Mt. Wachusett Evening Hike
+LOCATION:Princeton\, MA
+DESCRIPTION:Thursday\, November 20\, 2025\nhttps://activities.outdoors.org
+ /s/oc-activity/a5UUN000001wJw92AE/\nJoin the Worcester 20s and 30s group f
+ or an evening hike up Mt. Wachusett! This moderate hike will cover 4 miles
+  and 1000 ft of elevation gain. We will meet at 7 on Thursday\, November 2
+ 0.What to bring:Sturdy shoesMultiple layes of clothingA rain jacket in cas
+ e of light rainWaterA headlampWe will send the meetup location to register
+ ed participants the day before the hike.We're looking forward to hiking wi
+ th you!
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UUN000001tTTp2AM
 SEQUENCE:0
-DTSTAMP:20251111T012633Z
+DTSTAMP:20251112T012709Z
 DTSTART;VALUE=DATE:20251122
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -48,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000001vqpP2AQ
 SEQUENCE:0
-DTSTAMP:20251111T012633Z
+DTSTAMP:20251112T012709Z
 DTSTART;VALUE=DATE:20251130
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -68,15 +86,15 @@ DESCRIPTION:Sunday\, November 30\, 2025\nhttps://activities.outdoors.org/s
   ascent. The descent from Mount Watatic is rocky and uneven\, so you mayap
  preciate bringing a set of hiking poles.Daytime highs in Ashburnham and As
  hby have been ranging from just below freezing(32F) to 50F lately\, so mak
- e sure you’re come dressed in layers and prepared for coldweather. Puffy
-  jackets or a similar insulating layer are a must\, as well as a hat and s
- et ofgloves/mittens. Mount Watatic’s peak is exposed\, so pack a wind-pr
- oof outer layer toward off the chill. Trip leaders will be monitoring the 
- weather for icy conditions inadvance since light rain and freeze/thaw cond
- itions are expected in the next coupleweeks.You can expect an email with f
- urther details\, including the exact meeting time\, one weekin advance of 
- the trip.Any cancellations due to weather will be sent out via email the d
- ay before the trip.Rain\, stormy weather\, or icy conditions will cancel t
- his trip.
+ e sure you come dressed in layers and prepared for coldweather. Puffy jack
+ ets or a similar insulating layer are a must\, as well as a hat and set of
+ gloves/mittens. Mount Watatic’s peak is exposed\, so pack a wind-proof o
+ uter layer toward off the chill. Trip leaders will be monitoring the weath
+ er for icy conditions inadvance since light rain and freeze/thaw condition
+ s are expected in the next coupleweeks.You can expect an email with furthe
+ r details\, including the exact meeting time\, one weekin advance of the t
+ rip.Any cancellations due to weather will be sent out via email the day be
+ fore the trip.Rain\, stormy weather\, or icy conditions will cancel this t
+ rip.
 END:VEVENT
 END:VCALENDAR
