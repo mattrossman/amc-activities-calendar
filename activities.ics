@@ -4,27 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UUN000001uEfd2AE
-SEQUENCE:0
-DTSTAMP:20251113T012642Z
-DTSTART;VALUE=DATE:20251113
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Worcester 20s & 30s November Social at NU Kitchen
-LOCATION:335 Chandler S\nWorcester\, MA
-DESCRIPTION:Thursday\, November 13\, 2025 | 6:00 PM\nhttps://activities.ou
- tdoors.org/s/oc-activity/a5UUN000001uEfd2AE/\nJoin us for a social at NU K
- itchen in Worcester on Thursday\, November 13th at 6:00pm! Hang out with o
- ther young members and leaders from the Worcester Chapter and learn about 
- fun upcoming trips this winter. Everyone is welcome-- new and returning pa
- rticipants! NU Kitchen offers a variety of salads\, grain bowls\, sandwich
- es\, smoothies\, and breakfast foods. Hope to see you there!Registration i
- s required so the leader can be in touch in case of change of venue.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN000001wJw92AE
 SEQUENCE:0
-DTSTAMP:20251113T012642Z
+DTSTAMP:20251114T012627Z
 DTSTART;VALUE=DATE:20251120
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -42,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000001tTTp2AM
 SEQUENCE:0
-DTSTAMP:20251113T012642Z
+DTSTAMP:20251114T012627Z
 DTSTART;VALUE=DATE:20251122
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -66,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000001vqpP2AQ
 SEQUENCE:0
-DTSTAMP:20251113T012642Z
+DTSTAMP:20251114T012627Z
 DTSTART;VALUE=DATE:20251130
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
