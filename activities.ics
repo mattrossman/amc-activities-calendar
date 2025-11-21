@@ -4,27 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UUN000001wJw92AE
-SEQUENCE:0
-DTSTAMP:20251120T012357Z
-DTSTART;VALUE=DATE:20251120
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Mt. Wachusett Evening Hike
-LOCATION:Princeton\, MA
-DESCRIPTION:Thursday\, November 20\, 2025\nhttps://activities.outdoors.org
- /s/oc-activity/a5UUN000001wJw92AE/\nJoin the Worcester 20s and 30s group f
- or an evening hike up Mt. Wachusett! This moderate hike will cover 4 miles
-  and 1000 ft of elevation gain. We will meet at 7 on Thursday\, November 2
- 0.What to bring:Sturdy shoesMultiple layes of clothingA rain jacket in cas
- e of light rainWaterA headlampWe will send the meetup location to register
- ed participants the day before the hike.We're looking forward to hiking wi
- th you!
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN000001tTTp2AM
 SEQUENCE:0
-DTSTAMP:20251120T012357Z
+DTSTAMP:20251121T012500Z
 DTSTART;VALUE=DATE:20251122
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -48,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UUN000001vqpP2AQ
 SEQUENCE:0
-DTSTAMP:20251120T012357Z
+DTSTAMP:20251121T012500Z
 DTSTART;VALUE=DATE:20251130
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
