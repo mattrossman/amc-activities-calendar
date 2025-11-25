@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UUN000001vqpP2AQ
 SEQUENCE:0
-DTSTAMP:20251124T014012Z
+DTSTAMP:20251125T012622Z
 DTSTART;VALUE=DATE:20251130
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -36,5 +36,28 @@ DESCRIPTION:Sunday\, November 30\, 2025\nhttps://activities.outdoors.org/s
  rip.Any cancellations due to weather will be sent out via email the day be
  fore the trip.Rain\, stormy weather\, or icy conditions will cancel this t
  rip.
+END:VEVENT
+BEGIN:VEVENT
+UID:a5UUN000001zWC52AM
+SEQUENCE:0
+DTSTAMP:20251125T012622Z
+DTSTART;VALUE=DATE:20251216
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Worcester 20s & 30s Holiday Social
+LOCATION:175 Sterling Street\nClinton\, MA 01510
+DESCRIPTION:Tuesday\, December 16\, 2025 | 6:00 PM\nhttps://activities.out
+ doors.org/s/oc-activity/a5UUN000001zWC52AM/\nJoin the Worcester Chapter 20
+ s & 30s for our annual holiday social at Sterling Street Brewery on Tuesda
+ y\, December 16 at 6:00 PM! Celebrate the holiday season with light fare a
+ nd socializing with like-minded 20s & 30s. Learn about how we'll be gettin
+ g outdoors and staying active this winter season with hiking\, skiing\, so
+ cials\, and more. Food will be provided by the 20s & 30s committee. Sterli
+ ng Street Brewery has alcoholic and non-alcoholic drinks for purchase. All
+  are welcome! We look forward to seeing new and returning faces!Our most e
+ xciting social of the year will feature an optional Yankee swap and a cook
+ ie exchange.Spots are limited! To join the fun\, please register. Further 
+ details on the Yankee swap and cookie exchange will be sent to those who r
+ egister.
 END:VEVENT
 END:VCALENDAR
