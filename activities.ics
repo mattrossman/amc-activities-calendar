@@ -3,23 +3,4 @@ VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
-BEGIN:VEVENT
-UID:a5UUN0000023tgL2AQ
-SEQUENCE:0
-DTSTAMP:20260109T014306Z
-DTSTART;VALUE=DATE:20260109
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s & 30s Wachusett Ski and Board Night
-LOCATION:41 Mile Hill R\nWestminster\, MA
-DESCRIPTION:Friday\, January 9\, 2026 | 6:30 PM\nhttps://activities.outdoo
- rs.org/s/oc-activity/a5UUN0000023tgL2AQ/\nKick off the new year by joining
-  the Worcester 20s & 30s group for an evening of skiing/boarding at Mt. Wa
- chusett on Friday\, January 9th!We will be to there for Session 4 (7pm - 9
- :30pm)\, but we will plan to meet a half hour earlier at the lodge for int
- roductions and coordination. Each participant is responsible for purchasin
- g their own lift ticket.All levels are welcome. Once we get started\, we e
- xpect groups to organically self-sort based on slopes of interest and leve
- l. The leaders are happy to ski with any group!
-END:VEVENT
 END:VCALENDAR
