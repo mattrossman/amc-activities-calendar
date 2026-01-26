@@ -4,29 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UUN000002BOc92AG
-SEQUENCE:0
-DTSTAMP:20260125T015250Z
-DTSTART;VALUE=DATE:20260125
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Worcester Chapter 20s & 30s Ice Skating
-LOCATION:Worcester Common Oval\nWorcester\, MA
-DESCRIPTION:Sunday\, January 25\, 2026 | 1:00 PM\nhttps://activities.outdo
- ors.org/s/oc-activity/a5UUN000002BOc92AG/\nJoin the Worcester Chapter 20s 
- & 30s for an afternoon of ice skating on the Worcester Common Oval! All le
- vels of skill and ability are welcome\, even those who have never skated b
- efore. We will meet for skating at 1:00pm followed by warming up at a loca
- l café. We will plan to skate for a few hours. Inclement weather will can
- cel.Skating is free for the whole weekend!$6 for skate rental if neededFor
-  more information on the Worcester Common Oval\, go to: http://www.worcest
- erma.gov/worcester-common-oval/ice-skatingExact meeting location will be s
- ent to registered participants.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN000002BIV72AO
 SEQUENCE:0
-DTSTAMP:20260125T015250Z
+DTSTAMP:20260126T015213Z
 DTSTART;VALUE=DATE:20260217
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
