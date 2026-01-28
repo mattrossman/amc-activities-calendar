@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UUN000002BIV72AO
 SEQUENCE:0
-DTSTAMP:20260127T014923Z
+DTSTAMP:20260128T014535Z
 DTSTART;VALUE=DATE:20260217
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -24,5 +24,25 @@ DESCRIPTION:Tuesday\, February 17\, 2026 | 6:00 PM\nhttps://activities.out
  dvance! The social starts at 6:00 pm\, spots are limited.We welcome people
   of all skill levels and young folks with varying outdoor interests. If yo
  u are new to AMC\, we'd love to meet you!
+END:VEVENT
+BEGIN:VEVENT
+UID:a5UVX000000zapl2AA
+SEQUENCE:0
+DTSTAMP:20260128T014535Z
+DTSTART;VALUE=DATE:20260306
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s Wachusett Ski and Board Night
+LOCATION:41 Mile Hill R\nWestminster\, MA
+DESCRIPTION:Friday\, March 6\, 2026 | 6:45 PM\nhttps://activities.outdoors
+ .org/s/oc-activity/a5UVX000000zapl2AA/\nBefore the ski season wraps up\, j
+ oin the Worcester 20s & 30s group for an evening of skiing/boarding at Mt.
+  Wachusett on Friday\, March 6th!We will be there for Session 4 (7pm - 9:3
+ 0pm)\, but we will plan to meet fifteen minutes earlier at the lodge for i
+ ntroductions and coordination. All participants will be sent a screening f
+ orm as the event approaches so the leader is aware of each participants sk
+ iing/boarding background. The plan is for groups to organically self-sort 
+ based on slopes of interest and level. The leader is happy to ski with any
+  group!
 END:VEVENT
 END:VCALENDAR
