@@ -4,26 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX00000101Mv2AI
-SEQUENCE:0
-DTSTAMP:20260213T021012Z
-DTSTART;VALUE=DATE:20260213
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s & 30s Social at Courthouse Brew Co.
-LOCATION:3 Brussels S\nWorcester\, MA
-DESCRIPTION:Friday\, February 13\, 2026 | 6:00 PM\nhttps://activities.outd
- oors.org/s/oc-activity/a5UVX00000101Mv2AI/\nJoin us for the first Worceste
- r 20s & 30s social of 2026! We will be at Courthouse Brew Company in Worce
- ster on Friday the 13th (of February)... leave your bad luck at the door!T
- his social starts at 6pm\, but feel free to come whenever. This is a great
-  opportunity to get to know members of our group and learn more about upco
- ming events. Hope to see you there!
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UUN000002BIV72AO
 SEQUENCE:0
-DTSTAMP:20260213T021012Z
+DTSTAMP:20260214T015843Z
 DTSTART;VALUE=DATE:20260217
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -45,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000000zapl2AA
 SEQUENCE:0
-DTSTAMP:20260213T021012Z
+DTSTAMP:20260214T015843Z
 DTSTART;VALUE=DATE:20260306
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
