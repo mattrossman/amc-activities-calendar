@@ -4,31 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UUN000002BIV72AO
-SEQUENCE:0
-DTSTAMP:20260217T020302Z
-DTSTART;VALUE=DATE:20260217
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Worcester & Narragansett 20s/30s: Interchapter Social and Board Ga
- me Night at Lops Brewing 2026
-LOCATION:JOHNSTON BUILDING\, 122 N Main St #\nWoonsocket\, RI
-DESCRIPTION:Tuesday\, February 17\, 2026 | 6:00 PM\nhttps://activities.out
- doors.org/s/oc-activity/a5UUN000002BIV72AO/\nJoin the Worcester and Narrag
- ansett chapters in a 20s and 30s interchapter social! Enjoy an evening of 
- board games at Lops Brewing in Woonsocket\, RI. You will to get to know ot
- hers who are interested in the outdoors and meet good friends over drinks 
- (alcoholic and non-alcoholic options available). This is a great opportuni
- ty to learn about upcoming trips and talk with trip leaders. Lops Brewing 
- has connections to the White Mountains\, so be sure to check them out in a
- dvance! The social starts at 6:00 pm\, spots are limited.We welcome people
-  of all skill levels and young folks with varying outdoor interests. If yo
- u are new to AMC\, we'd love to meet you!
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX000000zapl2AA
 SEQUENCE:0
-DTSTAMP:20260217T020302Z
+DTSTAMP:20260218T020652Z
 DTSTART;VALUE=DATE:20260306
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
