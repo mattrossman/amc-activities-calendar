@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UVX000000zapl2AA
 SEQUENCE:0
-DTSTAMP:20260303T020443Z
+DTSTAMP:20260304T015846Z
 DTSTART;VALUE=DATE:20260306
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -22,5 +22,25 @@ DESCRIPTION:Friday\, March 6\, 2026 | 6:45 PM\nhttps://activities.outdoors
  iing/boarding background. The plan is for groups to organically self-sort 
  based on slopes of interest and level. The leader is happy to ski with any
   group!
+END:VEVENT
+BEGIN:VEVENT
+UID:a5UVX0000012QaX2AU
+SEQUENCE:0
+DTSTAMP:20260304T015846Z
+DTSTART;VALUE=DATE:20260313
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Worcester 20s & 30s Social at Bay State Brewery
+LOCATION:112 Harding S\nWorcester\, MA 01610
+DESCRIPTION:Friday\, March 13\, 2026 | 6:00 PM\nhttps://activities.outdoor
+ s.org/s/oc-activity/a5UVX0000012QaX2AU/\nJoin the Worcester Chapter 20s & 
+ 30s for a casual social at Bay State Brewery in downtown Worcester! The ev
+ ent will take place on Friday\, March 13th\, starting at 6:00 pm. We welco
+ me new and longtime friends to come learn about all of the exciting upcomi
+ ng trips and activities this winter and spring. Plus\, meet like-minded ou
+ tdoors enthusiasts and leaders from the Worcester Chapter! Bay State Brewe
+ ry has food\, beer\, and non-alcoholic options available. The event starts
+  at 6:00\, but feel free to come when you can!For more info about Bay Stat
+ e Brewery\, visit: Bay State Brewery
 END:VEVENT
 END:VCALENDAR
