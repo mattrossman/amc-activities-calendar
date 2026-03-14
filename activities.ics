@@ -4,29 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX0000012QaX2AU
-SEQUENCE:0
-DTSTAMP:20260313T020024Z
-DTSTART;VALUE=DATE:20260313
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Worcester 20s & 30s Social at Bay State Brewery
-LOCATION:112 Harding S\nWorcester\, MA 01610
-DESCRIPTION:Friday\, March 13\, 2026 | 6:00 PM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UVX0000012QaX2AU/\nJoin the Worcester Chapter 20s & 
- 30s for a casual social at Bay State Brewery in downtown Worcester! The ev
- ent will take place on Friday\, March 13th\, starting at 6:00 pm. We welco
- me new and longtime friends to come learn about all of the exciting upcomi
- ng trips and activities this winter and spring. Plus\, meet like-minded ou
- tdoors enthusiasts and leaders from the Worcester Chapter! Bay State Brewe
- ry has food\, beer\, and non-alcoholic options available. The event starts
-  at 6:00\, but feel free to come when you can!For more info about Bay Stat
- e Brewery\, visit: Bay State Brewery
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX0000012iaf2AA
 SEQUENCE:0
-DTSTAMP:20260313T020024Z
+DTSTAMP:20260314T015812Z
 DTSTART;VALUE=DATE:20260322
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -53,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001310b2AA
 SEQUENCE:0
-DTSTAMP:20260313T020024Z
+DTSTAMP:20260314T015812Z
 DTSTART;VALUE=DATE:20260409
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
