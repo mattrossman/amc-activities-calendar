@@ -4,36 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX0000012iaf2AA
-SEQUENCE:0
-DTSTAMP:20260322T020852Z
-DTSTART;VALUE=DATE:20260322
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s & 30s Moore State Park Hike
-LOCATION:1 Sawmill Rd\nPaxton\, MA
-DESCRIPTION:Sunday\, March 22\, 2026 | 9:30 AM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UVX0000012iaf2AA/\nJoin the Worcester 20s & 30s on a
-  4 to 5 mile hike at Moore State Park in Paxton\, MA. This hike will take 
- us on several trails by a restored sawmill and stone mill foundations alon
- g the banks of Turkey Hill Brook\, along with mouth-dropping rhododendrons
- \, azaleas and mountain laurel (which won't be in bloom but are still impr
- essive). We will hike through hardwood forests of oak\, maple\, and birch 
- and pass by stone walls and several waterfalls. There are a few hills thou
- gh elevation gain is minimal.Participants must bring:Minimum 1 liter of wa
- terSnacks as necessaryLayers as the weather dictates\, including outer she
- llHat\, gloves\, neck gaiter\, depending on the temperatureHiking shoes or
-  boots with good treadBackpack to carry gearMicrospikes and/or snowshoes\,
-  depending on the weatherBlaze orange (vest\, hat\, etc.) so you will be v
- isible to hunters (Hiking is not allowed on Sundays\, but always good to h
- ave)Confirmed participants can expect an email a few days before the activ
- ity with weather\, meeting location\, and parking details.After the hike\,
-  we will stop by somewhere nearby to grab a snack/lunch.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX000001310b2AA
 SEQUENCE:0
-DTSTAMP:20260322T020852Z
+DTSTAMP:20260323T020932Z
 DTSTART;VALUE=DATE:20260409
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
