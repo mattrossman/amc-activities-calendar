@@ -4,30 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX000001310b2AA
-SEQUENCE:0
-DTSTAMP:20260409T021044Z
-DTSTART;VALUE=DATE:20260409
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s & 30s Social at Start Line Brewing Co.
-LOCATION:151R Hayden Rowe S\nHopkinton\, MA
-DESCRIPTION:Thursday\, April 9\, 2026 | 6:00 PM\nhttps://activities.outdoo
- rs.org/s/oc-activity/a5UVX000001310b2AA/\nJoin us for the April edition of
-  the Worcester 20s & 30s monthly social series! We will be at Start Line B
- rewing Company in Hopkinton\, MA on Thursday\, April 9th starting at 6pm\,
-  but feel free to come whenever is convienent for you. Named after being l
- ess than a mile away from the start line of the Boston Marathon\, Start Li
- ne Brewing has a variety of food\, beer\, and non-alcoholic options availa
- ble. This is a great event for newcomers and returners alike - information
-  will be available for upcoming trips as well as this being a good opportu
- nity to connect with like-minded outdoorsy 20s & 30s folks. Hope to see yo
- u there!
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX00000152yH2AQ
 SEQUENCE:0
-DTSTAMP:20260409T021044Z
+DTSTAMP:20260410T022939Z
 DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
