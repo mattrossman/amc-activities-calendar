@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UVX00000157jR2AQ
 SEQUENCE:0
-DTSTAMP:20260414T023023Z
+DTSTAMP:20260415T022909Z
 DTSTART;VALUE=DATE:20260425
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -31,9 +31,28 @@ DESCRIPTION:Saturday\, April 25\, 2026 | 11:00 AM\nhttps://activities.outd
  ng Fling 2026: Social at Tree House Brewing Company in Charlton\, MA
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX0000015e132AA
+SEQUENCE:0
+DTSTAMP:20260415T022909Z
+DTSTART;VALUE=DATE:20260504
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Worcester 20s/30s After Work Hike: Tetassest Ridge
+LOCATION:God's Acre\, Swan Av\nWorcester\, MA 01603
+DESCRIPTION:Monday\, May 4\, 2026\nhttps://activities.outdoors.org/s/oc-ac
+ tivity/a5UVX0000015e132AA/\nJoin us for an after work hike to Tetasset Rid
+ ge/Gods Acre on the west side of Worcester. We will hike ~3-4 miles with a
+  total elevation gain of about 400 ft-- we'll stop for a view over the cit
+ y and to see a historical marker. The trails will include sections of mode
+ rate terrain and we will be moving at a moderate pace.Proper equipment wil
+ l be required for this hike\, including: hiking and weather appropriate cl
+ othing\, water\, and a headlamp.You'll be asked to fill out a screening fo
+ rm upon registration for the hike. 
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX00000152yH2AQ
 SEQUENCE:0
-DTSTAMP:20260414T023023Z
+DTSTAMP:20260415T022909Z
 DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
