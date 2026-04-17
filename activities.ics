@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UVX00000157jR2AQ
 SEQUENCE:0
-DTSTAMP:20260416T023546Z
+DTSTAMP:20260417T023132Z
 DTSTART;VALUE=DATE:20260425
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -33,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000015hAD2AY
 SEQUENCE:0
-DTSTAMP:20260416T023546Z
+DTSTAMP:20260417T023132Z
 DTSTART;VALUE=DATE:20260426
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -50,9 +50,29 @@ DESCRIPTION:Sunday\, April 26\, 2026 | 9:45 AM\nhttps://activities.outdoor
   have any questions\, please email the leader.
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX0000015nPJ2AY
+SEQUENCE:0
+DTSTAMP:20260417T023132Z
+DTSTART;VALUE=DATE:20260430
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20's & 30's Full Moon Hike at Mt. Wachusett
+LOCATION:82 Westminster R\nPrinceton\, MA 01541
+DESCRIPTION:Thursday\, April 30\, 2026 | 7:00 PM\nhttps://activities.outdo
+ ors.org/s/oc-activity/a5UVX0000015nPJ2AY/\nJoin us for an evening hike up 
+ Mt. Wachusett during an (almost) full moon\, aka\, the Flower Moon! We wi
+ ll hike 3-5 miles (depending on if we take a shorter route) with a total e
+ levation gain of about 750 ft. Weather permitting\, we plan to spend some 
+ time at the summit to enjoy the moon and stars and perhaps some snacks. Th
+ e trails will include sections of moderate terrain and we will be moving a
+ t a moderate pace.Proper equipment will be required for this hike\, includ
+ ing: hiking and weather appropriate clothing\, water\, a day pack\, and a 
+ headlamp. No dogs please. 
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX0000015e132AA
 SEQUENCE:0
-DTSTAMP:20260416T023546Z
+DTSTAMP:20260417T023132Z
 DTSTART;VALUE=DATE:20260504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -71,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX00000152yH2AQ
 SEQUENCE:0
-DTSTAMP:20260416T023546Z
+DTSTAMP:20260417T023132Z
 DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -103,16 +123,15 @@ DESCRIPTION:Friday\, June 26\, 2026 | 8:00 PM\nhttps://activities.outdoors
  o a ~5 minute walk away from the Saco River where swimming is allowed.Cost
   is $170 for AMC members ($185 for non-members) per person for 3 nights at
   CoHo and 2 dinners. If the cost of this trip is an obstacle for you being
-  able to attend\, please reach out to one of the registration leaders (Ale
- xandra at amusic@verizon.net or Dirk at dirkauman@gmail.com)\, as we have 
- limited subsidy options available. Refunds are not guaranteed and are depe
- ndent on someone taking your spot if this event reaches full capacity. On
- ce you register for the trip here\, one of the leaders will send a screeni
- ng form to gather further information to ensure the trip will be safe and 
- fun for all participants. Payment will be collected once your spot on the 
- trip has been confirmed.Gear is available for loan through the Worcester C
- hapter Gear Shed for those who may need it. As an affinity group within A
- MC that is dedicated to encouraging people in their 20s and 30s to enjoy t
- he outdoors\, this is a trip for those in their 20s and 30s.
+  able to attend\, please reach out to Jake at jjscoggin@gmail.com\, as we 
+ have limited subsidy options available. Refunds are not guaranteed and are
+  dependent on someone taking your spot if this event reaches full capacity
+ . Once you register for the trip here\, one of the leaders will send a sc
+ reening form to gather further information to ensure the trip will be safe
+  and fun for all participants. Payment will be collected once your spot on
+  the trip has been confirmed.Gear is available for loan through the Worces
+ ter Chapter Gear Shed for those who may need it. As an affinity group wit
+ hin AMC that is dedicated to encouraging people in their 20s and 30s to en
+ joy the outdoors\, this is a trip for those in their 20s and 30s.
 END:VEVENT
 END:VCALENDAR
