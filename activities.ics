@@ -4,33 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX00000169jB2AQ
-SEQUENCE:0
-DTSTAMP:20260422T023106Z
-DTSTART;VALUE=DATE:20260422
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s & 30s Earth Day After Work Hike at Mt. Pisgah
-LOCATION:120 Linden S\nBerlin\, MA
-DESCRIPTION:Wednesday\, April 22\, 2026\nhttps://activities.outdoors.org/s
- /oc-activity/a5UVX00000169jB2AQ/\nCelebrate Earth Day with an after work h
- ike at Mount Pisgah! We'll be going at a moderate to fast pace to get in a
-  good workout. The trails traverse undulating terrain with a few steep sec
- tions. Distance: around 4 miles. Elevation gain: ~500 feet. Expect to be 
- on the trail for a couple of hours. We'll aim to finish before dark. Exact
-  start time and location will be sent to registered participants.We'll be 
- looping on trails around the 715-foot Mount Pisgah. The forest is varied w
- ith white pines\, beech\, white oak\, maple\, and hop hornbeam. It is also
-  the home to several species of songbirds\, wild turkeys\, and owls.In the
-  spirit of Earth Day\, we'll bring trash bags to clean up the trailhead an
- d any litter we come across on the trail.As an affinity group within AMC t
- hat is dedicated to encouraging people in their 20s and 30s to enjoy the o
- utdoors\, this is a trip for those in their 20s and 30s.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX00000157jR2AQ
 SEQUENCE:0
-DTSTAMP:20260422T023106Z
+DTSTAMP:20260423T023404Z
 DTSTART;VALUE=DATE:20260425
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -57,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000015hAD2AY
 SEQUENCE:0
-DTSTAMP:20260422T023106Z
+DTSTAMP:20260423T023404Z
 DTSTART;VALUE=DATE:20260426
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -76,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000015nPJ2AY
 SEQUENCE:0
-DTSTAMP:20260422T023106Z
+DTSTAMP:20260423T023404Z
 DTSTART;VALUE=DATE:20260430
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -96,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000015e132AA
 SEQUENCE:0
-DTSTAMP:20260422T023106Z
+DTSTAMP:20260423T023404Z
 DTSTART;VALUE=DATE:20260504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -115,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX00000152yH2AQ
 SEQUENCE:0
-DTSTAMP:20260422T023106Z
+DTSTAMP:20260423T023404Z
 DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
