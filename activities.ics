@@ -4,36 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX00000157jR2AQ
-SEQUENCE:0
-DTSTAMP:20260425T022448Z
-DTSTART;VALUE=DATE:20260425
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20's & 30's Interchapter Spring Fling: Hike at Leadmine Mountain C
- onservation Area
-LOCATION:Old Sturbridge Village Road\nSturbridge\, MA
-DESCRIPTION:Saturday\, April 25\, 2026 | 11:00 AM\nhttps://activities.outd
- oors.org/s/oc-activity/a5UVX00000157jR2AQ/\nJoin us for an exploration of 
- Leadmine Mountain Conservation Area in Sturbridge\, MA! Our route will tak
- e us on an ~6 mile loop featuring a variety of scenery\, from woodlands to
-  ponds to perhaps some wildlife. This will have a little under 600ft eleva
- tion gain\, and we will aim for a pace of ~1.5mph. We will plan to take a 
- ~15-20 minute break at somepoint along the route for a lunch/ long-snack.D
- epending on the size of the group we have\, we will likley split into two 
- groups\, each with two leaders. Each group will go in a different directio
- n of the loop. Groups will be assigned based on the timing of when you sig
- n up.This event is part of the 20's & 30's Interchapter Spring Fling with 
- the Connecticut\, Narragansett\, Southeastern MA\, Western MA\, and Worces
- ter chapters. After the hike\, participants are encouraged to attend the S
- ocial at Tree House Brewing Co starting at 4pm. Details and registration f
- or that part of the event can be found here: 20's & 30's Interchapter Spri
- ng Fling 2026: Social at Tree House Brewing Company in Charlton\, MA
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX0000015hAD2AY
 SEQUENCE:0
-DTSTAMP:20260425T022448Z
+DTSTAMP:20260426T023941Z
 DTSTART;VALUE=DATE:20260426
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -52,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000015nPJ2AY
 SEQUENCE:0
-DTSTAMP:20260425T022448Z
+DTSTAMP:20260426T023941Z
 DTSTART;VALUE=DATE:20260430
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -72,7 +45,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000015e132AA
 SEQUENCE:0
-DTSTAMP:20260425T022448Z
+DTSTAMP:20260426T023941Z
 DTSTART;VALUE=DATE:20260504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -91,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX00000152yH2AQ
 SEQUENCE:0
-DTSTAMP:20260425T022448Z
+DTSTAMP:20260426T023941Z
 DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
