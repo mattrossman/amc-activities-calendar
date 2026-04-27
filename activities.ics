@@ -4,28 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX0000015hAD2AY
-SEQUENCE:0
-DTSTAMP:20260426T023941Z
-DTSTART;VALUE=DATE:20260426
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20's & 30's Hike at the Cascades (Worcester)
-LOCATION:Worcester\, MA
-DESCRIPTION:Sunday\, April 26\, 2026 | 9:45 AM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UVX0000015hAD2AY/\nJoin the Worcester Chapter 20s & 
- 30s for an easy to moderate hike at the scenic Cascades in Worcester! We w
- ill hike a loop of about 4 miles at a moderate pace over rolling terrain\,
-  starting at the beautiful Cascades waterfall. Please wear sturdy shoes w
- ith laces\; bring at least 1.5 liters of water\, trail snacks\, and approp
- riate layers of clothing\, and a day pack to carry your gear.Details about
-  time and meeting location will be sent to registered participants. If you
-  have any questions\, please email the leader.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX0000015nPJ2AY
 SEQUENCE:0
-DTSTAMP:20260426T023941Z
+DTSTAMP:20260427T024209Z
 DTSTART;VALUE=DATE:20260430
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -45,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000015e132AA
 SEQUENCE:0
-DTSTAMP:20260426T023941Z
+DTSTAMP:20260427T024209Z
 DTSTART;VALUE=DATE:20260504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -64,7 +45,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX00000152yH2AQ
 SEQUENCE:0
-DTSTAMP:20260426T023941Z
+DTSTAMP:20260427T024209Z
 DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
