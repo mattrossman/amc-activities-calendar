@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UVX0000015nPJ2AY
 SEQUENCE:0
-DTSTAMP:20260427T024209Z
+DTSTAMP:20260428T024936Z
 DTSTART;VALUE=DATE:20260430
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000015e132AA
 SEQUENCE:0
-DTSTAMP:20260427T024209Z
+DTSTAMP:20260428T024936Z
 DTSTART;VALUE=DATE:20260504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -43,9 +43,51 @@ DESCRIPTION:Monday\, May 4\, 2026\nhttps://activities.outdoors.org/s/oc-ac
  rm upon registration for the hike. 
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX0000016iFV2AY
+SEQUENCE:0
+DTSTAMP:20260428T024936Z
+DTSTART;VALUE=DATE:20260606
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:AMC150 Worcester Chapter TrailsFest: 20s & 30s East-West Trail Hik
+ e - Prospect Hill and Newton Hill
+LOCATION:126 Salisbury St #10\nWorcester\, MA
+DESCRIPTION:Saturday\, June 6\, 2026 | 8:30 AM\nhttps://activities.outdoor
+ s.org/s/oc-activity/a5UVX0000016iFV2AY/\nJoin the Worcester Chapter 20s & 
+ 30s on a ~4 mile hike along a segment of the East-West Trail\, which trave
+ rses the city of Worcester over 14 miles. This hike will take us through 
+ Institute Park\, Salisbury Park\, and Elm Park over a variety of terrain -
+ - from the trails up to Newton Hill to walking through neighborhoods near 
+ Prospect Hill. One notable landmark on the hike is Bancroft Tower\, a 125-
+ year-old 56-foot-high (17 m) tower of granite and natural stone. We will p
+ lan on ending our hike at Bancroft Tower and spending some time there. Des
+ pite the short mileage\, there is an expected elevation gain of around 630
+  ft throughout the hike centered around Prospect Hill and Newton Hill.Part
+ icipants must bring:Minimum 1 liter of waterSnacks as necessaryLayers as t
+ he weather dictates\, including outer shellHiking shoes or boots with good
+  treadBackpack to carry gearConfirmed participants can expect an email a f
+ ew days before the activity with weather\, meeting location\, and parking 
+ details.After this trip\, please join us for the AMC150 Worcester Chapter 
+ TrailsFest 2026\, taking place Saturday\, June 6\, 2026 at Institute Park 
+ in Worcester! TrailsFest\, which has been held annually since 2018\, coinc
+ ides with National Trails Day and is co-hosted by a group of organizations
+  including the Appalachian Mountain Club and Park Spirit.At this event\, w
+ e celebrate trails in all their forms\, including hiking trails\, bike pat
+ hs\, waterways\, and climbing routes. Here is what the day will look like:
+ Morning through 12pm: Activities like this one throughout the area.12pm to
+  4:00pm: AMC150 Worcester Chapter TrailsFest celebration at Institute Park
+ . Food\, live music\, speakers\, friends\, and fun!BYO non-alcoholic bever
+ ages and a chair.Bring yourself\, your friends and family\, and spread the
+  word!In 2026\, the Appalachian Mountain Club is celebrating 150 years of 
+ protecting\, enjoying\, and understanding the outdoors! At the heart of th
+ e celebration is the AMC 150th Outdoor Relay—a connected series of outdo
+ or adventures traveling from Virginia to Maine with a commemorative AMC fl
+ ag carried along the entire route.
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX00000152yH2AQ
 SEQUENCE:0
-DTSTAMP:20260427T024209Z
+DTSTAMP:20260428T024936Z
 DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
