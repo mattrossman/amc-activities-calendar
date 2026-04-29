@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UVX0000015nPJ2AY
 SEQUENCE:0
-DTSTAMP:20260428T024936Z
+DTSTAMP:20260429T024844Z
 DTSTART;VALUE=DATE:20260430
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000015e132AA
 SEQUENCE:0
-DTSTAMP:20260428T024936Z
+DTSTAMP:20260429T024844Z
 DTSTART;VALUE=DATE:20260504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -43,9 +43,71 @@ DESCRIPTION:Monday\, May 4\, 2026\nhttps://activities.outdoors.org/s/oc-ac
  rm upon registration for the hike. 
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX00000178Jd2AI
+SEQUENCE:0
+DTSTAMP:20260429T024844Z
+DTSTART;VALUE=DATE:20260510
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s: Trail Work Day at Noble View
+LOCATION:635 S Quarter R\nRussell\, MA 01071
+DESCRIPTION:Sunday\, May 10\, 2026 | 9:00 AM\nhttps://activities.outdoors.
+ org/s/oc-activity/a5UVX00000178Jd2AI/\nGet down\, get dirty\, get rockin'!
+  It's trail work time!Join the squad and help install stonework steps on t
+ he Border Trail at Noble View. We'll be focusing on installing check steps
+  and other stone structures using rocks and dry-stone masonry techniques. 
+ Exciting\, woo! All tools and PPE will be provided and instruction and tra
+ ining will be provided on site. Do you have previous rock work experience?
+  Cool! We'd love to have you apply it on this project. Have none at all? S
+ till cool! You'll walk away knowing more about how stone work is installed
+  on trails than you started with.FREE camping is available the night of Sa
+ turday the 9th as well as Sunday the 10th at Noble View's campground if yo
+ u want to spend some time in nature before or after this one-day work proj
+ ect.Participants are responsible for bringing their own work clothes (pant
+ s and boots required\, long sleeves recommended). Personal Protective Equi
+ pment (PPE) will be provided by AMC Trails staff. Participants must also b
+ ring their own trail lunch and water (or more if you plan on camping) but 
+ after the workday is completed\, we'll head into town as group for a dinne
+ r paid for by the Worcester Chapter as a thank you for your contributions 
+ to the trail.All participants must be ready and able for a full work day o
+ utdoors. This includes but is not limited to a 1 mile hike with loaded pac
+ k\, work on your feet for multiple hours\, the ability to safely use hand 
+ tools\, and the ability to follow instructions. The work party will be sup
+ ervised by AMC Trails Department staff and the Activity Leader.This event 
+ is intended as an affinity work trip for people in their 20s & 30s. If you
+  are not a member of that group\, please do not sign up for this activity.
+ Any questions at all\, reach out!
+END:VEVENT
+BEGIN:VEVENT
+UID:a5UVX0000017CDZ2A2
+SEQUENCE:0
+DTSTAMP:20260429T024844Z
+DTSTART;VALUE=DATE:20260523
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s  Mt Greylock Day Hike
+LOCATION:Roaring Brook R\nWilliamstown\, MA 01267
+DESCRIPTION:Saturday\, May 23\, 2026 | 7:45 AM\nhttps://activities.outdoor
+ s.org/s/oc-activity/a5UVX0000017CDZ2A2/\nJoin us for a day hike up the tal
+ lest mountain Massachusetts has to offer\, Mount Greylock! On a clear day\
+ , the summit of Mount Greylock offers gorgeous 360-degree views of up to 9
+ 0 miles\, including nearby peaks in Massachusetts\, Vermont\, and New Hamp
+ shire.This will be a vigorous hike covering 8.5 miles with 2\,600 feet of 
+ ascent. Be prepared for steep terrain. We will hike at a moderate pace wit
+ h time for breaks to enjoy the flora and fauna and take photos. Expect to 
+ be on the trail all day. We will stop for lunch during the hike\, likely a
+ t the summit.Sunday\, 5/24 is our planned “rain date\,” should we have
+  to cancel on 5/23 due to e.g.\, poor weather.Additional information\, inc
+ luding meeting time and place\, will be emailed to those who register. If 
+ you have any questions\, please email one of the leaders.Please no dogs ex
+ cept service animals.As an affinity group within AMC that is dedicated to 
+ encouraging people in their 20s and 30s to enjoy the outdoors\, this is a 
+ trip for those in their 20s and 30s.
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX0000016iFV2AY
 SEQUENCE:0
-DTSTAMP:20260428T024936Z
+DTSTAMP:20260429T024844Z
 DTSTART;VALUE=DATE:20260606
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -85,9 +147,51 @@ DESCRIPTION:Saturday\, June 6\, 2026 | 8:30 AM\nhttps://activities.outdoor
  ag carried along the entire route.
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX00000178pt2AA
+SEQUENCE:0
+DTSTAMP:20260429T024844Z
+DTSTART;VALUE=DATE:20260606
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:AMC150 Worcester Chapter TrailsFest: 20s & 30s East-West Trail Hik
+ e - Boynton Park to Institute Park
+LOCATION:Institute Park\, 126 Salisbury St\nWorcester\, MA
+DESCRIPTION:Saturday\, June 6\, 2026 | 6:30 AM\nhttps://activities.outdoor
+ s.org/s/oc-activity/a5UVX00000178pt2AA/\nLooking for a challenge on the mo
+ rning of Trailsfest? Join the 20s & 30s group for a hike that will cover m
+ ore than half of the entire Worcester East-West Trail! We will be hiking a
+  9 mile section of this trail that will include 14 out of the 22 Green Spa
+ ces that the East-West Trail features. This route will include urban secti
+ ons as well as we cut across the City of Worcester to make our way to all 
+ of these stops. The elevation gain for this hike will be ~750ft\, includin
+ g ~1200ft of descent.We will be carspotting for this hike. We will meet at
+  Institute Park and drive over to Boynton Park to start our hike. We likel
+ y will ask for at least three participants to help with driving. All parti
+ ciants will be required to fill out a screening form before being confirme
+ d for this hike. This form will also include a list of eqiupment/items tha
+ t will be required for this hike. Heavy rain or thunderstorms will cancel 
+ this hike\, and the leaders will be in communication as time gets closer i
+ f inclement weather seems likely. After this trip\, please join us for the
+  AMC150 Worcester Chapter TrailsFest 2026\, taking place Saturday\, June
+  6\, 2026 at Institute Park in Worcester! TrailsFest\, which has been held
+  annually since 2018\, coincides with National Trails Day and is co-hosted
+  by a group of organizations including the Appalachian Mountain Club and P
+ ark Spirit.At this event\, we celebrate trails in all their forms\, includ
+ ing hiking trails\, bike paths\, waterways\, and climbing routes. Here is 
+ what the day will look like:Morning through 12pm: Activities like this one
+  throughout the area.12pm to 4:00pm: AMC150 Worcester Chapter TrailsFest c
+ elebration at Institute Park. Food\, live music\, speakers\, friends\, and
+  fun!BYO non-alcoholic beverages and a chair.Bring yourself\, your friends
+  and family\, and spread the word!In 2026\, the Appalachian Mountain Club 
+ is celebrating 150 years of protecting\, enjoying\, and understanding the 
+ outdoors! At the heart of the celebration is the AMC 150th Outdoor Relay
+ —a connected series of outdoor adventures traveling from Virginia to Mai
+ ne with a commemorative AMC flag carried along the entire route.
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX00000152yH2AQ
 SEQUENCE:0
-DTSTAMP:20260428T024936Z
+DTSTAMP:20260429T024844Z
 DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
