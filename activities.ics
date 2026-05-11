@@ -4,45 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX00000178Jd2AI
-SEQUENCE:0
-DTSTAMP:20260510T025151Z
-DTSTART;VALUE=DATE:20260510
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s & 30s: Trail Work Day at Noble View
-LOCATION:635 S Quarter R\nRussell\, MA 01071
-DESCRIPTION:Sunday\, May 10\, 2026 | 9:00 AM\nhttps://activities.outdoors.
- org/s/oc-activity/a5UVX00000178Jd2AI/\nGet down\, get dirty\, get rockin'!
-  It's trail work time!Join the squad and help install stonework steps on t
- he Border Trail at Noble View. We'll be focusing on installing check steps
-  and other stone structures using rocks and dry-stone masonry techniques. 
- Exciting\, woo! All tools and PPE will be provided and instruction and tra
- ining will be provided on site. Do you have previous rock work experience?
-  Cool! We'd love to have you apply it on this project. Have none at all? S
- till cool! You'll walk away knowing more about how stone work is installed
-  on trails than you started with.FREE camping is available the night of Sa
- turday the 9th as well as Sunday the 10th at Noble View's campground if yo
- u want to spend some time in nature before or after this one-day work proj
- ect.Participants are responsible for bringing their own work clothes (pant
- s and boots required\, long sleeves recommended). Personal Protective Equi
- pment (PPE) will be provided by AMC Trails staff. Participants must also b
- ring their own trail lunch and water (or more if you plan on camping) but 
- after the workday is completed\, we'll head into town as group for a dinne
- r paid for by the Worcester Chapter as a thank you for your contributions 
- to the trail.All participants must be ready and able for a full work day o
- utdoors. This includes but is not limited to a 1 mile hike with loaded pac
- k\, work on your feet for multiple hours\, the ability to safely use hand 
- tools\, and the ability to follow instructions. The work party will be sup
- ervised by AMC Trails Department staff and the Activity Leader.This event 
- is intended as an affinity work trip for people in their 20s & 30s. If you
-  are not a member of that group\, please do not sign up for this activity.
- Any questions at all\, reach out!
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX0000016d4X2AQ
 SEQUENCE:0
-DTSTAMP:20260510T025151Z
+DTSTAMP:20260511T032655Z
 DTSTART;VALUE=DATE:20260521
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -61,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000017CDZ2A2
 SEQUENCE:0
-DTSTAMP:20260510T025151Z
+DTSTAMP:20260511T032655Z
 DTSTART;VALUE=DATE:20260523
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -87,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000016iFV2AY
 SEQUENCE:0
-DTSTAMP:20260510T025151Z
+DTSTAMP:20260511T032655Z
 DTSTART;VALUE=DATE:20260606
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -129,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX00000178pt2AA
 SEQUENCE:0
-DTSTAMP:20260510T025151Z
+DTSTAMP:20260511T032655Z
 DTSTART;VALUE=DATE:20260606
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -171,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX00000152yH2AQ
 SEQUENCE:0
-DTSTAMP:20260510T025151Z
+DTSTAMP:20260511T032655Z
 DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
