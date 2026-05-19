@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UVX0000016d4X2AQ
 SEQUENCE:0
-DTSTAMP:20260518T033601Z
+DTSTAMP:20260519T032920Z
 DTSTART;VALUE=DATE:20260521
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000017CDZ2A2
 SEQUENCE:0
-DTSTAMP:20260518T033601Z
+DTSTAMP:20260519T032920Z
 DTSTART;VALUE=DATE:20260523
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000016iFV2AY
 SEQUENCE:0
-DTSTAMP:20260518T033601Z
+DTSTAMP:20260519T032920Z
 DTSTART;VALUE=DATE:20260606
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -93,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX00000178pt2AA
 SEQUENCE:0
-DTSTAMP:20260518T033601Z
+DTSTAMP:20260519T032920Z
 DTSTART;VALUE=DATE:20260606
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -133,9 +133,53 @@ DESCRIPTION:Saturday\, June 6\, 2026 | 6:30 AM\nhttps://activities.outdoor
  ne with a commemorative AMC flag carried along the entire route.
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX0000018YtZ2AU
+SEQUENCE:0
+DTSTAMP:20260519T032920Z
+DTSTART;VALUE=DATE:20260619
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s: The Jackalope Society
+LOCATION:52 Main S\nNorthborough\, MA 01532
+DESCRIPTION:Friday\, June 19\, 2026 | 7:00 PM\nhttps://activities.outdoors
+ .org/s/oc-activity/a5UVX0000018YtZ2AU/\nTRAIL CULT PRESENTS...The Jackalop
+ e Society cordially invites you to our Summer Formal. Huzzah.For generatio
+ ns uncounted (and several likely not-yet-invented) the Jackalope Society h
+ as convened / will convene twice annually to uphold the sacred principles 
+ of merriment\, mystery\, and the honorable pursuit of becoming the strange
+  thing glimpsed in the woods. As the AMC's premiere\, publicly-open secret
+  order\, it is the Jackalope Society's privilege to welcome the various 20
+ s & 30s members of our community to gather and ponder the overlap of the o
+ utdoors and the weird.Attendance at this gathering shall entitle the beare
+ r to an evening of:Unlicensed revelryThe democratic development of curious
+  rites of questionable originPageantry and ceremonial nonsenseBootleg awar
+ ds and unforeseen rewardsAttire is to be interpreted broadly\, but "formal
+ " is the preferred means of garb. What does "formal" mean? Well\, by "form
+ al" (and we are heavily applying air quotes) we mean whatever it is you ca
+ re to mean. This includes but is not limited to: suits only worn during jo
+ b interviews\, bridesmaid dresses banished to the backs of closets\, kilts
+  dubiously purchased at renaissance festivals\, Canadian tuxedos\, a tie w
+ orn over the sports jersey you slept in\, etc. "Formal" (air quotes still 
+ included) is a state of mind\, not dress. Crushed velvet\, capes\, amulets
+ \, and other inexplicable accessories are of course always appreciated as 
+ well.The Jackalope Society Summer Formal will be held at the Northborough 
+ Historical Society (52 Main St\, Northborough\, MA 01532) from 7:00pm - 9:
+ 00pm on June 19th. We are charging a $5 fee to provide snack-atizers. A fu
+ ll meal will not be provided\, please arrive having dined. Beverages are o
+ f the bring-your-own variety. Bringing a dish to share is also appreciated
+ \, but certainly not required. If the $5 contribution to the hors d'œuvre
+  fund is unmanageable\, attendance is still welcome and encouraged.With th
+ ese summons\, consider yourself duly invited. May the moon favor your pass
+ age\, the forest decline to remember your name\, and your RSVP be both joy
+ ous and affirmative.This social is intended as a space for the 20s & 30s a
+ ffinity to group to laugh\, goof-off\, and appreciate a nonsensical good-t
+ ime. If you are not a member of the 20s & 30s affinity group\, please cons
+ ider a different activity.
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX00000152yH2AQ
 SEQUENCE:0
-DTSTAMP:20260518T033601Z
+DTSTAMP:20260519T032920Z
 DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
