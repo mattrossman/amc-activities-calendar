@@ -4,35 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX0000017CDZ2A2
-SEQUENCE:0
-DTSTAMP:20260523T025226Z
-DTSTART;VALUE=DATE:20260523
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s & 30s  Mt Greylock Day Hike
-LOCATION:Roaring Brook R\nWilliamstown\, MA 01267
-DESCRIPTION:Saturday\, May 23\, 2026 | 7:45 AM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UVX0000017CDZ2A2/\nJoin us for a day hike up the tal
- lest mountain Massachusetts has to offer\, Mount Greylock! On a clear day\
- , the summit of Mount Greylock offers gorgeous 360-degree views of up to 9
- 0 miles\, including nearby peaks in Massachusetts\, Vermont\, and New Hamp
- shire.This will be a vigorous hike covering 8.5 miles with 2\,600 feet of 
- ascent. Be prepared for steep terrain. We will hike at a moderate pace wit
- h time for breaks to enjoy the flora and fauna and take photos. Expect to 
- be on the trail all day. We will stop for lunch during the hike\, likely a
- t the summit.Sunday\, 5/24 is our planned “rain date\,” should we have
-  to cancel on 5/23 due to e.g.\, poor weather.Additional information\, inc
- luding meeting time and place\, will be emailed to those who register. If 
- you have any questions\, please email one of the leaders.Please no dogs ex
- cept service animals.As an affinity group within AMC that is dedicated to 
- encouraging people in their 20s and 30s to enjoy the outdoors\, this is a 
- trip for those in their 20s and 30s.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX0000019RJl2AM
 SEQUENCE:0
-DTSTAMP:20260523T025226Z
+DTSTAMP:20260524T033128Z
 DTSTART;VALUE=DATE:20260530
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -51,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000016iFV2AY
 SEQUENCE:0
-DTSTAMP:20260523T025226Z
+DTSTAMP:20260524T033128Z
 DTSTART;VALUE=DATE:20260606
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -93,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX00000178pt2AA
 SEQUENCE:0
-DTSTAMP:20260523T025226Z
+DTSTAMP:20260524T033128Z
 DTSTART;VALUE=DATE:20260606
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -135,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000018YtZ2AU
 SEQUENCE:0
-DTSTAMP:20260523T025226Z
+DTSTAMP:20260524T033128Z
 DTSTART;VALUE=DATE:20260619
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -179,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX00000152yH2AQ
 SEQUENCE:0
-DTSTAMP:20260523T025226Z
+DTSTAMP:20260524T033128Z
 DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
