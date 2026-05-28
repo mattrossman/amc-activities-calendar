@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UVX0000019RJl2AM
 SEQUENCE:0
-DTSTAMP:20260527T034128Z
+DTSTAMP:20260528T033048Z
 DTSTART;VALUE=DATE:20260530
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000016iFV2AY
 SEQUENCE:0
-DTSTAMP:20260527T034128Z
+DTSTAMP:20260528T033048Z
 DTSTART;VALUE=DATE:20260606
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX00000178pt2AA
 SEQUENCE:0
-DTSTAMP:20260527T034128Z
+DTSTAMP:20260528T033048Z
 DTSTART;VALUE=DATE:20260606
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -107,9 +107,31 @@ DESCRIPTION:Saturday\, June 6\, 2026 | 6:30 AM\nhttps://activities.outdoor
  ne with a commemorative AMC flag carried along the entire route.
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX0000019ViL2AU
+SEQUENCE:0
+DTSTAMP:20260528T033048Z
+DTSTART;VALUE=DATE:20260609
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s After-Work Purgatory Chasm Hike with Ice Cream Social
+LOCATION:198 Purgatory R\nSutton\, MA
+DESCRIPTION:Tuesday\, June 9\, 2026 | 6:00 PM\nhttps://activities.outdoors
+ .org/s/oc-activity/a5UVX0000019ViL2AU/\nJoin the Worcester 20s & 30s group
+  for a visit to Purgatory Chasm in Sutton\, MA after-work on Tuesday\, Jun
+ e 9th! The ~2.5 mile loop we will be doing will take us around the perimet
+ er of the reservation\, as well as through the chasm itself\, which featur
+ es many unique rock formations and crevices squeezes. We will split into t
+ wo groups\, each with two leaders. Each group will start in a different di
+ rection. Groups will be assigned based on timing of when you sign up. Afte
+ r the hike\, we (optionally) will be heading over to West End Creamery for
+  ice cream - only a 2-minute drive away!As an affinity group within AMC th
+ at is dedicated to encouraging people in their 20s and 30s to enjoy the ou
+ tdoors\, this is a trip for those in their 20s and 30s.
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX0000018YtZ2AU
 SEQUENCE:0
-DTSTAMP:20260527T034128Z
+DTSTAMP:20260528T033048Z
 DTSTART;VALUE=DATE:20260619
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -153,7 +175,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX00000152yH2AQ
 SEQUENCE:0
-DTSTAMP:20260527T034128Z
+DTSTAMP:20260528T033048Z
 DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
