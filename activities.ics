@@ -4,93 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX0000016iFV2AY
-SEQUENCE:0
-DTSTAMP:20260606T032330Z
-DTSTART;VALUE=DATE:20260606
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:AMC150 Worcester Chapter TrailsFest: 20s & 30s East-West Trail Hik
- e - Prospect Hill and Newton Hill
-LOCATION:126 Salisbury St #10\nWorcester\, MA
-DESCRIPTION:Saturday\, June 6\, 2026 | 8:30 AM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UVX0000016iFV2AY/\nJoin the Worcester Chapter 20s & 
- 30s on a ~4 mile hike along a segment of the East-West Trail\, which trave
- rses the city of Worcester over 14 miles. This hike will take us through 
- Institute Park\, Salisbury Park\, and Elm Park over a variety of terrain -
- - from the trails up to Newton Hill to walking through neighborhoods near 
- Prospect Hill. One notable landmark on the hike is Bancroft Tower\, a 125-
- year-old 56-foot-high (17 m) tower of granite and natural stone. We will p
- lan on ending our hike at Bancroft Tower and spending some time there. Des
- pite the short mileage\, there is an expected elevation gain of around 630
-  ft throughout the hike centered around Prospect Hill and Newton Hill.Part
- icipants must bring:Minimum 1 liter of waterSnacks as necessaryLayers as t
- he weather dictates\, including outer shellHiking shoes or boots with good
-  treadBackpack to carry gearConfirmed participants can expect an email a f
- ew days before the activity with weather\, meeting location\, and parking 
- details.After this trip\, please join us for the AMC150 Worcester Chapter 
- TrailsFest 2026\, taking place Saturday\, June 6\, 2026 at Institute Park 
- in Worcester! TrailsFest\, which has been held annually since 2018\, coinc
- ides with National Trails Day and is co-hosted by a group of organizations
-  including the Appalachian Mountain Club and Park Spirit.At this event\, w
- e celebrate trails in all their forms\, including hiking trails\, bike pat
- hs\, waterways\, and climbing routes. Here is what the day will look like:
- Morning through 12pm: Activities like this one throughout the area.12pm to
-  4:00pm: AMC150 Worcester Chapter TrailsFest celebration at Institute Park
- . Food\, live music\, speakers\, friends\, and fun!BYO non-alcoholic bever
- ages and a chair.Bring yourself\, your friends and family\, and spread the
-  word!In 2026\, the Appalachian Mountain Club is celebrating 150 years of 
- protecting\, enjoying\, and understanding the outdoors! At the heart of th
- e celebration is the AMC 150th Outdoor Relay—a connected series of outdo
- or adventures traveling from Virginia to Maine with a commemorative AMC fl
- ag carried along the entire route.
-END:VEVENT
-BEGIN:VEVENT
-UID:a5UVX00000178pt2AA
-SEQUENCE:0
-DTSTAMP:20260606T032330Z
-DTSTART;VALUE=DATE:20260606
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:AMC150 Worcester Chapter TrailsFest: 20s & 30s East-West Trail Hik
- e - Boynton Park to Institute Park
-LOCATION:Institute Park\, 126 Salisbury St\nWorcester\, MA
-DESCRIPTION:Saturday\, June 6\, 2026 | 6:30 AM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UVX00000178pt2AA/\nLooking for a challenge on the mo
- rning of Trailsfest? Join the 20s & 30s group for a hike that will cover m
- ore than half of the entire Worcester East-West Trail! We will be hiking a
-  9 mile section of this trail that will include 14 out of the 22 Green Spa
- ces that the East-West Trail features. This route will include urban secti
- ons as well as we cut across the City of Worcester to make our way to all 
- of these stops. The elevation gain for this hike will be ~750ft\, includin
- g ~1200ft of descent.We will be carspotting for this hike. We will meet at
-  Institute Park and drive over to Boynton Park to start our hike. We likel
- y will ask for at least three participants to help with driving. All parti
- ciants will be required to fill out a screening form before being confirme
- d for this hike. This form will also include a list of eqiupment/items tha
- t will be required for this hike. Heavy rain or thunderstorms will cancel 
- this hike\, and the leaders will be in communication as time gets closer i
- f inclement weather seems likely. After this trip\, please join us for the
-  AMC150 Worcester Chapter TrailsFest 2026\, taking place Saturday\, June
-  6\, 2026 at Institute Park in Worcester! TrailsFest\, which has been held
-  annually since 2018\, coincides with National Trails Day and is co-hosted
-  by a group of organizations including the Appalachian Mountain Club and P
- ark Spirit.At this event\, we celebrate trails in all their forms\, includ
- ing hiking trails\, bike paths\, waterways\, and climbing routes. Here is 
- what the day will look like:Morning through 12pm: Activities like this one
-  throughout the area.12pm to 4:00pm: AMC150 Worcester Chapter TrailsFest c
- elebration at Institute Park. Food\, live music\, speakers\, friends\, and
-  fun!BYO non-alcoholic beverages and a chair.Bring yourself\, your friends
-  and family\, and spread the word!In 2026\, the Appalachian Mountain Club 
- is celebrating 150 years of protecting\, enjoying\, and understanding the 
- outdoors! At the heart of the celebration is the AMC 150th Outdoor Relay
- —a connected series of outdoor adventures traveling from Virginia to Mai
- ne with a commemorative AMC flag carried along the entire route.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX0000019ViL2AU
 SEQUENCE:0
-DTSTAMP:20260606T032330Z
+DTSTAMP:20260607T035022Z
 DTSTART;VALUE=DATE:20260609
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -112,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001ACSL2A4
 SEQUENCE:0
-DTSTAMP:20260606T032330Z
+DTSTAMP:20260607T035022Z
 DTSTART;VALUE=DATE:20260616
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -134,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX0000018YtZ2AU
 SEQUENCE:0
-DTSTAMP:20260606T032330Z
+DTSTAMP:20260607T035022Z
 DTSTART;VALUE=DATE:20260619
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -178,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX00000152yH2AQ
 SEQUENCE:0
-DTSTAMP:20260606T032330Z
+DTSTAMP:20260607T035022Z
 DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
