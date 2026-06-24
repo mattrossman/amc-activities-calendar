@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UVX00000152yH2AQ
 SEQUENCE:0
-DTSTAMP:20260623T032903Z
+DTSTAMP:20260624T033032Z
 DTSTART;VALUE=DATE:20260626
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001BMZJ2A4
 SEQUENCE:0
-DTSTAMP:20260623T032903Z
+DTSTAMP:20260624T033032Z
 DTSTART;VALUE=DATE:20260701
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -71,9 +71,47 @@ DESCRIPTION:Wednesday\, July 1\, 2026 | 7:00 PM\nhttps://activities.outdoo
   a headlamp. No dogs please. 
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX000001BqfR2AS
+SEQUENCE:0
+DTSTAMP:20260624T033032Z
+DTSTART;VALUE=DATE:20260711
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s NET Trail Work Day
+LOCATION:139 MA-18\nWestfield\, MA 01085
+DESCRIPTION:Saturday\, July 11\, 2026 | 9:00 AM\nhttps://activities.outdoo
+ rs.org/s/oc-activity/a5UVX000001BqfR2AS/\nThe dirt calls to us! And so we 
+ must heed it's call! Time for TRAIL WORK!Looking to get out and contribute
+  your time to some wonderful trails? Then look no further! We're putting t
+ ogether a work party along Section 3 of the New England Trail (near Spring
+ field). We'll be building an approach trail for a new campsite that will b
+ e installed there. If you have any prior experience with trail work experi
+ ence that's excellent. If not\, no worries! You'll be trained and supervis
+ ed on the ground by AMC Trails Department staff\, and you'll walk away wit
+ h more wonderful\, trail maintenance knowledge than you arrived with.All P
+ PE (Personal Protective Equipment) and tools will be provided on site. If 
+ you have your own PPE you are welcome to use it if it is rated appropriate
+ ly. Participants are responsible for bringing their own work clothes (pant
+ s and boots required\, long sleeves recommended). Participants must also p
+ rovide their own water and trail lunch.NOTE: Trail Work is physically dema
+ nding. Participants must be capable of (but not limited to) a 1 mile hike 
+ with fully loaded pack\, work on your feet for multiple hours\, the abilit
+ y to safely use hand tools\, and the ability to follow instructions. Rest 
+ is of course available\, but please be mindful that this is a physically d
+ emanding activity. Different tasks and loads are available for different p
+ eople\, but expect to be active all day and to get dirty!At the end of the
+  day after we've left the trail better than we found it we'll celebrate wi
+ th some dinner paid for by the Worcester Chapter!Trail Work is an excellen
+ t opportunity to get out\, meet some cool people\, and see your hard work 
+ pay off with the betterment and stewardship of our outdoors. We hope to ha
+ ve you join us! Any questions at all please let us know!This event is inte
+ nded as an affinity work trip for people in their 20s & 30s. If you are no
+ t a member of that group\, please do not sign up for this activity.
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX000001BgY12AK
 SEQUENCE:0
-DTSTAMP:20260623T032903Z
+DTSTAMP:20260624T033032Z
 DTSTART;VALUE=DATE:20260807
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
