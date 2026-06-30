@@ -4,56 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX00000152yH2AQ
-SEQUENCE:0
-DTSTAMP:20260629T034758Z
-DTSTART;VALUE=DATE:20260626
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Worcester 20s & 30s 2nd Annual Hostel Takeover Weekend in the Whit
- e Mountains
-LOCATION:36 Washington Street\nConway\, NH 03818
-DESCRIPTION:Friday\, June 26\, 2026 | 8:00 PM\nhttps://activities.outdoors
- .org/s/oc-activity/a5UVX00000152yH2AQ/\nJoin the Worcester Chapter 20s & 3
- 0s for a weekend of outdoor fun in the White Mountains June 26-29 for the 
- second annual Hostel Takeover! This year’s theme is…aliens! Expect the
-  theme to crop up throughout the trip\; participation in it is optional!Th
- e trip runs from the evening of Friday\, June 26 through Monday\, June 29.
-  A variety of hiking and socializing opportunities will be offered each da
- y as we explore several regions of the White Mountains. At least two hikin
- g options\, one moderate and one vigorous\, will be provided each day (for
-  rating definitions\, go here). Specific offerings will be determined by l
- eaders that weekend depending on participant ability and conditions. Hikes
-  will be in the immediate area and possibly others farther afield. After 
- the days’ hikes\, we will all return to the Conway Hostel (CoHo)\, our b
- asecamp for the weekend. The trip includes three nights’ lodging at CoHo
- \, where you will find all the comforts you are looking for after a long h
- ike– shared bunk rooms\, private bathrooms\, a shared kitchen with full 
- access\, and shared space for socializing. A group dinner will be included
-  and served on Saturday and Sunday evening\, and CoHo offers free coffee\,
-  tea\, and granola bars for breakfasts. Friday night dinner will be an opt
- ional potluck. Breakfast (other than what the hostel offers) and lunches n
- ot included. Evening activities will be offered\, possibilities including
-  a movie screening\, star gazing\, fire pit\, and games. The hostel is als
- o a ~5 minute walk away from the Saco River where swimming is allowed.Cost
-  is $170 for AMC members ($185 for non-members) per person for 3 nights at
-  CoHo and 2 dinners. If the cost of this trip is an obstacle for you being
-  able to attend\, please reach out to Jake at jjscoggin@gmail.com\, as we 
- have limited subsidy options available. Refunds are not guaranteed and are
-  dependent on someone taking your spot if this event reaches full capacity
- . Once you register for the trip here\, one of the leaders will send a sc
- reening form to gather further information to ensure the trip will be safe
-  and fun for all participants. Payment will be collected once your spot on
-  the trip has been confirmed.Gear is available for loan through the Worces
- ter Chapter Gear Shed for those who may need it. No dogs\, please.As an af
- finity group within AMC that is dedicated to encouraging people in their 2
- 0s and 30s to enjoy the outdoors\, this is a trip for those in their 20s a
- nd 30s.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX000001BMZJ2A4
 SEQUENCE:0
-DTSTAMP:20260629T034758Z
+DTSTAMP:20260630T033355Z
 DTSTART;VALUE=DATE:20260701
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -73,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001CAFx2AO
 SEQUENCE:0
-DTSTAMP:20260629T034758Z
+DTSTAMP:20260630T033355Z
 DTSTART;VALUE=DATE:20260710
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -93,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001BqfR2AS
 SEQUENCE:0
-DTSTAMP:20260629T034758Z
+DTSTAMP:20260630T033355Z
 DTSTART;VALUE=DATE:20260711
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -131,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001BgY12AK
 SEQUENCE:0
-DTSTAMP:20260629T034758Z
+DTSTAMP:20260630T033355Z
 DTSTART;VALUE=DATE:20260807
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
