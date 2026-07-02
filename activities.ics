@@ -4,29 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX000001BMZJ2A4
-SEQUENCE:0
-DTSTAMP:20260701T034313Z
-DTSTART;VALUE=DATE:20260701
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20's & 30's Full Moon Hike at Mt. Wachusett
-LOCATION:82 Westminster R\nPrinceton\, MA 01541
-DESCRIPTION:Wednesday\, July 1\, 2026 | 7:00 PM\nhttps://activities.outdoo
- rs.org/s/oc-activity/a5UVX000001BMZJ2A4/\nJoin us for an evening hike up M
- t. Wachusett during an (almost) full moon\, aka\, the Strawberry Moon! We
-  will hike 3-5 miles (depending on if we take a shorter route) with a tota
- l elevation gain of about 750 ft. Weather permitting\, we plan to spend so
- me time at the summit to enjoy the moon and stars and perhaps some snacks.
-  The trails will include sections of moderate terrain and we will be movin
- g at a moderate pace.Proper equipment will be required for this hike\, inc
- luding: hiking and weather appropriate clothing\, water\, a day pack\, and
-  a headlamp. No dogs please. 
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX000001CAFx2AO
 SEQUENCE:0
-DTSTAMP:20260701T034313Z
+DTSTAMP:20260702T032916Z
 DTSTART;VALUE=DATE:20260710
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -46,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001BqfR2AS
 SEQUENCE:0
-DTSTAMP:20260701T034313Z
+DTSTAMP:20260702T032916Z
 DTSTART;VALUE=DATE:20260711
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -84,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001BgY12AK
 SEQUENCE:0
-DTSTAMP:20260701T034313Z
+DTSTAMP:20260702T032916Z
 DTSTART;VALUE=DATE:20260807
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
