@@ -4,68 +4,30 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX000001BqfR2AS
-SEQUENCE:0
-DTSTAMP:20260711T023225Z
-DTSTART;VALUE=DATE:20260711
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s & 30s NET Trail Work Day
-LOCATION:139 MA-18\nWestfield\, MA 01085
-DESCRIPTION:Saturday\, July 11\, 2026 | 9:00 AM\nhttps://activities.outdoo
- rs.org/s/oc-activity/a5UVX000001BqfR2AS/\nThe dirt calls to us! And so we 
- must heed it's call! Time for TRAIL WORK!Looking to get out and contribute
-  your time to some wonderful trails? Then look no further! We're putting t
- ogether a work party along Section 3 of the New England Trail (near Spring
- field). We'll be building an approach trail for a new campsite that will b
- e installed there. If you have any prior experience with trail work experi
- ence that's excellent. If not\, no worries! You'll be trained and supervis
- ed on the ground by AMC Trails Department staff\, and you'll walk away wit
- h more wonderful\, trail maintenance knowledge than you arrived with.All P
- PE (Personal Protective Equipment) and tools will be provided on site. If 
- you have your own PPE you are welcome to use it if it is rated appropriate
- ly. Participants are responsible for bringing their own work clothes (pant
- s and boots required\, long sleeves recommended). Participants must also p
- rovide their own water and trail lunch.NOTE: Trail Work is physically dema
- nding. Participants must be capable of (but not limited to) a 1 mile hike 
- with fully loaded pack\, work on your feet for multiple hours\, the abilit
- y to safely use hand tools\, and the ability to follow instructions. Rest 
- is of course available\, but please be mindful that this is a physically d
- emanding activity. Different tasks and loads are available for different p
- eople\, but expect to be active all day and to get dirty!At the end of the
-  day after we've left the trail better than we found it we'll celebrate wi
- th some dinner paid for by the Worcester Chapter!Trail Work is an excellen
- t opportunity to get out\, meet some cool people\, and see your hard work 
- pay off with the betterment and stewardship of our outdoors. We hope to ha
- ve you join us! Any questions at all please let us know!This event is inte
- nded as an affinity work trip for people in their 20s & 30s. If you are no
- t a member of that group\, please do not sign up for this activity.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX000001D3fR2AS
 SEQUENCE:0
-DTSTAMP:20260711T023225Z
+DTSTAMP:20260712T023841Z
 DTSTART;VALUE=DATE:20260719
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:20s and 30s World Cup Warmup @ Wachusett
 LOCATION:Unnamed Roa\nPrinceton\, MA 01541
 DESCRIPTION:Sunday\, July 19\, 2026 | 12:00 PM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UVX000001D3fR2AS/\nJoin us for a short walk along cr
- ows hill where we will have great views of Leominster State Forest.  We w
- ill hike 2-3 miles with a total elevation gain of about 500 ft. After the 
- hike\, anyone who is interested can make the 10 minute drive to the Wachus
- ett Mountain Ski area to watch the FIFA world cup finals at a free public 
- watch party. The trails will include sections of moderate terrain and we w
- ill be moving at a moderate pace. Proper equipment will be required for th
- is hike\, including: hiking and weather appropriate clothing (non-cotton l
- ayers\, hat and mittens\, etc)\, sturdy hiking sneakers or boots\, water\,
-  and snacks. 
+ s.org/s/oc-activity/a5UVX000001D3fR2AS/\nJoin others in the 20s and 30s Wo
+ rcester group for a short walk along crows hill where we will have great v
+ iews of Leominster State Forest. We will hike 2-3 miles with a total elev
+ ation gain of about 500 ft. After the hike\, anyone who is interested can 
+ make the 10 minute drive to the Wachusett Mountain Ski area to watch the F
+ IFA world cup finals at a free public watch party. The trails will include
+  sections of moderate terrain and we will be moving at a moderate pace. Pr
+ oper equipment will be required for this hike\, including: hiking and weat
+ her appropriate clothing (non-cotton layers\, hat and mittens\, etc)\, stu
+ rdy hiking sneakers or boots\, water\, and snacks. 
 END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001DN1R2AW
 SEQUENCE:0
-DTSTAMP:20260711T023225Z
+DTSTAMP:20260712T023841Z
 DTSTART;VALUE=DATE:20260804
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -85,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001BgY12AK
 SEQUENCE:0
-DTSTAMP:20260711T023225Z
+DTSTAMP:20260712T023841Z
 DTSTART;VALUE=DATE:20260807
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -127,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001D6F72AK
 SEQUENCE:0
-DTSTAMP:20260711T023225Z
+DTSTAMP:20260712T023841Z
 DTSTART;VALUE=DATE:20261009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
