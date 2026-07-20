@@ -4,30 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX000001D3fR2AS
-SEQUENCE:0
-DTSTAMP:20260719T023512Z
-DTSTART;VALUE=DATE:20260719
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s and 30s World Cup Warmup @ Wachusett
-LOCATION:Unnamed Roa\nPrinceton\, MA 01541
-DESCRIPTION:Sunday\, July 19\, 2026 | 12:00 PM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UVX000001D3fR2AS/\nJoin others in the 20s and 30s Wo
- rcester group for a short walk along crows hill where we will have great v
- iews of Leominster State Forest. We will hike 2-3 miles with a total elev
- ation gain of about 500 ft. After the hike\, anyone who is interested can 
- make the 10 minute drive to the Wachusett Mountain Ski area to watch the F
- IFA world cup finals at a free public watch party. The trails will include
-  sections of moderate terrain and we will be moving at a moderate pace. Pr
- oper equipment will be required for this hike\, including: hiking and weat
- her appropriate clothing (non-cotton layers\, hat and mittens\, etc)\, stu
- rdy hiking sneakers or boots\, water\, and snacks. 
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX000001DN1R2AW
 SEQUENCE:0
-DTSTAMP:20260719T023512Z
+DTSTAMP:20260720T025000Z
 DTSTART;VALUE=DATE:20260804
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -47,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001BgY12AK
 SEQUENCE:0
-DTSTAMP:20260719T023512Z
+DTSTAMP:20260720T025000Z
 DTSTART;VALUE=DATE:20260807
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -89,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001D6F72AK
 SEQUENCE:0
-DTSTAMP:20260719T023512Z
+DTSTAMP:20260720T025000Z
 DTSTART;VALUE=DATE:20261009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
