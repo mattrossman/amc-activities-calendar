@@ -4,28 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX000001EBKn2AO
-SEQUENCE:0
-DTSTAMP:20260729T023100Z
-DTSTART;VALUE=DATE:20260729
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20's & 30's Full Moon Hike at Mt. Wachusett
-LOCATION:82 Westminster R\nPrinceton\, MA 01541
-DESCRIPTION:Wednesday\, July 29\, 2026 | 7:00 PM\nhttps://activities.outdo
- ors.org/s/oc-activity/a5UVX000001EBKn2AO/\nJoin us for an evening hike up 
- Mt. Wachusett during the July full moon\, called the Buck Moon! We will hi
- ke 3-4 miles with a total elevation gain of about 750 ft. Weather permitti
- ng\, we plan to spend some time at the summit to enjoy the sunset or the m
- oon and stars and perhaps some snacks.The trails will include sections of 
- moderate terrain and we will be moving at a moderate pace.Proper equipment
-  will be required for this hike\, including: hiking and weather appropriat
- e clothing\, water\, a day pack\, and a headlamp. No dogs please. 
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX000001DN1R2AW
 SEQUENCE:0
-DTSTAMP:20260729T023100Z
+DTSTAMP:20260730T021258Z
 DTSTART;VALUE=DATE:20260804
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -45,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001BgY12AK
 SEQUENCE:0
-DTSTAMP:20260729T023100Z
+DTSTAMP:20260730T021258Z
 DTSTART;VALUE=DATE:20260807
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -87,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001D6F72AK
 SEQUENCE:0
-DTSTAMP:20260729T023100Z
+DTSTAMP:20260730T021258Z
 DTSTART;VALUE=DATE:20261009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
