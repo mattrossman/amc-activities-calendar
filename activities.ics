@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UVX000001BgY12AK
 SEQUENCE:0
-DTSTAMP:20260808T012545Z
+DTSTAMP:20260809T013808Z
 DTSTART;VALUE=DATE:20260807
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -46,9 +46,42 @@ DESCRIPTION:Friday\, August 7\, 2026 | 5:00 PM\nhttps://activities.outdoor
  ued ONLY IF leaders can fill your spot. 
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX000001FKlp2AG
+SEQUENCE:0
+DTSTAMP:20260809T013808Z
+DTSTART;VALUE=DATE:20260912
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Flags on the 48 - A September 11 Memorial Hike: South Kinsman
+LOCATION:Lafayette Place Campgroun\nFranconia\, NH 03580
+DESCRIPTION:Saturday\, September 12\, 2026\nhttps://activities.outdoors.or
+ g/s/oc-activity/a5UVX000001FKlp2AG/\nWe are organizing a team for the Flag
+ s on the 48 memorial event. Join our Chapter in honoring those who died on
+  Sept 11 by helping to raise our flag over South Kinsman. Out and back hi
+ ke via the Lonesome Lake\, Fishin' Jimmy and Mt. Kinsman trails\, 10 mi.\,
+  ~ 3\,200' elevation gain\, with average\, strenuous\, and very strenuous
+  terrain\, at a slower-moderate pace (1-2 mph). Limited to 12\, including 
+ the leaders\, physically fit hikers with current\, i.e.\, within the past 
+ year\, upcountry hiking experience. All participants will be screened for 
+ this hike to ensure we can stay together as a group\; otherwise\, it can c
+ reate an unsafe situation.This is a full day event with an early start. Le
+ ave room in your pack to carry group gear: flag\, PVC pipe used to constru
+ ct the flagpole\, guy lines and other hardware for securing the pole. We w
+ ill arrive at the peak to allow time to set up/secure the flagpole at the 
+ summit and raise the flag before 12 noon. The flag then flies from noon th
+ rough 2 pm. We then will lower the flag\, deconstruct the flag pole\,guy l
+ ines\, etc. and pack up our gear.Required gear:• Bring what you need to 
+ stay warm\, dry\, and happy for an extended day on the summit• A pack la
+ rge enough to hold all your gear + group gear• 3-4 liters of water• Sn
+ acks and trail lunch• Pad to sit on• Sunscreen• Bug repellent• Hea
+ dlamp• Rain gear• Layers to add & subtract to regulate your body tempe
+ rature throughout the day\, including\, and not limited to\, a puffy jacke
+ t\, winter hat/mittens/gloves
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX000001D6F72AK
 SEQUENCE:0
-DTSTAMP:20260808T012545Z
+DTSTAMP:20260809T013808Z
 DTSTART;VALUE=DATE:20261009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
