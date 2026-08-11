@@ -4,51 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX000001BgY12AK
-SEQUENCE:0
-DTSTAMP:20260810T014113Z
-DTSTART;VALUE=DATE:20260807
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:4th Annual 20s & 30s Trail Work Weekend in AMC’s Maine Woods
-LOCATION:75 Little Lyford Pond Rd\nGreenville\, ME
-DESCRIPTION:Friday\, August 7\, 2026 | 5:00 PM\nhttps://activities.outdoor
- s.org/s/oc-activity/a5UVX000001BgY12AK/\nJoin the Worcester and Boston Cha
- pter 20s & 30s groups for a weekend of trail work in the beautiful and rem
- ote Maine Woods! This three night\, three day trip includes two full days 
- of trail work and three nights' stay at AMC's Little Lyford Lodge\, plus a
-  hike/exploration day on Monday. Participants are encouraged to arrive by 
- late afternoon/early evening Friday to provide ample time to get to the lo
- dge for dinner before the gate closes.This trip is designed for people in 
- their 20s & 30s who are interested in learning about trail work and bringi
- ng back newly gained skills to local chapter opportunities. No trail work 
- experience is required\, only a desire to learn trail work techniques and 
- contribute to the restoration of mountain trails. Activities may include r
- evitalizing trails\, repairing benches and bridges\, and building check st
- eps and will be somewhat tailored to the interests and abilities of the gr
- oup. The trail work will involve hiking a few miles each day with moderate
-  elevation gain. We will be working under the leadership and guidance of A
- MC’s Professional Trail Crew with tools and safety gear provided. Expect
-  to be out for about 6-7 hours Saturday and 6-7 hours Sunday.At the end of
-  each day\, we’ll enjoy social time and dinner back at the lodge. Enjoy 
- the dark sky (New England’s only certified International Dark Sky Park!)
- \, the Perseid meteor shower\, paddling on the pond\, swimming in the Plea
- sant River\, and campfires in the evening. Canoes and kayaks are free with
-  our stay. Accommodations are cabins and a bunkhouse at Little Lyford\, o
- ne of AMC's lodges in the heart of the 100-mile Wilderness in the Maine Wo
- ods. Breakfast\, trail lunch\, and dinner (Saturday breakfast through Mond
- ay breakfast) are included with the cost of the stay. The cost for the 3 n
- ight trip is $345. Once you register for the activity here\, the leaders w
- ill send a separate screening form. Once participants have registered and 
- have been confirmed\, a leader will reach out with the required informatio
- n for payment.Cancellation policy: Participants must notify trip leaders a
- s soon as possible if they can no longer participate. A refund will be iss
- ued ONLY IF leaders can fill your spot. 
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX000001FKlp2AG
 SEQUENCE:0
-DTSTAMP:20260810T014113Z
+DTSTAMP:20260811T013812Z
 DTSTART;VALUE=DATE:20260912
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -79,9 +37,44 @@ DESCRIPTION:Saturday\, September 12\, 2026\nhttps://activities.outdoors.or
  t\, winter hat/mittens/gloves
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX000001FiWP2A0
+SEQUENCE:0
+DTSTAMP:20260811T013812Z
+DTSTART;VALUE=DATE:20260925
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s Renaissance Festival Camping Trip
+LOCATION:Parking lot\, 5 Pine S\nCarver\, MA 02330
+DESCRIPTION:Friday\, September 25\, 2026 | 5:00 PM\nhttps://activities.out
+ doors.org/s/oc-activity/a5UVX000001FiWP2A0/\nHear ye! Hear ye! Embraceth a
+ dventure and occasions of socialization most joyous!WE'RE GOING TO THE REN
+ AISSANCE FESTIVAL\, PEASANTS!!! WOOOO-ETH!!!Join your fellow 20s & 30s for
+  a Ren-Fest camp out the weekend of September 25-27. We have a group camps
+ ite reserved at Myles Standish State Forest for camping Friday and Saturda
+ y night thus enabling easy access to King Richard's Faire in Carver\, MA o
+ n Saturday\, September 26!20s & 30s folx from any chapter are welcome to j
+ oin us on this jaunt\, fealty to the Worcester Chapter is not a pre-requis
+ ite. Camping will be capped at 20 people (campsite regulation) but for any
+ one unable to join us for camping\, all are still welcome to come meet up 
+ with us at King Richard's Faire for a day of festivities.Several items of 
+ note:Members of the Jackalope Society will be given one week registration 
+ preference (August 30 - September 5)\, after that it'll be first come firs
+ t serve to register.If you're looking to just camp but not Ren-Fest\, this
+  event is not for you and we recommend looking for tenting elsewhere. Come
+  ready to revel renaissance style.You must secure your own ticket to King 
+ Richard's Faire! It can sell out\, so we recommend getting that ticket as 
+ soon as you're confirmed for this camp out (www.kingrichardsfaire.net). Ti
+ ckets are $40 for September 26.No meals will be provided on this camping t
+ rip\, however the Worcester Gear Shed can provide camp equipment. Cost for
+  the campsite is pay what you can ($5 is appreciated).Costumes for the Kin
+ g Richard's Faire are encouraged but not required! If you'd like to borrow
+  or need some tips\, your fearless leader is a massive nerd and can offer 
+ budget friendly recommendations.
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX000001D6F72AK
 SEQUENCE:0
-DTSTAMP:20260810T014113Z
+DTSTAMP:20260811T013812Z
 DTSTART;VALUE=DATE:20261009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
