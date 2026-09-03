@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UVX000001FKlp2AG
 SEQUENCE:0
-DTSTAMP:20260902T025925Z
+DTSTAMP:20260903T030152Z
 DTSTART;VALUE=DATE:20260912
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -37,9 +37,29 @@ DESCRIPTION:Saturday\, September 12\, 2026\nhttps://activities.outdoors.or
  t\, winter hat/mittens/gloves
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX000001Ho332AC
+SEQUENCE:0
+DTSTAMP:20260903T030152Z
+DTSTART;VALUE=DATE:20260915
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s September Social at Steel & Wire
+LOCATION:124 Millbury S\nWorcester\, MA
+DESCRIPTION:Tuesday\, September 15\, 2026 | 6:30 PM\nhttps://activities.ou
+ tdoors.org/s/oc-activity/a5UVX000001Ho332AC/\nJoin the Worcester 20s & 30s
+  for our September social! We'll be at Steel & Wire in Worcester on Tuesda
+ y\, September 15 at 6:30pm. Hang out on the patio with other young members
+  and leaders from the Worcester Chapter and learn about fun upcoming trips
+  and activities this fall. Steel & Wire has a light food menu and both alc
+ oholic and non-alcoholic beverages.  Looking forward to seeing you there! 
+ 20s & 30s is a group within AMC that is dedicated to encouraging people in
+  their 20s and 30s to enjoy the outdoors. Registration is required so the 
+ leader can be in touch in case of a change of venue.
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX000001FiWP2A0
 SEQUENCE:0
-DTSTAMP:20260902T025925Z
+DTSTAMP:20260903T030152Z
 DTSTART;VALUE=DATE:20260925
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -74,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001GWZd2AO
 SEQUENCE:0
-DTSTAMP:20260902T025925Z
+DTSTAMP:20260903T030152Z
 DTSTART;VALUE=DATE:20261002
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -115,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001D6F72AK
 SEQUENCE:0
-DTSTAMP:20260902T025925Z
+DTSTAMP:20260903T030152Z
 DTSTART;VALUE=DATE:20261009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
