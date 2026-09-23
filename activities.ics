@@ -4,26 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX000001IaxJ2AS
-SEQUENCE:0
-DTSTAMP:20260922T032522Z
-DTSTART;VALUE=DATE:20260922
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Ashland Town Forest Hike (20's and 30's)
-LOCATION:117 Winter S\nAshland\, MA 01721
-DESCRIPTION:Tuesday\, September 22\, 2026 | 5:30 PM\nhttps://activities.ou
- tdoors.org/s/oc-activity/a5UVX000001IaxJ2AS/\nJoin us for a hike in the As
- hland Town Forest (117 Winter Street\, Ashland MA). This hike will take us
-  on winding paths through the woods and we will visit 2 historic sites alo
- ng our route\, the Witch Caves and the Stone Bungalow ruins. The hike will
-  be 3 miles with 272 feet of elevation gain.Sturdy shoes\, bug spray\, a h
- eadlamp\, and water are required. No dogs please. 
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX000001FiWP2A0
 SEQUENCE:0
-DTSTAMP:20260922T032522Z
+DTSTAMP:20260923T032615Z
 DTSTART;VALUE=DATE:20260925
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -58,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001GWZd2AO
 SEQUENCE:0
-DTSTAMP:20260922T032522Z
+DTSTAMP:20260923T032615Z
 DTSTART;VALUE=DATE:20261002
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -99,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001D6F72AK
 SEQUENCE:0
-DTSTAMP:20260922T032522Z
+DTSTAMP:20260923T032615Z
 DTSTART;VALUE=DATE:20261009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -125,5 +108,60 @@ DESCRIPTION:Friday\, October 9\, 2026 | 12:00 PM\nhttps://activities.outdo
  will lead one road biking trip\, and there are nearby DIY paddling opportu
  nities. The trip cost this year is $175. Join us for this Worcester Chapte
  r classic which draws participants from all over the club.  
+END:VEVENT
+BEGIN:VEVENT
+UID:a5UVX000001JL6b2AG
+SEQUENCE:0
+DTSTAMP:20260923T032615Z
+DTSTART;VALUE=DATE:20261026
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s Full Moon Haunted Hike
+LOCATION:41 Mile Hill R\nWestminster\, MA 01473
+DESCRIPTION:Monday\, October 26\, 2026 | 6:30 PM\nhttps://activities.outdo
+ ors.org/s/oc-activity/a5UVX000001JL6b2AG/\nTRAIL CULT PRESENTS...FULL MOON
+  HIKE SERIES -- OCTOBER--CONFIDENTIAL--CLEARANCE: 20s & 30s\, ████
+ ███\, CultistsSUMMARYThe Moon. It's always there. Watching us. Who k
+ nows what it wants? ████ ███ knows. That's who. Also aliens.
+  Aliens know. But do we know about aliens?Some would have you believe █
+ █████████ that there are mysterious ████ cabals 
+ within world governments\, █████\, cults (that are less cool tha
+ n TRAIL CULT\, obviously)\, classified █████ programs\, and more
+  that hold the secrets ██████ to the universe and our neighbor
+ s within it.The airwaves and █████ internets are flooded with so
+ -called "reveals" of ███████ classified documents\, whistle 
+ blowers emerging from ████ the shadows\, and even the occasional 
+ ███████ extraterrestrial corpse popping up on TMZ. If these 
+ ███████\, █████\, ███\, and wackadoos are to
+  be believed\, the aliens have been █████ here for much longer t
+ han we thought. Such bastions of ████ science and knowledge as the
+  History Channel and National Enquirer ███ regularly showcase "theor
+ ies" on these supposed ███████ ancient aliens.But what's rea
+ lly going on there? Like █████ rrreeeaaalllllyyyy? Hm? HMM!?!? 
+ ███████████ We'll tell you. Yes. Us. We. The ██
+ ████ and the ██████ sponsored by ██████\, 
+ a subsidiary of ███████. That's who.October 26\, under the r
+ evealing light of the █████ full moon\, we shall evade prying ey
+ es and ██████ traverse into the wilderness to de-classify secr
+ ets\, ████\, myths\, urban legends\, and ██████.Using 
+ Wachusett Mountain as a ██████ base of operations\, we'll patr
+ ol the woods and divulge an extraterrestrial history lesson on ███
+ ████ the movers and shakers who have kept the ancient aliens debat
+ e alive. And why they are wrong. Oh so wrong. Like not even funny how wron
+ g they are. Like it's ██████████ how wrong they are.Th
+ is is the Full Moon Hike they don't want you to know about.Things to be aw
+ are of:There is █████████ ███ ██████Th
+ is is an accessible hike. We will hike as a group and take rests as needed
+ .Appropriate gear is required (boots/hiking shoes\, █████\, wate
+ r\, backpack)This hike will be at night. A flashlight is required.Costumes
+  are welcome in order to shroud yourself in anonymity. █████ are
+  always watching after all.TRAIL CULT hikes are one part hike\, one part h
+ istory lesson\, 30% occult trappings\, and a dash of ██████. P
+ ast hikes have included the history of parapsychology and ESP\, tarot\, th
+ e Salem Witch Trials\, Mothman\, and more. For other subjects\, please ref
+ er to file number ███████ for full report. Believers and non
+ -believers are welcome. ██████ are not.This hike is a 20s & 30
+ s affinity trip. If you are not a part of this group\, please consider a d
+ ifferent activity to sign up for.
 END:VEVENT
 END:VCALENDAR
