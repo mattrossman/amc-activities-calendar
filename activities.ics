@@ -4,44 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX000001FiWP2A0
-SEQUENCE:0
-DTSTAMP:20260924T031546Z
-DTSTART;VALUE=DATE:20260925
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s & 30s Renaissance Festival Camping Trip
-LOCATION:Parking lot\, 5 Pine S\nCarver\, MA 02330
-DESCRIPTION:Friday\, September 25\, 2026 | 5:00 PM\nhttps://activities.out
- doors.org/s/oc-activity/a5UVX000001FiWP2A0/\nHear ye! Hear ye! Embraceth a
- dventure and occasions of socialization most joyous!WE'RE GOING TO THE REN
- AISSANCE FESTIVAL\, PEASANTS!!! WOOOO-ETH!!!Join your fellow 20s & 30s for
-  a Ren-Fest camp out the weekend of September 25-27. We have a group camps
- ite reserved at Myles Standish State Forest for camping Friday and Saturda
- y night thus enabling easy access to King Richard's Faire in Carver\, MA o
- n Saturday\, September 26!20s & 30s folx from any chapter are welcome to j
- oin us on this jaunt\, fealty to the Worcester Chapter is not a pre-requis
- ite. Camping will be capped at 20 people (campsite regulation) but for any
- one unable to join us for camping\, all are still welcome to come meet up 
- with us at King Richard's Faire for a day of festivities.Several items of 
- note:Members of the Jackalope Society will be given one week registration 
- preference (August 30 - September 5)\, after that it'll be first come firs
- t serve to register.If you're looking to just camp but not Ren-Fest\, this
-  event is not for you and we recommend looking for tenting elsewhere. Come
-  ready to revel renaissance style.You must secure your own ticket to King 
- Richard's Faire! It can sell out\, so we recommend getting that ticket as 
- soon as you're confirmed for this camp out (www.kingrichardsfaire.net). Ti
- ckets are $40 for September 26.No meals will be provided on this camping t
- rip\, however the Worcester Gear Shed can provide camp equipment. Cost for
-  the campsite is pay what you can ($5 is appreciated).Costumes for the Kin
- g Richard's Faire are encouraged but not required! If you'd like to borrow
-  or need some tips\, your fearless leader is a massive nerd and can offer 
- budget friendly recommendations.
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX000001GWZd2AO
 SEQUENCE:0
-DTSTAMP:20260924T031546Z
+DTSTAMP:20260925T033359Z
 DTSTART;VALUE=DATE:20261002
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -82,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001D6F72AK
 SEQUENCE:0
-DTSTAMP:20260924T031546Z
+DTSTAMP:20260925T033359Z
 DTSTART;VALUE=DATE:20261009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -110,9 +75,63 @@ DESCRIPTION:Friday\, October 9\, 2026 | 12:00 PM\nhttps://activities.outdo
  r classic which draws participants from all over the club.  
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX000001FiWP2A0
+SEQUENCE:0
+DTSTAMP:20260925T033359Z
+DTSTART;VALUE=DATE:20261010
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s Renaissance Festival Social
+LOCATION:Parking lot\, 5 Pine S\nCarver\, MA 02330
+DESCRIPTION:Saturday\, October 10\, 2026 | 11:00 AM\nhttps://activities.ou
+ tdoors.org/s/oc-activity/a5UVX000001FiWP2A0/\nHear ye! Hear ye! Embraceth 
+ adventure and occasions of socialization most joyous!WE'RE GOING TO THE RE
+ NAISSANCE FESTIVAL\, PEASANTS!!! WOOOO-ETH!!!If you're looking at this and
+  going\, "wasn't this a camping trip?" Yes\, it was. Now it's not. Rain ra
+ in did not go away and in fact came those specific days. Good news\, the R
+ en Fest is around for a few more weekends. Bad news\, the campground is cl
+ osed for the season. So for our rain date ren-fest action\, it's just a da
+ y long social.Join your fellow 20s & 30s for a Ren-Fest camp out Social on
+  October 10!20s & 30s folx from any chapter are welcome to join us on this
+  jaunt\, fealty to the Worcester Chapter is not a pre-requisite.Several it
+ ems of note:You must secure your own ticket to King Richard's Faire\, we'r
+ e not buying for you! Purchase at  www.kingrichardsfaire.net.Costumes for 
+ the King Richard's Faire are encouraged but not required. If you'd like to
+  borrow or need some tips\, your fearless leader is a massive nerd and can
+  offer budget friendly recommendations.To best accommodate coordination\, 
+ plan on being out at the fest for the whole day.
+END:VEVENT
+BEGIN:VEVENT
+UID:a5UVX000001JOcL2AW
+SEQUENCE:0
+DTSTAMP:20260925T033359Z
+DTSTART;VALUE=DATE:20261025
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s Squam Traverse
+LOCATION:Sandwich Notch Road\nSandwich\, NH
+DESCRIPTION:Sunday\, October 25\, 2026\nhttps://activities.outdoors.org/s/
+ oc-activity/a5UVX000001JOcL2AW/\nJoin the Worcester 20s & 30s group for a 
+ hike in the Squam Lake region on Sunday\, October 25th! We will hike the S
+ quam Traverse\, an approximately 12-mile hike along the Crawford-Ridgepole
+  trail. We'll summit four peaks and enjoy views from this trail along the 
+ Squam Range.This hike will have approx. 2\,850 ft of elevation gain. Our i
+ ntention is to go at a roughly 1.5 mile per hour pace. Expect to be on tra
+ il for the full day.We intend to summit Mts Percival and Morgan\, which ar
+ e both "52 With a View" hikes. This will be a one-way hike with a car spot
+ . We may ask some participants to help with driving members of our group b
+ etween the trailheads.Sturdy shoes with laces\, at least 2 liters of water
+ \, nutritious snacks/lunch\, and appropriate layers of clothing are requir
+ ed. Participants should be prepared for numerous steep ups and downs and l
+ edgy and rough terrain in sections.No dogs\, please. Further details\, suc
+ h as start time and location\, will be provided to participants after they
+  complete the required screening form\, which will be sent after registeri
+ ng. Hope to have you join us!
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX000001JL6b2AG
 SEQUENCE:0
-DTSTAMP:20260924T031546Z
+DTSTAMP:20260925T033359Z
 DTSTART;VALUE=DATE:20261026
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
