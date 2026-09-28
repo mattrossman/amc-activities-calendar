@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UVX000001GWZd2AO
 SEQUENCE:0
-DTSTAMP:20260927T034731Z
+DTSTAMP:20260928T034705Z
 DTSTART;VALUE=DATE:20261002
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -45,9 +45,34 @@ DESCRIPTION:Friday\, October 2\, 2026 | 4:00 PM\nhttps://activities.outdoo
  and to hopefully see you out there!
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX000001JVlt2AG
+SEQUENCE:0
+DTSTAMP:20260928T034705Z
+DTSTART;VALUE=DATE:20261004
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s/30s Wachusett Hike & Social
+LOCATION:Princeton\, MA
+DESCRIPTION:Sunday\, October 4\, 2026 | 7:30 AM\nhttps://activities.outdoo
+ rs.org/s/oc-activity/a5UVX000001JVlt2AG/\nJoin the Worcester 20s and 30s f
+ or a morning hike at Wachusett Mountain\, followed by a nearby social acti
+ vity after the hike. This hike follows one of the more relaxed routes up W
+ achusett Mountain\, with a mix of service roads and trail paths up to the 
+ summit. Given the timing of the hike\, please plan to dress for the fall m
+ orning weather\, as temperatures may be colder at the start of the hike. T
+ he planned route is a little under four miles with under 1000 feet of elev
+ ation gain. We plan to take around three hours up and back\, which gives u
+ s plenty of time to get up and down with a short break at the top at a mod
+ erate pace.We recommend bringing:At least one liter of waterSnacksSuitable
+  clothes for the weather and hiking conditionsAppropriate footwear for tra
+ il environmentsHiking poles (optional)Funds for the post-hike activityPark
+ ing and post-hike activity information will be shared with confirmed parti
+ cipants once the trip survey is complete. 
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX000001D6F72AK
 SEQUENCE:0
-DTSTAMP:20260927T034731Z
+DTSTAMP:20260928T034705Z
 DTSTART;VALUE=DATE:20261009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -75,67 +100,70 @@ DESCRIPTION:Friday\, October 9\, 2026 | 12:00 PM\nhttps://activities.outdo
  r classic which draws participants from all over the club.  
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX000001JdTJ2A0
+SEQUENCE:0
+DTSTAMP:20260928T034705Z
+DTSTART;VALUE=DATE:20261010
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s Apple Picking at Berlin Orchards
+LOCATION:310 Sawyer Hill R\nBerlin\, MA
+DESCRIPTION:Saturday\, October 10\, 2026\nhttps://activities.outdoors.org/
+ s/oc-activity/a5UVX000001JdTJ2A0/\nJoin us for a quintessential New Englan
+ d fall pastime -- apple picking at Berlin Orchards in Central Mass! We'll 
+ ride the hay wagon to the fields and pick classic varieties\, including Jo
+ nagold\, Honey Crisp\, Golden Supreme\, Cortland\, Gala\, Paula Red and Ma
+ cintosh.Afterwards\, enjoy cider donuts\, apple cider\, and kettle corn\, 
+ compliments of the Worcester Chapter! Check out the farm store for pumpkin
+ s\, squash\, seasonal favorites\, and local honey.We are a group within AM
+ C that is dedicated to encouraging people in their 20s and 30s to enjoy th
+ e outdoors. Meet like-minded outdoor enthusiasts and enjoy a fun and relax
+ ing time at the orchard. We request folks to register so that we can get a
+  count of participants and get in touch if anything changes. Space is limi
+ ted. This event is in partnership with the Worcester Chapter Social Commit
+ tee.Please no dogs as they are not allowed in the orchard due to sanitary 
+ and safety reasons. Note: start and end times are approximate and details 
+ will be sent to registered participants.Note: The orchard charges admissio
+ n in the form of apple picking bags. Here's the breakdown:$40 - 1/2 bushel
+  bag (holds ~20 lbs worth of apples\, admits 5 people to orchard)$30 - 1 p
+ eck (holds ~10 lbs worth of apples\, admits 3 people to orchard) Particip
+ ants can feel free to split the cost of bags with fellow participants (tip
+ : bring cash if you plan to do so)\; arrangements can be made at the event
+ .
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX000001FiWP2A0
 SEQUENCE:0
-DTSTAMP:20260927T034731Z
+DTSTAMP:20260928T034705Z
 DTSTART;VALUE=DATE:20261010
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:20s & 30s Renaissance Festival Social
 LOCATION:Parking lot\, 5 Pine S\nCarver\, MA 02330
 DESCRIPTION:Saturday\, October 10\, 2026 | 11:00 AM\nhttps://activities.ou
- tdoors.org/s/oc-activity/a5UVX000001FiWP2A0/\nHear ye! Hear ye! Embraceth 
- adventure and occasions of socialization most joyous!WE'RE GOING TO THE RE
- NAISSANCE FESTIVAL\, PEASANTS!!! WOOOO-ETH!!!If you're looking at this and
-  going\, "wasn't this a camping trip?" Yes\, it was. Now it's not. Rain ra
- in did not go away and in fact came those specific days. Good news\, the R
- en Fest is around for a few more weekends. Bad news\, the campground is cl
- osed for the season. So for our rain date ren-fest action\, it's just a da
- y long social.Join your fellow 20s & 30s for a Ren-Fest camp out Social on
-  October 10!20s & 30s folx from any chapter are welcome to join us on this
-  jaunt\, fealty to the Worcester Chapter is not a pre-requisite.Several it
- ems of note:You must secure your own ticket to King Richard's Faire\, we'r
- e not buying for you! Purchase at  www.kingrichardsfaire.net.Costumes for 
- the King Richard's Faire are encouraged but not required. If you'd like to
-  borrow or need some tips\, your fearless leader is a massive nerd and can
-  offer budget friendly recommendations.To best accommodate coordination\, 
- plan on being out at the fest for the whole day.
-END:VEVENT
-BEGIN:VEVENT
-UID:a5UVX000001JUuf2AG
-SEQUENCE:0
-DTSTAMP:20260927T034731Z
-DTSTART;VALUE=DATE:20261017
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20's & 30's Interchapter Fall Fest: Blackstone River and Canal Her
- itage Sate Park Hike
-LOCATION:King Phillip's Trail parking Hartford Ave\, Uxbridge\, MA 01569\n
- Uxbridge\, MA
-DESCRIPTION:Saturday\, October 17\, 2026 | 12:30 PM\nhttps://activities.ou
- tdoors.org/s/oc-activity/a5UVX000001JUuf2AG/\nJoin our 20s and 30s group f
- or a short hike in Blackstone River and Canal State Park in Uxbridge Ma ar
- ea. There is a cool look out spot at the top of the trail. Keep in mind th
- at there will be a back up location for the hike with similar milage and e
- levation gain depending on conditions of the first trail. According to goo
- gle\, the parking lot is small depending on how many people sign up. We wi
- ll ask for people to carpool\, so please keep that in mind. If we do need 
- to carpool we will send out a spread sheet \,so people can coordinate. You
-  are also more than welcome to join us for an optional Interchapter (Worce
- ster\, Western MA\, SEM\, CT\, and RI) social after the hike. The drive is
-  around an hour west from our hike location.Please plan on arriving 15 -30
-  mins before 12:30Miles - 2.5Elevation Gain - 177ftWhat to Bring - Water 2
-  liters Snacks and LunchA pair of sturdy hiking shoes with good tractionBl
- aze Orange (bright hunting orange) shirt\, hoodie\, and/or a vest for hunt
- ing season.There is also an optional Interchapter social (5 chapters) at t
- he Tree House Brewing company that you can go to as well. Sign up is a sep
- arate post.Link for the social: https://activities.outdoors.org/s/oc-activ
- ity/a5UVX000001Id8o2AC/act00023773
+ tdoors.org/s/oc-activity/a5UVX000001FiWP2A0/\nTHERE IS A BUG WITH REGISTRA
+ TION. IF YOU CANNOT REGISTER FOR THIS SOCIAL\, EMAIL ROB at ROBRAFGON@GMAI
+ L.COM.Hear ye! Hear ye! Embraceth adventure and occasions of socialization
+  most joyous!WE'RE GOING TO THE RENAISSANCE FESTIVAL\, PEASANTS!!! WOOOO-E
+ TH!!!If you're looking at this and going\, "wasn't this a camping trip?" Y
+ es\, it was. Now it's not. Rain rain did not go away and in fact came thos
+ e specific days. Good news\, the Ren Fest is around for a few more weekend
+ s. Bad news\, the campground is closed for the season. So for our rain dat
+ e ren-fest action\, it's just a day long social.Join your fellow 20s & 30s
+  for a Ren-Fest camp out Social on October 10!20s & 30s folx from any chap
+ ter are welcome to join us on this jaunt\, fealty to the Worcester Chapter
+  is not a pre-requisite.Several items of note:You must secure your own tic
+ ket to King Richard's Faire\, we're not buying for you! Purchase at www.ki
+ ngrichardsfaire.net.Costumes for the King Richard's Faire are encouraged b
+ ut not required. If you'd like to borrow or need some tips\, your fearless
+  leader is a massive nerd and can offer budget friendly recommendations.To
+  best accommodate coordination\, plan on being out at the fest for the who
+ le day.
 END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001JOcL2AW
 SEQUENCE:0
-DTSTAMP:20260927T034731Z
+DTSTAMP:20260928T034705Z
 DTSTART;VALUE=DATE:20261025
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -162,7 +190,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001JL6b2AG
 SEQUENCE:0
-DTSTAMP:20260927T034731Z
+DTSTAMP:20260928T034705Z
 DTSTART;VALUE=DATE:20261026
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
