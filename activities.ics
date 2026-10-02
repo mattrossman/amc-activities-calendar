@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UVX000001GWZd2AO
 SEQUENCE:0
-DTSTAMP:20261001T041737Z
+DTSTAMP:20261002T041047Z
 DTSTART;VALUE=DATE:20261002
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -47,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001JVlt2AG
 SEQUENCE:0
-DTSTAMP:20261001T041737Z
+DTSTAMP:20261002T041047Z
 DTSTART;VALUE=DATE:20261004
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001K31B2AS
 SEQUENCE:0
-DTSTAMP:20261001T041737Z
+DTSTAMP:20261002T041047Z
 DTSTART;VALUE=DATE:20261005
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001D6F72AK
 SEQUENCE:0
-DTSTAMP:20261001T041737Z
+DTSTAMP:20261002T041047Z
 DTSTART;VALUE=DATE:20261009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -119,7 +119,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001JdTJ2A0
 SEQUENCE:0
-DTSTAMP:20261001T041737Z
+DTSTAMP:20261002T041047Z
 DTSTART;VALUE=DATE:20261010
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -151,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001FiWP2A0
 SEQUENCE:0
-DTSTAMP:20261001T041737Z
+DTSTAMP:20261002T041047Z
 DTSTART;VALUE=DATE:20261010
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -178,9 +178,74 @@ DESCRIPTION:Saturday\, October 10\, 2026 | 11:00 AM\nhttps://activities.ou
  le day
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX000001Jjgn2AC
+SEQUENCE:0
+DTSTAMP:20261002T041047Z
+DTSTART;VALUE=DATE:20261017
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20's & 30's Interchapter Fall Fest: Almuerzo con los 20's & 30's -
+  Cooking Brunch at Douglas State Forest
+LOCATION:Douglas\, MA 01516
+DESCRIPTION:Saturday\, October 17\, 2026 | 10:00 AM\nhttps://activities.ou
+ tdoors.org/s/oc-activity/a5UVX000001Jjgn2AC/\nJoin the Worcester 20's & 30
+ 's for an outdoor cooking lesson and short hike at Douglas State Forest!Sa
+ l Vazquez Reyes will teach the group how to make sopes\, a tradition Mexic
+ an dish made with corn masa and beans. For the toppings\, we will make a c
+ actus salad and salsa. For drinks\, we can make a refreshing Jamaica agua 
+ fresca. After cooking\, we will have a nice brunch all together. During th
+ e instruction\, attendees will work in small groups at cooking stations\, 
+ with use of a charcoal grill.After brunch\, we will have the option to do 
+ a short hike at Douglas State Forest. The exact length and route of this h
+ ike will depend on participant interest\, and how much time is leftover be
+ fore the full Interchapter Social at Treehouse Brewing at 4pm (more detail
+ s on that below). Also\, for this hike afterward\, it is requested that pa
+ rticpants wear something of a blaze orange color\, as it is hunting season
+ . Please reach out to Luke if you don't have any of these items.As time ge
+ ts closer\, participants will be sent out an excel sheet to sign up for wh
+ at cooking equipment they can bring. Please plan to bring at least a coupl
+ e of these items to ensure we have enough for each group. These items incl
+ ude cooking pan\, cutting board\, knife\, saucepan\, tongs\, wooden spoons
+ \, and bowls. The leaders will bring all of the food needed for cooking\, 
+ and there will be a cost of $12 per participant to help cover this. Detail
+ s for this payment will be sent after registration. Registration is requir
+ ed for attendance\, and registration closes on Tuesday 10/13 at 8pm to all
+ ow for us to prepare accordingly. Hope to have you join us!This event is p
+ art of the 20's & 30's Interchapter Fall Fest: Social at Tree House Brewin
+ g Company in Charlton\, MA with the Connecticut\, Narragansett\, Southeast
+ ern MA\, Western MA\, and Worcester MA chapters. After the hike\, particip
+ ants are encouraged to attend the Social at Treehouse Brewing in Charlton\
+ , MA at 4pm. Please register for the Tree House Social at this link: https
+ ://activities.outdoors.org/s/oc-activity/a5UVX000001Id8o/act00023773.
+END:VEVENT
+BEGIN:VEVENT
+UID:a5UVX000001K5m92AC
+SEQUENCE:0
+DTSTAMP:20261002T041047Z
+DTSTART;VALUE=DATE:20261017
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20's & 30's Interchapter Fall Fest: Wells State Park
+LOCATION:Wells State Park\, 159 Walker Pond R\nSturbridge\, MA 01566
+DESCRIPTION:Saturday\, October 17\, 2026 | 11:45 AM\nhttps://activities.ou
+ tdoors.org/s/oc-activity/a5UVX000001K5m92AC/\nCelebrate fall and join us f
+ or a 6 mile hike through the scenic forests of Wells State Park. The trail
+ s will offer easy to moderate terrain with a total elevation gain of 500-f
+ t and we plan to move at a moderate pace between 1.5 and 2 mph.Proper equi
+ pment will be required for this hike\, including: hiking and weather appro
+ priate clothing\, water\, a day pack\, trail snacks\, and raingear. No dog
+ s please. As hunting season has begun\, it is advisable to wear blaze ora
+ nge (vest or hat) while hiking.After the hike\, you are invited to join us
+  at a nearby (15 minutes away) social with other 20's and 30's from the Na
+ rragansett\, Worcester\, Western MA\, Connecticut\, and Southeast Massachu
+ setts AMC chapters.If you are interested\, please register for the Tree Ho
+ use Social at this link: https://activities.outdoors.org/s/oc-activity/a5U
+ VX000001Id8o/act00023773.
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX000001JOcL2AW
 SEQUENCE:0
-DTSTAMP:20261001T041737Z
+DTSTAMP:20261002T041047Z
 DTSTART;VALUE=DATE:20261025
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -207,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001JL6b2AG
 SEQUENCE:0
-DTSTAMP:20261001T041737Z
+DTSTAMP:20261002T041047Z
 DTSTART;VALUE=DATE:20261026
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
