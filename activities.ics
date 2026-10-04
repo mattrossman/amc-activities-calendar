@@ -6,7 +6,7 @@ X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
 UID:a5UVX000001GWZd2AO
 SEQUENCE:0
-DTSTAMP:20261003T035313Z
+DTSTAMP:20261004T042552Z
 DTSTART;VALUE=DATE:20261002
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -47,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001JVlt2AG
 SEQUENCE:0
-DTSTAMP:20261003T035313Z
+DTSTAMP:20261004T042552Z
 DTSTART;VALUE=DATE:20261004
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001K31B2AS
 SEQUENCE:0
-DTSTAMP:20261003T035313Z
+DTSTAMP:20261004T042552Z
 DTSTART;VALUE=DATE:20261005
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001D6F72AK
 SEQUENCE:0
-DTSTAMP:20261003T035313Z
+DTSTAMP:20261004T042552Z
 DTSTART;VALUE=DATE:20261009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -117,9 +117,38 @@ DESCRIPTION:Friday\, October 9\, 2026 | 12:00 PM\nhttps://activities.outdo
  r classic which draws participants from all over the club.  
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX000001FiWP2A0
+SEQUENCE:0
+DTSTAMP:20261004T042552Z
+DTSTART;VALUE=DATE:20261010
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s Renaissance Festival Social
+LOCATION:Parking lot\, 5 Pine S\nCarver\, MA 02330
+DESCRIPTION:Saturday\, October 10\, 2026 | 11:00 AM\nhttps://activities.ou
+ tdoors.org/s/oc-activity/a5UVX000001FiWP2A0/\nTHERE IS A BUG WITH REGISTRA
+ TION. IF YOU CANNOT REGISTER FOR THIS SOCIAL\, EMAIL ROB at ROBRAFGON@GMAI
+ L.COM.Hear ye! Hear ye! Embraceth adventure and occasions of socialization
+  most joyous!WE'RE GOING TO THE RENAISSANCE FESTIVAL\, PEASANTS!!! WOOOO-E
+ TH!!!If you're looking at this and going\, "wasn't this a camping trip?" Y
+ es\, it was. Now it's not. Rain rain did not go away and in fact came thos
+ e specific days. Good news\, the Ren Fest is around for a few more weekend
+ s. Bad news\, the campground is closed for the season. So for our rain dat
+ e ren-fest action\, it's just a day long social.Join your fellow 20s & 30s
+  for a Ren-Fest camp out Social on October 10!20s & 30s folx from any chap
+ ter are welcome to join us on this jaunt\, fealty to the Worcester Chapter
+  is not a pre-requisite.Several items of note:You must secure your own tic
+ ket to King Richard's Faire\, we're not buying for you! Purchase at www.ki
+ ngrichardsfaire.net.Costumes for the King Richard's Faire are encouraged b
+ ut not required. If you'd like to borrow or need some tips\, your fearless
+  leader is a massive nerd and can offer budget friendly recommendations.To
+  best accommodate coordination\, plan on being out at the fest for the who
+ le day
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX000001JdTJ2A0
 SEQUENCE:0
-DTSTAMP:20261003T035313Z
+DTSTAMP:20261004T042552Z
 DTSTART;VALUE=DATE:20261010
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -149,38 +178,32 @@ DESCRIPTION:Saturday\, October 10\, 2026\nhttps://activities.outdoors.org/
  .
 END:VEVENT
 BEGIN:VEVENT
-UID:a5UVX000001FiWP2A0
+UID:a5UVX000001KJyn2AG
 SEQUENCE:0
-DTSTAMP:20261003T035313Z
-DTSTART;VALUE=DATE:20261010
+DTSTAMP:20261004T042552Z
+DTSTART;VALUE=DATE:20261011
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s & 30s Renaissance Festival Social
-LOCATION:Parking lot\, 5 Pine S\nCarver\, MA 02330
-DESCRIPTION:Saturday\, October 10\, 2026 | 11:00 AM\nhttps://activities.ou
- tdoors.org/s/oc-activity/a5UVX000001FiWP2A0/\nTHERE IS A BUG WITH REGISTRA
- TION. IF YOU CANNOT REGISTER FOR THIS SOCIAL\, EMAIL ROB at ROBRAFGON@GMAI
- L.COM.Hear ye! Hear ye! Embraceth adventure and occasions of socialization
-  most joyous!WE'RE GOING TO THE RENAISSANCE FESTIVAL\, PEASANTS!!! WOOOO-E
- TH!!!If you're looking at this and going\, "wasn't this a camping trip?" Y
- es\, it was. Now it's not. Rain rain did not go away and in fact came thos
- e specific days. Good news\, the Ren Fest is around for a few more weekend
- s. Bad news\, the campground is closed for the season. So for our rain dat
- e ren-fest action\, it's just a day long social.Join your fellow 20s & 30s
-  for a Ren-Fest camp out Social on October 10!20s & 30s folx from any chap
- ter are welcome to join us on this jaunt\, fealty to the Worcester Chapter
-  is not a pre-requisite.Several items of note:You must secure your own tic
- ket to King Richard's Faire\, we're not buying for you! Purchase at www.ki
- ngrichardsfaire.net.Costumes for the King Richard's Faire are encouraged b
- ut not required. If you'd like to borrow or need some tips\, your fearless
-  leader is a massive nerd and can offer budget friendly recommendations.To
-  best accommodate coordination\, plan on being out at the fest for the who
- le day
+SUMMARY:20s & 30s Dayhike to Royalston Falls and Socializing at Red Apple 
+ Farms
+LOCATION:362 Athol-Richmond R\nRoyalston\, MA 01368
+DESCRIPTION:Sunday\, October 11\, 2026\nhttps://activities.outdoors.org/s/
+ oc-activity/a5UVX000001KJyn2AG/\nJoin us on a hike to one of Massachusetts
+ ’ most stunning waterfalls\, followed by some apple picking and socializ
+ ing at Red Apple Farm.We will start with an out-and-back hike to Royalston
+  Falls\, covering about 2 miles with a total elevation gain of 300 ft. We 
+ will then head to Red Apple Farm to pick apples\, grab food\, and enjoy so
+ me live music.The trail will include sections of moderate terrain and we w
+ ill be moving at a moderate pace. In particular\, there are some steep sec
+ tions that may have wet\, slippery leaves. Proper equipment will be requir
+ ed for this hike\, including hiking and weather appropriate clothing and w
+ ater. No dogs please. We are a group within AMC that is dedicated to enco
+ uraging people in their 20s and 30s to enjoy the outdoors.
 END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001Jjgn2AC
 SEQUENCE:0
-DTSTAMP:20261003T035313Z
+DTSTAMP:20261004T042552Z
 DTSTART;VALUE=DATE:20261017
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -221,7 +244,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001K5m92AC
 SEQUENCE:0
-DTSTAMP:20261003T035313Z
+DTSTAMP:20261004T042552Z
 DTSTART;VALUE=DATE:20261017
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -245,7 +268,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001JOcL2AW
 SEQUENCE:0
-DTSTAMP:20261003T035313Z
+DTSTAMP:20261004T042552Z
 DTSTART;VALUE=DATE:20261025
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -272,7 +295,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001JL6b2AG
 SEQUENCE:0
-DTSTAMP:20261003T035313Z
+DTSTAMP:20261004T042552Z
 DTSTART;VALUE=DATE:20261026
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
