@@ -4,26 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX000001K31B2AS
-SEQUENCE:0
-DTSTAMP:20261005T041105Z
-DTSTART;VALUE=DATE:20261005
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Callahan State Park Hike (20s and 30s)
-LOCATION:180 Millwood Street\nFramingham\, MA 01701
-DESCRIPTION:Monday\, October 5\, 2026 | 5:45 PM\nhttps://activities.outdoo
- rs.org/s/oc-activity/a5UVX000001K31B2AS/\nJoin us for a hike at Callahan S
- tate Park (180 Millwood Street\, Framingham MA). This hike will take us th
- rough open meadows and wooded trails. There will be a few sites along our 
- route including Eagle Pond and the Earthen Dam. The hike will be 3.3 miles
-  with 219 feet of elevation gain.Sturdy shoes\, bug spray\, a headlamp\, a
- nd water are required. No dogs please. 
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX000001D6F72AK
 SEQUENCE:0
-DTSTAMP:20261005T041105Z
+DTSTAMP:20261006T045934Z
 DTSTART;VALUE=DATE:20261009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -51,9 +34,38 @@ DESCRIPTION:Friday\, October 9\, 2026 | 12:00 PM\nhttps://activities.outdo
  r classic which draws participants from all over the club.  
 END:VEVENT
 BEGIN:VEVENT
+UID:a5UVX000001FiWP2A0
+SEQUENCE:0
+DTSTAMP:20261006T045934Z
+DTSTART;VALUE=DATE:20261010
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:20s & 30s Renaissance Festival Social
+LOCATION:Parking lot\, 5 Pine S\nCarver\, MA 02330
+DESCRIPTION:Saturday\, October 10\, 2026 | 11:00 AM\nhttps://activities.ou
+ tdoors.org/s/oc-activity/a5UVX000001FiWP2A0/\nTHERE IS A BUG WITH REGISTRA
+ TION. IF YOU CANNOT REGISTER FOR THIS SOCIAL\, EMAIL ROB at ROBRAFGON@GMAI
+ L.COM.Hear ye! Hear ye! Embraceth adventure and occasions of socialization
+  most joyous!WE'RE GOING TO THE RENAISSANCE FESTIVAL\, PEASANTS!!! WOOOO-E
+ TH!!!If you're looking at this and going\, "wasn't this a camping trip?" Y
+ es\, it was. Now it's not. Rain rain did not go away and in fact came thos
+ e specific days. Good news\, the Ren Fest is around for a few more weekend
+ s. Bad news\, the campground is closed for the season. So for our rain dat
+ e ren-fest action\, it's just a day long social.Join your fellow 20s & 30s
+  for a Ren-Fest camp out Social on October 10!20s & 30s folx from any chap
+ ter are welcome to join us on this jaunt\, fealty to the Worcester Chapter
+  is not a pre-requisite.Several items of note:You must secure your own tic
+ ket to King Richard's Faire\, we're not buying for you! Purchase at www.ki
+ ngrichardsfaire.net.Costumes for the King Richard's Faire are encouraged b
+ ut not required. If you'd like to borrow or need some tips\, your fearless
+  leader is a massive nerd and can offer budget friendly recommendations.To
+  best accommodate coordination\, plan on being out at the fest for the who
+ le day
+END:VEVENT
+BEGIN:VEVENT
 UID:a5UVX000001JdTJ2A0
 SEQUENCE:0
-DTSTAMP:20261005T041105Z
+DTSTAMP:20261006T045934Z
 DTSTART;VALUE=DATE:20261010
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -83,38 +95,9 @@ DESCRIPTION:Saturday\, October 10\, 2026\nhttps://activities.outdoors.org/
  .
 END:VEVENT
 BEGIN:VEVENT
-UID:a5UVX000001FiWP2A0
-SEQUENCE:0
-DTSTAMP:20261005T041105Z
-DTSTART;VALUE=DATE:20261010
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:20s & 30s Renaissance Festival Social
-LOCATION:Parking lot\, 5 Pine S\nCarver\, MA 02330
-DESCRIPTION:Saturday\, October 10\, 2026 | 11:00 AM\nhttps://activities.ou
- tdoors.org/s/oc-activity/a5UVX000001FiWP2A0/\nTHERE IS A BUG WITH REGISTRA
- TION. IF YOU CANNOT REGISTER FOR THIS SOCIAL\, EMAIL ROB at ROBRAFGON@GMAI
- L.COM.Hear ye! Hear ye! Embraceth adventure and occasions of socialization
-  most joyous!WE'RE GOING TO THE RENAISSANCE FESTIVAL\, PEASANTS!!! WOOOO-E
- TH!!!If you're looking at this and going\, "wasn't this a camping trip?" Y
- es\, it was. Now it's not. Rain rain did not go away and in fact came thos
- e specific days. Good news\, the Ren Fest is around for a few more weekend
- s. Bad news\, the campground is closed for the season. So for our rain dat
- e ren-fest action\, it's just a day long social.Join your fellow 20s & 30s
-  for a Ren-Fest camp out Social on October 10!20s & 30s folx from any chap
- ter are welcome to join us on this jaunt\, fealty to the Worcester Chapter
-  is not a pre-requisite.Several items of note:You must secure your own tic
- ket to King Richard's Faire\, we're not buying for you! Purchase at www.ki
- ngrichardsfaire.net.Costumes for the King Richard's Faire are encouraged b
- ut not required. If you'd like to borrow or need some tips\, your fearless
-  leader is a massive nerd and can offer budget friendly recommendations.To
-  best accommodate coordination\, plan on being out at the fest for the who
- le day
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX000001KJyn2AG
 SEQUENCE:0
-DTSTAMP:20261005T041105Z
+DTSTAMP:20261006T045934Z
 DTSTART;VALUE=DATE:20261011
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -137,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001Jjgn2AC
 SEQUENCE:0
-DTSTAMP:20261005T041105Z
+DTSTAMP:20261006T045934Z
 DTSTART;VALUE=DATE:20261017
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -178,7 +161,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001K5m92AC
 SEQUENCE:0
-DTSTAMP:20261005T041105Z
+DTSTAMP:20261006T045934Z
 DTSTART;VALUE=DATE:20261017
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -202,7 +185,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001JOcL2AW
 SEQUENCE:0
-DTSTAMP:20261005T041105Z
+DTSTAMP:20261006T045934Z
 DTSTART;VALUE=DATE:20261025
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -229,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001JL6b2AG
 SEQUENCE:0
-DTSTAMP:20261005T041105Z
+DTSTAMP:20261006T045934Z
 DTSTART;VALUE=DATE:20261026
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
