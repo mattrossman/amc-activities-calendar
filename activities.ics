@@ -4,39 +4,9 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:AMC Worcester 20's & 30's
 X-WR-CALNAME:AMC Worcester 20's & 30's
 BEGIN:VEVENT
-UID:a5UVX000001D6F72AK
-SEQUENCE:0
-DTSTAMP:20261012T042700Z
-DTSTART;VALUE=DATE:20261009
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Annual Maine House Autumn Spectacular
-LOCATION:Bryant Pond\nWoodstock\, ME
-DESCRIPTION:Friday\, October 9\, 2026 | 12:00 PM\nhttps://activities.outdo
- ors.org/s/oc-activity/a5UVX000001D6F72AK/\n You are cordially invited to 
- join the Worcester Chapter for our 33rd anniversary trip to Western Maine 
- to enjoy the gorgeous autumn colors of Maine over Columbus Day weekend. We
- 'll be staying at the Maine House\, located on the shore of beautiful Lake
-  Christopher in the village of Bryant Pond. The charming historic house wi
- ll be the base for our many hikes and other outdoor activities. The Maine 
- House has cozy private rooms for couples and comfy bunks for singles. The 
- dining area has a panoramic view over the lake\, and a large living room w
- ith a fireplace invites all to relax and socialize during the evening. In 
- addition\, there is a hot tub and a steam room to help you recover after y
- our day of activities. Paddle right out the door on Lake Christopher in ca
- noes provided by the house. The trip fee includes three nights lodging (Fr
- i - Sun)\, three breakfasts and make-your-own-lunch buffets\, and two tast
- y dinners. Everyone helps with set-up or clean-up for a meal. With about 3
- 0 people on the trip\, we will be able to offer various levels of hikes ea
- ch day\, ranging from easy to strenuous\, as well as other activities. We 
- will lead one road biking trip\, and there are nearby DIY paddling opportu
- nities. The trip cost this year is $175. Join us for this Worcester Chapte
- r classic which draws participants from all over the club.  
-END:VEVENT
-BEGIN:VEVENT
 UID:a5UVX000001Jjgn2AC
 SEQUENCE:0
-DTSTAMP:20261012T042700Z
+DTSTAMP:20261013T053441Z
 DTSTART;VALUE=DATE:20261017
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -77,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001K5m92AC
 SEQUENCE:0
-DTSTAMP:20261012T042700Z
+DTSTAMP:20261013T053441Z
 DTSTART;VALUE=DATE:20261017
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -101,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001JOcL2AW
 SEQUENCE:0
-DTSTAMP:20261012T042700Z
+DTSTAMP:20261013T053441Z
 DTSTART;VALUE=DATE:20261025
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -128,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001JL6b2AG
 SEQUENCE:0
-DTSTAMP:20261012T042700Z
+DTSTAMP:20261013T053441Z
 DTSTART;VALUE=DATE:20261026
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -183,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a5UVX000001KmBB2A0
 SEQUENCE:0
-DTSTAMP:20261012T042700Z
+DTSTAMP:20261013T053441Z
 DTSTART;VALUE=DATE:20261028
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
